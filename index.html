@@ -1,0 +1,56 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="theme-color" content="#111018"><meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="LE RADAR">
+<link rel="manifest" href="./manifest.webmanifest"><link rel="icon" href="./icons/icon-192.png">
+<title>LE RADAR 👑</title>
+<style>
+:root{--bg:#0e0d13;--panel:#191720;--panel2:#211f2b;--line:#34313e;--text:#f5f1f7;--muted:#aaa4b5;--gold:#e5c477;--pink:#e7a5bc}
+*{box-sizing:border-box}body{margin:0;background:radial-gradient(ellipse at top,#282132 0,#0e0d13 48%);color:var(--text);font:15px/1.5 -apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif}
+header{padding:24px 18px 16px;max-width:980px;margin:auto}h1{font-size:28px;letter-spacing:.08em;margin:0;color:var(--gold)}header p{margin:4px 0;color:var(--muted)}
+main{max-width:980px;margin:auto;padding:0 14px 48px}.tabs{display:flex;gap:8px;overflow:auto;padding:8px 0 14px;position:sticky;top:0;background:#0e0d13ed;z-index:3}
+.tab{white-space:nowrap;border:1px solid var(--line);background:var(--panel);color:var(--muted);border-radius:999px;padding:9px 13px;font-weight:650}.tab.active{background:var(--gold);color:#211b11;border-color:var(--gold)}
+.panel{display:none}.panel.active{display:block}.intro{padding:16px;background:linear-gradient(120deg,#282231,#191720);border:1px solid var(--line);border-radius:18px;margin-bottom:14px}.intro h2{margin:0 0 4px;font-size:22px}.muted{color:var(--muted)}.meta{font-size:12px;color:var(--muted)}
+.toolbar{display:flex;gap:8px;flex-wrap:wrap;margin:12px 0}.toolbar button,.action{background:var(--panel2);color:var(--text);border:1px solid var(--line);border-radius:10px;padding:9px 12px}
+.feed{display:grid;gap:12px}.article{background:var(--panel);border:1px solid var(--line);border-radius:16px;padding:15px}.article h3{font-size:17px;line-height:1.3;margin:5px 0 8px}.article a{color:var(--gold);text-decoration:none}.article p{margin:6px 0}.tag{display:inline-block;font-size:11px;color:#221b0f;background:var(--gold);border-radius:99px;padding:2px 8px;font-weight:700}.empty{padding:22px;text-align:center;border:1px dashed var(--line);border-radius:15px;color:var(--muted)}
+.todo-form{display:flex;gap:8px;margin:12px 0}.todo-form input{flex:1;min-width:0}.todo-form input,.todo-form select{background:var(--panel);border:1px solid var(--line);border-radius:10px;color:var(--text);padding:11px}
+.task{display:flex;align-items:center;gap:10px;padding:12px;background:var(--panel);border:1px solid var(--line);border-radius:12px;margin:8px 0}.task input{width:20px;height:20px;accent-color:var(--gold)}.task.done span{text-decoration:line-through;color:var(--muted)}.task button{margin-left:auto;border:0;background:none;color:var(--pink);font-size:18px}
+.progress{height:8px;background:var(--line);border-radius:20px;overflow:hidden}.progress div{height:100%;background:var(--gold);width:0}
+footer{max-width:980px;margin:auto;padding:18px;color:var(--muted);font-size:12px}
+@media(min-width:700px){.feed{grid-template-columns:repeat(2,minmax(0,1fr))}}
+</style></head>
+<body>
+<header><h1>LE RADAR 👑</h1><p>Ta veille. Tes décisions. Ton avance.</p></header>
+<main>
+<nav class="tabs" aria-label="Navigation">
+<button class="tab active" data-tab="tech">TECH & IA</button><button class="tab" data-tab="finance">FINANCE</button><button class="tab" data-tab="politique">POLITIQUE</button><button class="tab" data-tab="feminisme">FÉMINISME</button><button class="tab" data-tab="todo">QUEEN TO DO</button>
+</nav>
+<section class="panel active" id="tech"><div class="intro"><h2>TECH & IA</h2><div class="muted">IA, OpenAI, Anthropic, Mistral, cloud, data, cybersécurité et marché IT.</div><div class="meta" id="tech-updated">Chargement de la veille…</div></div><div class="toolbar"><button onclick="loadFeed()">↻ Actualiser</button><button onclick="setFilter('tech','all')">Tout</button><button onclick="setFilter('tech','ai')">IA</button><button onclick="setFilter('tech','cloud')">Cloud & data</button></div><div class="feed" id="tech-feed"></div></section>
+<section class="panel" id="finance"><div class="intro"><h2>FINANCE & ÉCONOMIE</h2><div class="muted">Énergie, utilities, marchés, entreprises suivies et économie.</div><div class="meta" id="finance-updated">Chargement de la veille…</div></div><div class="toolbar"><button onclick="loadFeed()">↻ Actualiser</button><button onclick="setFilter('finance','all')">Tout</button><button onclick="setFilter('finance','companies')">Entreprises suivies</button><button onclick="setFilter('finance','economy')">Économie & marchés</button></div><div class="feed" id="finance-feed"></div></section>
+<section class="panel" id="politique"><div class="intro"><h2>POLITIQUE</h2><div class="muted">Vie politique française, annonces, débats et décisions publiques.</div></div><div class="empty">Cette rubrique sera alimentée dans une prochaine évolution. Les faits, déclarations et analyses devront être distingués.</div></section>
+<section class="panel" id="feminisme"><div class="intro"><h2>FÉMINISME</h2><div class="muted">Droits des femmes, égalité, lois, santé, violences et actualité internationale.</div></div><div class="empty">Cette rubrique sera alimentée dans une prochaine évolution.</div></section>
+<section class="panel" id="todo"><div class="intro"><h2>QUEEN TO DO</h2><div class="muted" id="week-label"></div><div class="progress"><div id="progress-bar"></div></div><div class="meta" id="progress-label"></div></div>
+<form class="todo-form" id="task-form"><input id="task-input" placeholder="Ajouter une tâche…" maxlength="120" required><button class="action">Ajouter</button></form><div id="tasks"></div><div class="toolbar"><button onclick="exportTasks()">Exporter mes tâches</button><button onclick="document.getElementById('import-file').click()">Importer</button><input id="import-file" type="file" accept="application/json" hidden></div></section>
+</main><footer>Les articles proviennent de flux RSS publics. Les titres et dates sont issus des sources ; ouvre l’article pour lire le contenu complet. Cette veille n’est ni un conseil financier ni une recommandation d’investissement.</footer>
+<script>
+let allArticles=[], filters={tech:'all',finance:'all'};
+document.querySelectorAll('.tab').forEach(b=>b.addEventListener('click',()=>{document.querySelectorAll('.tab,.panel').forEach(x=>x.classList.remove('active'));b.classList.add('active');document.getElementById(b.dataset.tab).classList.add('active')}));
+function esc(s){return String(s||'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]))}
+function age(d){if(!d)return '';let dt=new Date(d);return isNaN(dt)?'':dt.toLocaleString('fr-FR',{dateStyle:'medium',timeStyle:'short'})}
+function renderFeed(cat){let list=allArticles.filter(a=>a.category===cat);let f=filters[cat];if(f==='ai')list=list.filter(a=>/intelligence artificielle|openai|anthropic|mistral|ia\b|llm|gpt|claude/i.test(a.title+' '+a.source));if(f==='cloud')list=list.filter(a=>/cloud|data|cyber|Microsoft|AWS|Google/i.test(a.title+' '+a.source));if(f==='companies')list=list.filter(a=>/engie|totalenergies|veolia|edf|amundi|société générale|societe generale/i.test(a.title+' '+a.summary));if(f==='economy')list=list.filter(a=>!/engie|totalenergies|veolia|edf|amundi|société générale|societe generale/i.test(a.title+' '+a.summary));let el=document.getElementById(cat+'-feed');el.innerHTML=list.length?list.map(a=>`<article class="article"><span class="tag">${esc(a.topic||'ACTUALITÉ')}</span><div class="meta">${esc(a.source||'Source')} · ${esc(age(a.published))}</div><h3><a href="${esc(a.url)}" target="_blank" rel="noopener">${esc(a.title)}</a></h3><p>${esc(a.summary||'Ouvre la source pour consulter les détails.')}</p><div class="meta">À retenir : article à examiner à la lumière de sa source originale.</div></article>`).join(''):'<div class="empty">Aucun article trouvé dans cette catégorie pour le moment. La prochaine collecte automatique actualisera cette rubrique.</div>'}
+async function loadFeed(){try{let r=await fetch('./data/veille.json?ts='+Date.now());if(!r.ok)throw Error('feed absent');let j=await r.json();allArticles=j.articles||[];for(let c of ['tech','finance']){document.getElementById(c+'-updated').textContent='Dernière collecte : '+(age(j.generated_at)||'date inconnue');renderFeed(c)}}catch(e){for(let c of ['tech','finance']){document.getElementById(c+'-updated').textContent='Aucune collecte publiée pour le moment';document.getElementById(c+'-feed').innerHTML='<div class="empty">La veille apparaîtra après la première exécution du robot quotidien.</div>'}}}
+function setFilter(c,f){filters[c]=f;renderFeed(c)}
+function mondayKey(){let d=new Date(),day=(d.getDay()+6)%7;d.setDate(d.getDate()-day);d.setHours(0,0,0,0);return d.toISOString().slice(0,10)}
+const week=mondayKey(), storageKey='le-radar-tasks-'+week;let tasks=JSON.parse(localStorage.getItem(storageKey)||'[]');
+document.getElementById('week-label').textContent='Semaine du lundi '+new Date(week+'T12:00:00').toLocaleDateString('fr-FR',{day:'numeric',month:'long',year:'numeric'});
+function saveTasks(){localStorage.setItem(storageKey,JSON.stringify(tasks));drawTasks()}
+function drawTasks(){let done=tasks.filter(t=>t.done).length;document.getElementById('progress-bar').style.width=(tasks.length?done/tasks.length*100:0)+'%';document.getElementById('progress-label').textContent=`${done} / ${tasks.length} tâche(s) terminée(s)`;document.getElementById('tasks').innerHTML=tasks.map((t,i)=>`<div class="task ${t.done?'done':''}"><input type="checkbox" ${t.done?'checked':''} onchange="toggleTask(${i})"><span>${esc(t.text)}</span><button aria-label="Supprimer" onclick="deleteTask(${i})">×</button></div>`).join('')||'<div class="empty">Ta semaine commence ici. Ajoute ta première mission 👑</div>'}
+document.getElementById('task-form').addEventListener('submit',e=>{e.preventDefault();let v=document.getElementById('task-input').value.trim();if(v){tasks.push({text:v,done:false});document.getElementById('task-input').value='';saveTasks()}});
+function toggleTask(i){tasks[i].done=!tasks[i].done;saveTasks()}function deleteTask(i){tasks.splice(i,1);saveTasks()}
+function exportTasks(){let b=new Blob([JSON.stringify({week,tasks},null,2)],{type:'application/json'}),a=document.createElement('a');a.href=URL.createObjectURL(b);a.download='queen-to-do-'+week+'.json';a.click();URL.revokeObjectURL(a.href)}
+document.getElementById('import-file').addEventListener('change',async e=>{let f=e.target.files[0];if(!f)return;try{let j=JSON.parse(await f.text());if(Array.isArray(j.tasks)){tasks=j.tasks;saveTasks()}}catch{alert('Fichier invalide')}e.target.value=''});
+if('serviceWorker'in navigator)window.addEventListener('load',()=>navigator.serviceWorker.register('./sw.js').catch(()=>{}));
+drawTasks();loadFeed();
+</script></body></html>
