@@ -22,7 +22,7 @@ jobs:
           python-version: '3.12'
 
       - name: Build daily feed
-        run: python scripts/build_feed.py
+        run: mkdir -p data && python build_feed.py
 
       - name: Commit updated feed
         run: |
