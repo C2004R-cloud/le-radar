@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-11-19T06:10:48.153422+00:00",
+  "generated_at": "2026-11-19T06:15:42.833397+00:00",
   "articles": [
+    {
+      "category": "tech",
+      "topic": "TECH & IA",
+      "title": "Visibilité dans ChatGPT : que valent les premières statistiques d’OpenAI ? - BDM",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMWhQSHlsZm1YV1ZfTDAwTHE4VDBfdGdCWkhWeGNPcjVNS1N4ZlYwcjNnRTJUQXBwOWI1anJkS0ZyUEVqaGRmekhpdlZWcVlQb0pSeGVlX0szZV9Tdm5GdW10cDQtNzRhenh0cEJKek5iVVA4aXBSaHFwVHdqVmxtZldveGx0Ynd1QkRMV2pCRUI5blE3dktHOXN3?oc=5",
+      "published": "2026-11-19T06:00:22+00:00",
+      "source": "BDM",
+      "summary": "Visibilité dans ChatGPT : que valent les premières statistiques d’OpenAI ? BDM"
+    },
     {
       "category": "tech",
       "topic": "TECH & IA",
@@ -117,6 +126,15 @@
       "published": "2026-11-19T05:46:53+00:00",
       "source": "Vietnam.vn",
       "summary": "Extrait de l'AIPA-47 : Le Vietnam contribue à la mise en œuvre effective de la Vision 2045 de la Communauté de l'ASEAN. Vietnam.vn"
+    },
+    {
+      "category": "finance",
+      "topic": "FINANCE & ÉCONOMIE",
+      "title": "PERNOD RICARD Cours Action RI, Cotation Bourse Euronext Paris - Boursorama",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4ta1FZdnY5UVUzYUVtX2hTeFJrVEtVcjlFVTl4MVVwQjA0REFoWk9GdjQwQi1vOXRBVTVLSDZXOW12d1RXR0Z3WXNEV0c0WUxO?oc=5",
+      "published": "2026-11-19T05:38:42+00:00",
+      "source": "Boursorama",
+      "summary": "PERNOD RICARD Cours Action RI, Cotation Bourse Euronext Paris Boursorama"
     },
     {
       "category": "finance",
@@ -351,15 +369,6 @@
       "published": "2026-11-19T04:07:15+00:00",
       "source": "Courrier international",
       "summary": "Avec son introduction en Bourse, Anthropic prend de l’avance sur OpenAI Courrier international"
-    },
-    {
-      "category": "feminisme",
-      "topic": "FÉMINISME",
-      "title": "La commune fait entendre sa voix contre les violences - Le Populaire du Centre",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQb3FjRDZsQ3Z1N3BsM24tYWFiemp3RTI4anVTSS01SzJic29KOTJTZHJiZHNRMU9vRms0emozU25fOFBpeWZLbUZXZ2ZoekY5TWo3MGNvN1NIbllxSDgzanBST3NxUHFYYV9FU1diZE1YMERsekZDSG5EOGx4al9fNmVGejV6VC1LOW9sZ0ZyTUwwQjN4eUs5bFVUUXVueGZ6RGZTTHBpbkpQb1RBbDJ0Q1NKUWZtbS1vZWRiblprVTRXLXMxcEYtcg?oc=5",
-      "published": "2026-11-19T04:00:00+00:00",
-      "source": "Le Populaire du Centre",
-      "summary": "La commune fait entendre sa voix contre les violences Le Populaire du Centre"
     },
     {
       "category": "politique",
@@ -758,24 +767,6 @@
       "summary": "Fonction publique : la part des contractuels est passée de 17 % à 24 % entre 2011 et 2024 Politique Matin"
     },
     {
-      "category": "finance",
-      "topic": "FINANCE & ÉCONOMIE",
-      "title": "Marché des changes : l’euro reprend sa tendance baissière, au plus bas depuis avril 2025 - Zonebourse Suisse",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOdjJpSG9INDBOVUZxWFV0YlgtNG5NbW5QNzFEWnpvSTk2YXprVnVLRER5TDA5RDN5QkdIR1dqX212eEZmSERuSHBoZWh2SzlrbGFnWTRsTlJDRlU1ck9ha2FGSE9TaGpxZTQyYU9iX1BqUWlKOWgtY0dNUVpaeUdTaXRiNmxNMGJ2Sm41aHQxcTE2X1NNal9helowdVVRbndoNnYtM0phSFlWMWpDbHY3bnhuTTJpd2hBVXlIblJfYklkVnlqTGVxMUt0dy16b0szZ21DTXF1RWJiN2tDQmhV?oc=5",
-      "published": "2026-11-18T20:32:16+00:00",
-      "source": "Zonebourse Suisse",
-      "summary": "Marché des changes : l’euro reprend sa tendance baissière, au plus bas depuis avril 2025 Zonebourse Suisse"
-    },
-    {
-      "category": "tech",
-      "topic": "TECH & IA",
-      "title": "Google étend Gemini aux téléphones Android à mémoire réduite - Brief IA",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZU95UFRoaExKTnA4UzlXa0JuUzcwaDBGMUtLNlVUOEg2SjFiMWpuUGtMNkdzOWFRLXZoMWFkR3kzeUg3Wkd5SU5KNDJ3N3dIT1AwYldaOXdmb01PdnhBb1FPS3dray1kVTZaWDFKSWtrS2FVb1lXOUdENE9BcFhVOXc0SmJmQlJsT0NlU0k1RWc3ajRtZGc?oc=5",
-      "published": "2026-11-18T20:28:47+00:00",
-      "source": "Brief IA",
-      "summary": "Google étend Gemini aux téléphones Android à mémoire réduite Brief IA"
-    },
-    {
       "category": "feminisme",
       "topic": "FÉMINISME",
       "title": "Procès du canal \"femmeblancherie\" : l'administrateur face à son idéologie masculiniste d'ultradroite - France 24",
@@ -947,15 +938,6 @@
       "summary": "Première dans le Nord Ardennes : un banc rouge pour sensibiliser aux violences faites aux femmes L'Ardennais"
     },
     {
-      "category": "politique",
-      "topic": "POLITIQUE",
-      "title": "Budget 2027 : 49.3, 47.3 ou loi spéciale, le triple casse-tête du gouvernement Lecornu - Le Point",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNc2JBZW1LcnFsRUlsb1hIOHlnTTNvbXpNRi1Ic25uQThVMmVBNjFCbWQwSF9XLUJTekh3YUZ1RDd1NXR0TW5lZ1Q5dDlSZjR0bzRLR0xWOExRMzFvUXF5Q2hZMkxTWGw1dlc4T1FBNFMwakpkYWZWTEl0dXhtWWM5S3NLYmFqZmVfRVRhZF9taDVIdmo5QjBWVUpDYjF6eG4tUlRaVGVFRFFVeDl2OGptRGdkZy1sTU8yMFlrR21MMm5HVllUTVFWaDdzMkx6b0FmUTdhM29ubw?oc=5",
-      "published": "2026-11-18T17:30:01+00:00",
-      "source": "Le Point",
-      "summary": "Budget 2027 : 49.3, 47.3 ou loi spéciale, le triple casse-tête du gouvernement Lecornu Le Point"
-    },
-    {
       "category": "feminisme",
       "topic": "FÉMINISME",
       "title": "Ciné-débat : Anne-Marie ou quelque chose d’autre, de Maurice Failevic - Mairie du 20e arrondissement - Paris",
@@ -1064,6 +1046,15 @@
       "summary": "La France championne de l’égalité femmes-hommes dans l’UE en 2026 Courrier international"
     },
     {
+      "category": "feminisme",
+      "topic": "FÉMINISME",
+      "title": "25 novembre : CONTRE LES VIOLENCES FAITES AUX FEMMES, DES DROITS, DES MOYENS ET DES ACTES ! - CGT-Ferc",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWkdBLTA5SHFKZUtIV2dtV2NMRDlaaGNaQmlQb0pqelJRWGVjMTRhNUZJM3RrQk53cU1FbXc1a0k1NTNwTGpGWVB2YUU1QTBNQmZoMUEwOTRrQTkwc05VLWQ5S1QxdHV1di1FWmJwVU5JSVRUTkpFV1dJdnpIWUM5dk16N0JBbTE0V3ZNdGI5TjBROWRBbFF4bVdTRmowZEtpdTVpdjlHcU5XekNud1E?oc=5",
+      "published": "2026-11-18T16:05:15+00:00",
+      "source": "CGT-Ferc",
+      "summary": "25 novembre : CONTRE LES VIOLENCES FAITES AUX FEMMES, DES DROITS, DES MOYENS ET DES ACTES ! CGT-Ferc"
+    },
+    {
       "category": "politique",
       "topic": "POLITIQUE",
       "title": "SONDAGE BFMTV. Présidentielle: le pouvoir d’achat, priorité d’action n°1 adressée au prochain président de la République, pour près de 6 Français sur 10 - BFM",
@@ -1080,6 +1071,15 @@
       "published": "2026-11-18T15:47:01+00:00",
       "source": "Jeune Afrique",
       "summary": "Régularisation de 300 000 sans-papiers : la proposition arrive devant les députés français Jeune Afrique"
+    },
+    {
+      "category": "politique",
+      "topic": "POLITIQUE",
+      "title": "Mouvement lycéen : Laurent Nuñez accuse La France insoumise d’organiser « la chienlit », « les Français ne vous la pardonneront jamais » - Sud Ouest",
+      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQZnBISjVQNWlPWVhfVjVsZG5YTjRPcmZmY0NzZzRFRWprYWU3Zng5Sk5NQVBrd2VibGF1NUotbFpZalRBdVpfRnBWbFlURXpYemdjTDZtRkdNUFQzMm1FSk82ai1rNTB1T2FMRGFEMTVPNWVaU0FtWE1lWURvTXdXQTNoQVNKSEpvc0YxSnJ1djZmYURMNklQcFYtRU9TZVZ2YzZxbHc5YnJZd1ZhaGZ1UUdreW94WUNRd0NnbHkzYUJXMG5MenNFUW5GNjYwOHZXSlQ5dzR6bmZXdGRNQndZV0hZMXYwT3RmczFGODNvT2N2cXlqbTExREw2Y184dzhfdWc?oc=5",
+      "published": "2026-11-18T15:25:15+00:00",
+      "source": "Sud Ouest",
+      "summary": "Mouvement lycéen : Laurent Nuñez accuse La France insoumise d’organiser « la chienlit », « les Français ne vous la pardonneront jamais » Sud Ouest"
     }
   ],
   "counts": {
