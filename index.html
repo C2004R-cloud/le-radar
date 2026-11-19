@@ -1,56 +1,502 @@
+
+
 <!doctype html>
+
 <html lang="fr">
+
 <head>
-<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
-<meta name="theme-color" content="#111018"><meta name="apple-mobile-web-app-capable" content="yes">
+
+<meta charset="utf-8">
+
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+
+<meta name="theme-color" content="#111018">
+
+<meta name="apple-mobile-web-app-capable" content="yes">
+
 <meta name="apple-mobile-web-app-title" content="LE RADAR">
-<link rel="manifest" href="./manifest.webmanifest"><link rel="icon" href="./icons/icon-192.png">
+
+<link rel="manifest" href="./manifest.webmanifest">
+
+<link rel="icon" href="./icons/icon-192.png">
+
 <title>LE RADAR 👑</title>
+
 <style>
+
 :root{--bg:#0e0d13;--panel:#191720;--panel2:#211f2b;--line:#34313e;--text:#f5f1f7;--muted:#aaa4b5;--gold:#e5c477;--pink:#e7a5bc}
-*{box-sizing:border-box}body{margin:0;background:radial-gradient(ellipse at top,#282132 0,#0e0d13 48%);color:var(--text);font:15px/1.5 -apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif}
-header{padding:24px 18px 16px;max-width:980px;margin:auto}h1{font-size:28px;letter-spacing:.08em;margin:0;color:var(--gold)}header p{margin:4px 0;color:var(--muted)}
-main{max-width:980px;margin:auto;padding:0 14px 48px}.tabs{display:flex;gap:8px;overflow:auto;padding:8px 0 14px;position:sticky;top:0;background:#0e0d13ed;z-index:3}
-.tab{white-space:nowrap;border:1px solid var(--line);background:var(--panel);color:var(--muted);border-radius:999px;padding:9px 13px;font-weight:650}.tab.active{background:var(--gold);color:#211b11;border-color:var(--gold)}
-.panel{display:none}.panel.active{display:block}.intro{padding:16px;background:linear-gradient(120deg,#282231,#191720);border:1px solid var(--line);border-radius:18px;margin-bottom:14px}.intro h2{margin:0 0 4px;font-size:22px}.muted{color:var(--muted)}.meta{font-size:12px;color:var(--muted)}
-.toolbar{display:flex;gap:8px;flex-wrap:wrap;margin:12px 0}.toolbar button,.action{background:var(--panel2);color:var(--text);border:1px solid var(--line);border-radius:10px;padding:9px 12px}
-.feed{display:grid;gap:12px}.article{background:var(--panel);border:1px solid var(--line);border-radius:16px;padding:15px}.article h3{font-size:17px;line-height:1.3;margin:5px 0 8px}.article a{color:var(--gold);text-decoration:none}.article p{margin:6px 0}.tag{display:inline-block;font-size:11px;color:#221b0f;background:var(--gold);border-radius:99px;padding:2px 8px;font-weight:700}.empty{padding:22px;text-align:center;border:1px dashed var(--line);border-radius:15px;color:var(--muted)}
-.todo-form{display:flex;gap:8px;margin:12px 0}.todo-form input{flex:1;min-width:0}.todo-form input,.todo-form select{background:var(--panel);border:1px solid var(--line);border-radius:10px;color:var(--text);padding:11px}
-.task{display:flex;align-items:center;gap:10px;padding:12px;background:var(--panel);border:1px solid var(--line);border-radius:12px;margin:8px 0}.task input{width:20px;height:20px;accent-color:var(--gold)}.task.done span{text-decoration:line-through;color:var(--muted)}.task button{margin-left:auto;border:0;background:none;color:var(--pink);font-size:18px}
-.progress{height:8px;background:var(--line);border-radius:20px;overflow:hidden}.progress div{height:100%;background:var(--gold);width:0}
+
+*{box-sizing:border-box}
+
+body{margin:0;background:radial-gradient(ellipse at top,#282132 0,#0e0d13 48%);color:var(--text);font:15px/1.5 -apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif}
+
+header{padding:24px 18px 16px;max-width:980px;margin:auto}
+
+h1{font-size:28px;letter-spacing:.08em;margin:0;color:var(--gold)}
+
+header p{margin:4px 0;color:var(--muted)}
+
+main{max-width:980px;margin:auto;padding:0 14px 48px}
+
+.tabs{display:flex;gap:8px;overflow-x:auto;padding:8px 0 14px;position:sticky;top:0;background:#0e0d13ed;z-index:3}
+
+.tab{white-space:nowrap;border:1px solid var(--line);background:var(--panel);color:var(--muted);border-radius:999px;padding:9px 13px;font-weight:650}
+
+.tab.active{background:var(--gold);color:#211b11;border-color:var(--gold)}
+
+.panel{display:none}.panel.active{display:block}
+
+.intro{padding:16px;background:linear-gradient(120deg,#282231,#191720);border:1px solid var(--line);border-radius:18px;margin-bottom:14px}
+
+.intro h2{margin:0 0 4px;font-size:22px}
+
+.muted{color:var(--muted)}.meta{font-size:12px;color:var(--muted)}
+
+.toolbar{display:flex;gap:8px;flex-wrap:wrap;margin:12px 0}
+
+.toolbar button,.action{background:var(--panel2);color:var(--text);border:1px solid var(--line);border-radius:10px;padding:9px 12px}
+
+.feed{display:grid;gap:12px}
+
+.article{background:var(--panel);border:1px solid var(--line);border-radius:16px;padding:15px}
+
+.article h3{font-size:17px;line-height:1.3;margin:7px 0 8px}
+
+.article a{color:var(--gold);text-decoration:none}
+
+.article p{margin:8px 0}
+
+.tag{display:inline-block;font-size:11px;color:#221b0f;background:var(--gold);border-radius:99px;padding:2px 8px;font-weight:700}
+
+.takeaway{margin-top:12px;padding:10px 12px;background:var(--panel2);border-left:3px solid var(--gold);border-radius:8px}
+
+.empty{padding:22px;text-align:center;border:1px dashed var(--line);border-radius:15px;color:var(--muted)}
+
+.todo-form{display:flex;gap:8px;margin:12px 0}
+
+.todo-form input{flex:1;min-width:0}
+
+.todo-form input,.history-select{background:var(--panel);border:1px solid var(--line);border-radius:10px;color:var(--text);padding:11px}
+
+.task{display:flex;align-items:center;gap:10px;padding:12px;background:var(--panel);border:1px solid var(--line);border-radius:12px;margin:8px 0}
+
+.task input{width:20px;height:20px;accent-color:var(--gold)}
+
+.task.done span{text-decoration:line-through;color:var(--muted)}
+
+.task button{border:0;background:none;color:var(--pink);font-size:17px;padding:4px}
+
+.task .edit{margin-left:auto}
+
+.progress{height:8px;background:var(--line);border-radius:20px;overflow:hidden;margin:10px 0}
+
+.progress div{height:100%;background:var(--gold);width:0}
+
+.history{margin-top:18px;padding:14px;background:var(--panel);border:1px solid var(--line);border-radius:14px}
+
+.history-select{width:100%;margin-top:8px}
+
+.notice{font-size:12px;color:var(--muted);margin-top:10px}
+
 footer{max-width:980px;margin:auto;padding:18px;color:var(--muted);font-size:12px}
+
 @media(min-width:700px){.feed{grid-template-columns:repeat(2,minmax(0,1fr))}}
-</style></head>
+
+</style>
+
+</head>
+
 <body>
-<header><h1>LE RADAR 👑</h1><p>Ta veille. Tes décisions. Ton avance.</p></header>
+
+<header>
+
+<h1>LE RADAR 👑</h1>
+
+<p>Ta veille. Tes décisions. Ton avance.</p>
+
+</header>
+
 <main>
+
 <nav class="tabs" aria-label="Navigation">
-<button class="tab active" data-tab="tech">TECH & IA</button><button class="tab" data-tab="finance">FINANCE</button><button class="tab" data-tab="politique">POLITIQUE</button><button class="tab" data-tab="feminisme">FÉMINISME</button><button class="tab" data-tab="todo">QUEEN TO DO</button>
+
+<button class="tab active" data-tab="tech">TECH & IA</button>
+
+<button class="tab" data-tab="finance">FINANCE</button>
+
+<button class="tab" data-tab="politique">POLITIQUE</button>
+
+<button class="tab" data-tab="feminisme">FÉMINISME</button>
+
+<button class="tab" data-tab="todo">QUEEN TO DO</button>
+
 </nav>
-<section class="panel active" id="tech"><div class="intro"><h2>TECH & IA</h2><div class="muted">IA, OpenAI, Anthropic, Mistral, cloud, data, cybersécurité et marché IT.</div><div class="meta" id="tech-updated">Chargement de la veille…</div></div><div class="toolbar"><button onclick="loadFeed()">↻ Actualiser</button><button onclick="setFilter('tech','all')">Tout</button><button onclick="setFilter('tech','ai')">IA</button><button onclick="setFilter('tech','cloud')">Cloud & data</button></div><div class="feed" id="tech-feed"></div></section>
-<section class="panel" id="finance"><div class="intro"><h2>FINANCE & ÉCONOMIE</h2><div class="muted">Énergie, utilities, marchés, entreprises suivies et économie.</div><div class="meta" id="finance-updated">Chargement de la veille…</div></div><div class="toolbar"><button onclick="loadFeed()">↻ Actualiser</button><button onclick="setFilter('finance','all')">Tout</button><button onclick="setFilter('finance','companies')">Entreprises suivies</button><button onclick="setFilter('finance','economy')">Économie & marchés</button></div><div class="feed" id="finance-feed"></div></section>
-<section class="panel" id="politique"><div class="intro"><h2>POLITIQUE</h2><div class="muted">Vie politique française, annonces, débats et décisions publiques.</div></div><div class="empty">Cette rubrique sera alimentée dans une prochaine évolution. Les faits, déclarations et analyses devront être distingués.</div></section>
-<section class="panel" id="feminisme"><div class="intro"><h2>FÉMINISME</h2><div class="muted">Droits des femmes, égalité, lois, santé, violences et actualité internationale.</div></div><div class="empty">Cette rubrique sera alimentée dans une prochaine évolution.</div></section>
-<section class="panel" id="todo"><div class="intro"><h2>QUEEN TO DO</h2><div class="muted" id="week-label"></div><div class="progress"><div id="progress-bar"></div></div><div class="meta" id="progress-label"></div></div>
-<form class="todo-form" id="task-form"><input id="task-input" placeholder="Ajouter une tâche…" maxlength="120" required><button class="action">Ajouter</button></form><div id="tasks"></div><div class="toolbar"><button onclick="exportTasks()">Exporter mes tâches</button><button onclick="document.getElementById('import-file').click()">Importer</button><input id="import-file" type="file" accept="application/json" hidden></div></section>
-</main><footer>Les articles proviennent de flux RSS publics. Les titres et dates sont issus des sources ; ouvre l’article pour lire le contenu complet. Cette veille n’est ni un conseil financier ni une recommandation d’investissement.</footer>
+
+<section class="panel active" id="tech">
+
+<div class="intro"><h2>TECH & IA</h2>
+
+<div class="muted">IA, OpenAI, Anthropic, Mistral, cloud, data et cybersécurité.</div>
+
+<div class="meta" id="tech-updated">Chargement…</div></div>
+
+<div class="toolbar">
+
+<button onclick="loadFeed()">↻ Actualiser</button>
+
+<button onclick="setFilter('tech','all')">Tout</button>
+
+<button onclick="setFilter('tech','ai')">IA</button>
+
+<button onclick="setFilter('tech','cloud')">Cloud & data</button>
+
+</div>
+
+<div class="feed" id="tech-feed"></div>
+
+</section>
+
+<section class="panel" id="finance">
+
+<div class="intro"><h2>FINANCE & MARCHÉS</h2>
+
+<div class="muted">Bourses, actions, indices, économie, taux, devises, matières premières et entreprises.</div>
+
+<div class="meta" id="finance-updated">Chargement…</div></div>
+
+<div class="toolbar">
+
+<button onclick="loadFeed()">↻ Actualiser</button>
+
+<button onclick="setFilter('finance','all')">Tout</button>
+
+<button onclick="setFilter('finance','companies')">Entreprises suivies</button>
+
+<button onclick="setFilter('finance','economy')">Économie & marchés</button>
+
+</div>
+
+<div class="feed" id="finance-feed"></div>
+
+</section>
+
+<section class="panel" id="politique">
+
+<div class="intro"><h2>POLITIQUE</h2>
+
+<div class="muted">France, Europe et international : gouvernement, Parlement, lois, élections et débats.</div>
+
+<div class="meta" id="politique-updated">Chargement…</div></div>
+
+<div class="toolbar">
+
+<button onclick="loadFeed()">↻ Actualiser</button>
+
+<button onclick="setFilter('politique','all')">Tout</button>
+
+<button onclick="setFilter('politique','france')">France</button>
+
+<button onclick="setFilter('politique','international')">Europe & international</button>
+
+</div>
+
+<div class="feed" id="politique-feed"></div>
+
+</section>
+
+<section class="panel" id="feminisme">
+
+<div class="intro"><h2>FÉMINISME</h2>
+
+<div class="muted">Droits des femmes, égalité salariale, violences, santé, justice et législation.</div>
+
+<div class="meta" id="feminisme-updated">Chargement…</div></div>
+
+<div class="toolbar">
+
+<button onclick="loadFeed()">↻ Actualiser</button>
+
+<button onclick="setFilter('feminisme','all')">Tout</button>
+
+<button onclick="setFilter('feminisme','france')">France</button>
+
+<button onclick="setFilter('feminisme','international')">International</button>
+
+</div>
+
+<div class="feed" id="feminisme-feed"></div>
+
+</section>
+
+<section class="panel" id="todo">
+
+<div class="intro"><h2>QUEEN TO DO 👑</h2>
+
+<div class="muted" id="week-label"></div>
+
+<div class="progress"><div id="progress-bar"></div></div>
+
+<div class="meta" id="progress-label"></div></div>
+
+<form class="todo-form" id="task-form">
+
+<input id="task-input" placeholder="Ajouter une tâche…" maxlength="120" required>
+
+<button class="action">Ajouter</button>
+
+</form>
+
+<div id="tasks"></div>
+
+<div class="toolbar">
+
+<button onclick="showCurrentWeek()">Semaine actuelle</button>
+
+<button onclick="exportTasks()">Exporter mes tâches</button>
+
+<button onclick="document.getElementById('import-file').click()">Importer</button>
+
+<input id="import-file" type="file" accept="application/json" hidden>
+
+</div>
+
+<div class="history">
+
+<strong>Historique de mes semaines</strong>
+
+<select class="history-select" id="history-select"><option value="">Choisir une semaine…</option></select>
+
+<div class="notice" id="history-note">Les tâches sont enregistrées sur cet appareil.</div>
+
+</div>
+
+</section>
+
+</main>
+
+<footer>Les articles et extraits proviennent de flux RSS publics. Ouvre chaque article pour lire la source originale. Les extraits ne remplacent pas une analyse complète. Cette veille ne constitue pas un conseil financier.</footer>
+
 <script>
-let allArticles=[], filters={tech:'all',finance:'all'};
-document.querySelectorAll('.tab').forEach(b=>b.addEventListener('click',()=>{document.querySelectorAll('.tab,.panel').forEach(x=>x.classList.remove('active'));b.classList.add('active');document.getElementById(b.dataset.tab).classList.add('active')}));
-function esc(s){return String(s||'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]))}
-function age(d){if(!d)return '';let dt=new Date(d);return isNaN(dt)?'':dt.toLocaleString('fr-FR',{dateStyle:'medium',timeStyle:'short'})}
-function renderFeed(cat){let list=allArticles.filter(a=>a.category===cat);let f=filters[cat];if(f==='ai')list=list.filter(a=>/intelligence artificielle|openai|anthropic|mistral|ia\b|llm|gpt|claude/i.test(a.title+' '+a.source));if(f==='cloud')list=list.filter(a=>/cloud|data|cyber|Microsoft|AWS|Google/i.test(a.title+' '+a.source));if(f==='companies')list=list.filter(a=>/engie|totalenergies|veolia|edf|amundi|société générale|societe generale/i.test(a.title+' '+a.summary));if(f==='economy')list=list.filter(a=>!/engie|totalenergies|veolia|edf|amundi|société générale|societe generale/i.test(a.title+' '+a.summary));let el=document.getElementById(cat+'-feed');el.innerHTML=list.length?list.map(a=>`<article class="article"><span class="tag">${esc(a.topic||'ACTUALITÉ')}</span><div class="meta">${esc(a.source||'Source')} · ${esc(age(a.published))}</div><h3><a href="${esc(a.url)}" target="_blank" rel="noopener">${esc(a.title)}</a></h3><p>${esc(a.summary||'Ouvre la source pour consulter les détails.')}</p><div class="meta">À retenir : article à examiner à la lumière de sa source originale.</div></article>`).join(''):'<div class="empty">Aucun article trouvé dans cette catégorie pour le moment. La prochaine collecte automatique actualisera cette rubrique.</div>'}
-async function loadFeed(){try{let r=await fetch('./data/veille.json?ts='+Date.now());if(!r.ok)throw Error('feed absent');let j=await r.json();allArticles=j.articles||[];for(let c of ['tech','finance']){document.getElementById(c+'-updated').textContent='Dernière collecte : '+(age(j.generated_at)||'date inconnue');renderFeed(c)}}catch(e){for(let c of ['tech','finance']){document.getElementById(c+'-updated').textContent='Aucune collecte publiée pour le moment';document.getElementById(c+'-feed').innerHTML='<div class="empty">La veille apparaîtra après la première exécution du robot quotidien.</div>'}}}
-function setFilter(c,f){filters[c]=f;renderFeed(c)}
-function mondayKey(){let d=new Date(),day=(d.getDay()+6)%7;d.setDate(d.getDate()-day);d.setHours(0,0,0,0);return d.toISOString().slice(0,10)}
-const week=mondayKey(), storageKey='le-radar-tasks-'+week;let tasks=JSON.parse(localStorage.getItem(storageKey)||'[]');
-document.getElementById('week-label').textContent='Semaine du lundi '+new Date(week+'T12:00:00').toLocaleDateString('fr-FR',{day:'numeric',month:'long',year:'numeric'});
-function saveTasks(){localStorage.setItem(storageKey,JSON.stringify(tasks));drawTasks()}
-function drawTasks(){let done=tasks.filter(t=>t.done).length;document.getElementById('progress-bar').style.width=(tasks.length?done/tasks.length*100:0)+'%';document.getElementById('progress-label').textContent=`${done} / ${tasks.length} tâche(s) terminée(s)`;document.getElementById('tasks').innerHTML=tasks.map((t,i)=>`<div class="task ${t.done?'done':''}"><input type="checkbox" ${t.done?'checked':''} onchange="toggleTask(${i})"><span>${esc(t.text)}</span><button aria-label="Supprimer" onclick="deleteTask(${i})">×</button></div>`).join('')||'<div class="empty">Ta semaine commence ici. Ajoute ta première mission 👑</div>'}
-document.getElementById('task-form').addEventListener('submit',e=>{e.preventDefault();let v=document.getElementById('task-input').value.trim();if(v){tasks.push({text:v,done:false});document.getElementById('task-input').value='';saveTasks()}});
-function toggleTask(i){tasks[i].done=!tasks[i].done;saveTasks()}function deleteTask(i){tasks.splice(i,1);saveTasks()}
-function exportTasks(){let b=new Blob([JSON.stringify({week,tasks},null,2)],{type:'application/json'}),a=document.createElement('a');a.href=URL.createObjectURL(b);a.download='queen-to-do-'+week+'.json';a.click();URL.revokeObjectURL(a.href)}
-document.getElementById('import-file').addEventListener('change',async e=>{let f=e.target.files[0];if(!f)return;try{let j=JSON.parse(await f.text());if(Array.isArray(j.tasks)){tasks=j.tasks;saveTasks()}}catch{alert('Fichier invalide')}e.target.value=''});
-if('serviceWorker'in navigator)window.addEventListener('load',()=>navigator.serviceWorker.register('./sw.js').catch(()=>{}));
-drawTasks();loadFeed();
-</script></body></html>
+let allArticles=[];
+let filters={tech:'all',finance:'all',politique:'all',feminisme:'all'};
+const categories=['tech','finance','politique','feminisme'];
+
+document.querySelectorAll('.tab').forEach(b=>{
+ b.addEventListener('click',()=>{
+  document.querySelectorAll('.tab,.panel').forEach(x=>x.classList.remove('active'));
+  b.classList.add('active');
+  document.getElementById(b.dataset.tab).classList.add('active');
+ });
+});
+
+function esc(s){
+ return String(s||'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+}
+function age(d){
+ if(!d)return '';
+ const dt=new Date(d);
+ return isNaN(dt)?'':dt.toLocaleString('fr-FR',{dateStyle:'medium',timeStyle:'short'});
+}
+function matches(text,pattern){return pattern.test(text||'')}
+
+function renderFeed(cat){
+ let list=allArticles.filter(a=>a.category===cat);
+ const f=filters[cat];
+
+ if(f==='ai')list=list.filter(a=>matches(a.title+' '+a.summary,/intelligence artificielle|openai|anthropic|mistral|ia\b|llm|gpt|claude|gemini/i));
+ if(f==='cloud')list=list.filter(a=>matches(a.title+' '+a.summary,/cloud|data|cyber|microsoft|aws|google/i));
+ if(f==='companies')list=list.filter(a=>matches(a.title+' '+a.summary,/engie|totalenergies|veolia|edf|amundi|société générale|societe generale|bnp|crédit agricole/i));
+ if(f==='economy')list=list.filter(a=>!matches(a.title+' '+a.summary,/engie|totalenergies|veolia|edf|amundi|société générale|societe generale|bnp|crédit agricole/i));
+ if(f==='france')list=list.filter(a=>matches(a.title+' '+a.summary+' '+a.source,/france|français|française|paris|assemblée nationale|sénat|gouvernement/i));
+ if(f==='international')list=list.filter(a=>!matches(a.title+' '+a.summary+' '+a.source,/france|français|française|paris|assemblée nationale|sénat|gouvernement français/i));
+
+ const el=document.getElementById(cat+'-feed');
+ if(!list.length){
+  el.innerHTML='<div class="empty">Aucun article ne correspond à ce filtre. Essaie « Tout ».</div>';
+  return;
+ }
+ el.innerHTML=list.map(a=>{
+  const summary=a.summary||'Ouvre la source pour consulter les détails.';
+  return `<article class="article">
+   <span class="tag">${esc(a.topic||cat.toUpperCase())}</span>
+   <div class="meta">${esc(a.source||'Source')} · ${esc(age(a.published))}</div>
+   <h3><a href="${esc(a.url)}" target="_blank" rel="noopener noreferrer">${esc(a.title)}</a></h3>
+   <p>${esc(summary)}</p>
+   <div class="takeaway"><strong>À retenir — extrait de la source</strong><br>${esc(summary)}</div>
+  </article>`;
+ }).join('');
+}
+
+async function loadFeed(){
+ try{
+  const r=await fetch('./data/veille.json?ts='+Date.now(),{cache:'no-store'});
+  if(!r.ok)throw Error('Flux indisponible');
+  const j=await r.json();
+  allArticles=Array.isArray(j.articles)?j.articles:[];
+  categories.forEach(c=>{
+   document.getElementById(c+'-updated').textContent='Dernière collecte : '+(age(j.generated_at)||'date inconnue');
+   renderFeed(c);
+  });
+ }catch(e){
+  categories.forEach(c=>{
+   document.getElementById(c+'-updated').textContent='Collecte momentanément indisponible';
+   document.getElementById(c+'-feed').innerHTML='<div class="empty">Impossible de charger la veille. Vérifie que le fichier data/veille.json est publié.</div>';
+  });
+ }
+}
+function setFilter(cat,f){
+ filters[cat]=f;
+ renderFeed(cat);
+}
+</script>
+
+<script>
+function localDateKey(d){
+ const y=d.getFullYear();
+ const m=String(d.getMonth()+1).padStart(2,'0');
+ const day=String(d.getDate()).padStart(2,'0');
+ return `${y}-${m}-${day}`;
+}
+function mondayKey(date=new Date()){
+ const d=new Date(date.getFullYear(),date.getMonth(),date.getDate());
+ d.setDate(d.getDate()-((d.getDay()+6)%7));
+ return localDateKey(d);
+}
+
+const currentWeek=mondayKey();
+let activeWeek=currentWeek;
+let storageKey='le-radar-tasks-'+activeWeek;
+let tasks=readTasks(activeWeek);
+
+function readTasks(week){
+ try{
+  const value=JSON.parse(localStorage.getItem('le-radar-tasks-'+week)||'[]');
+  return Array.isArray(value)?value:[];
+ }catch(e){return []}
+}
+function weekLabel(week){
+ return new Date(week+'T12:00:00').toLocaleDateString('fr-FR',{day:'numeric',month:'long',year:'numeric'});
+}
+function saveTasks(){
+ localStorage.setItem(storageKey,JSON.stringify(tasks));
+ drawTasks();
+ refreshHistory();
+}
+function drawTasks(){
+ const done=tasks.filter(t=>t.done).length;
+ document.getElementById('progress-bar').style.width=(tasks.length?done/tasks.length*100:0)+'%';
+ document.getElementById('progress-label').textContent=`${done} / ${tasks.length} tâche(s) terminée(s)`;
+ document.getElementById('week-label').textContent='Semaine du lundi '+weekLabel(activeWeek);
+ document.getElementById('task-input').disabled=activeWeek!==currentWeek;
+ document.querySelector('#task-form button').disabled=activeWeek!==currentWeek;
+
+ document.getElementById('tasks').innerHTML=tasks.map((t,i)=>`
+ <div class="task ${t.done?'done':''}">
+  <input type="checkbox" ${t.done?'checked':''} ${activeWeek!==currentWeek?'disabled':''} onchange="toggleTask(${i})">
+  <span>${esc(t.text)}</span>
+  ${activeWeek===currentWeek?`<button class="edit" aria-label="Modifier" onclick="editTask(${i})">✎</button><button aria-label="Supprimer" onclick="deleteTask(${i})">×</button>`:''}
+ </div>`).join('')||'<div class="empty">Ta semaine commence ici. Ajoute ta première mission 👑</div>';
+
+ document.getElementById('history-note').textContent=activeWeek===currentWeek?'Tu consultes ta semaine actuelle.':'Semaine passée : consultation uniquement.';
+}
+document.getElementById('task-form').addEventListener('submit',e=>{
+ e.preventDefault();
+ if(activeWeek!==currentWeek)return;
+ const input=document.getElementById('task-input');
+ const value=input.value.trim();
+ if(value){
+  tasks.push({text:value,done:false});
+  input.value='';
+  saveTasks();
+ }
+});
+function toggleTask(i){
+ if(activeWeek!==currentWeek)return;
+ tasks[i].done=!tasks[i].done;
+ saveTasks();
+}
+function deleteTask(i){
+ if(activeWeek!==currentWeek)return;
+ if(!confirm('Supprimer cette tâche ?'))return;
+ tasks.splice(i,1);
+ saveTasks();
+}
+function editTask(i){
+ if(activeWeek!==currentWeek)return;
+ const value=prompt('Modifier cette tâche :',tasks[i].text);
+ if(value===null)return;
+ if(value.trim()){
+  tasks[i].text=value.trim();
+  saveTasks();
+ }
+}
+function refreshHistory(){
+ const select=document.getElementById('history-select');
+ const previous=select.value;
+ const weeks=[];
+ for(let i=0;i<520;i++){
+  const d=new Date();
+  d.setDate(d.getDate()-i*7);
+  const key=mondayKey(d);
+  if(localStorage.getItem('le-radar-tasks-'+key)!==null)weeks.push(key);
+ }
+ select.innerHTML='<option value="">Choisir une semaine…</option>'+weeks.map(w=>`<option value="${w}">Semaine du ${weekLabel(w)}</option>`).join('');
+ if(weeks.includes(previous))select.value=previous;
+}
+document.getElementById('history-select').addEventListener('change',e=>{
+ const selected=e.target.value;
+ if(!selected)return;
+ activeWeek=selected;
+ storageKey='le-radar-tasks-'+activeWeek;
+ tasks=readTasks(activeWeek);
+ drawTasks();
+});
+function showCurrentWeek(){
+ activeWeek=currentWeek;
+ storageKey='le-radar-tasks-'+activeWeek;
+ tasks=readTasks(activeWeek);
+ document.getElementById('history-select').value='';
+ drawTasks();
+}
+function exportTasks(){
+ const data={week:activeWeek,tasks:tasks};
+ const blob=new Blob([JSON.stringify(data,null,2)],{type:'application/json'});
+ const a=document.createElement('a');
+ a.href=URL.createObjectURL(blob);
+ a.download='queen-to-do-'+activeWeek+'.json';
+ a.click();
+ URL.revokeObjectURL(a.href);
+}
+document.getElementById('import-file').addEventListener('change',async e=>{
+ const file=e.target.files[0];
+ if(!file)return;
+ try{
+  const data=JSON.parse(await file.text());
+  if(!Array.isArray(data.tasks))throw Error('Format invalide');
+  const target=data.week||currentWeek;
+  if(!/^\d{4}-\d{2}-\d{2}$/.test(target))throw Error('Semaine invalide');
+  if(!confirm('Importer les tâches dans la semaine du '+weekLabel(target)+' ? Cela remplacera les tâches de cette semaine.'))return;
+  localStorage.setItem('le-radar-tasks-'+target,JSON.stringify(data.tasks));
+  activeWeek=target;
+  storageKey='le-radar-tasks-'+activeWeek;
+  tasks=readTasks(activeWeek);
+  drawTasks();
+  refreshHistory();
+ }catch(err){
+  alert('Fichier invalide ou impossible à importer.');
+ }finally{
+  e.target.value='';
+ }
+});
+
+if('serviceWorker' in navigator){
+ window.addEventListener('load',()=>{
+  navigator.serviceWorker.register('./sw.js').catch(()=>{});
+ });
+}
+drawTasks();
+refreshHistory();
+loadFeed();
+</script>
+</body>
+</html>
