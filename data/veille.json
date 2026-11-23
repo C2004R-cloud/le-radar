@@ -1,14 +1,869 @@
 {
-  "generated_at": "2026-11-22T06:57:03.314625+00:00",
+  "generated_at": "2026-11-23T07:19:42.662900+00:00",
   "articles": [
+    {
+      "category": "tech",
+      "topic": "TECH & IA",
+      "title": "Windows 11 26H2 se déploie automatiquement sur les PC non gérés - itdaily.fr",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbDJJeXV6aER2eGUwakl1dDB4MGhkTS1zbklUMGxGTU1IakN6RGVtaFVnMU5JRmRyZ18xcjJwZVdSanNEN0VhNEVkRGpINFdManE1aEtGNFVWR1VlLVRFVkVITHdTYTZ3NnNHSXgyR0FFV0ZRS2Y2N3ZVOVhiYkZzLU5tQTlhelZ3T0ZaR3Z5U0wwSTA3UWc?oc=5",
+      "published": "2026-11-23T07:18:09+00:00",
+      "source": "itdaily.fr",
+      "summary": "Windows 11 26H2 se déploie automatiquement sur les PC non gérés itdaily.fr"
+    },
+    {
+      "category": "politique",
+      "topic": "POLITIQUE",
+      "title": "Projet de Loi de Finance Rectificative 2026 : le décret présidentiel face au rejet parlementaire, quelles conséquences constitutionnelles ? – Lequotidien – Journal d'information Générale - LeQuotidien.sn",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNY182SF9FNGxPQ19zT0V1azBWdTNmWVNyRUZyclBHYmpGa0t6NlhyeUUzR21FYWNQM1I3MHJYUkUyVVU5bW05TWgzM2UzN1FJRmhiREdzUEN4dW40OVBnS2FxN2ZFcFVlTUpQMDdQSWZublhqcGdNcDFvZlVlZlRlajBrN0tYMUl1eWlwa0dVS3hpS0NxR3Y5UmVkQU01bktHT1JRZlFHZHBSWDBCeHRycXR6NlJmeC1CcDJMTlAzdUM0U2RZZEdTUzBRVGtUeFQ1UGdTd0tKQmVIUi0tNUNwOUMzQzBfODE4bWF5c2UxWQ?oc=5",
+      "published": "2026-11-23T07:13:31+00:00",
+      "source": "LeQuotidien.sn",
+      "summary": "Projet de Loi de Finance Rectificative 2026 : le décret présidentiel face au rejet parlementaire, quelles conséquences constitutionnelles ? – Lequotidien – Journal d'information Générale LeQuotidien.sn"
+    },
+    {
+      "category": "finance",
+      "topic": "FINANCE & ÉCONOMIE",
+      "title": "Les prévisions de croissance économique de la France pour 2027, à 1 %, menacées d’une révision à la baisse, selon le ministre - Zonebourse",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQNDhDTTJpT1JEQjY5TUJWemRBbjFpd1BWTXlUcjcyZUxyUWdPQUswdzFSYnQ5a0RLU0JUd3M0cTJFM2pKemxLLXhaM3lYZ0xjTWVpRFFsNHRxMzB5cWRreGoyV2lPLXg2MVlRT0dPNHY2WUlxTGJrUEx1cU9ZOUVKTnE1eFhhTHhUbFNMQmpWZHVlZEFrY213dk0yRjBEYWdQVzlYVFExSjdxM1J6bUJXSmpmR2xwV2JHWlI5dGVFazgtRU9mYkNIVGgyMWRzX1ozVGJJcXZjcmY4VVZkWGtvTEdBc05KOWxESUF5cw?oc=5",
+      "published": "2026-11-23T07:06:42+00:00",
+      "source": "Zonebourse",
+      "summary": "Les prévisions de croissance économique de la France pour 2027, à 1 %, menacées d’une révision à la baisse, selon le ministre Zonebourse"
+    },
+    {
+      "category": "tech",
+      "topic": "TECH & IA",
+      "title": "Microsoft dévoile 7 nouvelles IA moins chères pour rivaliser avec ChatGPT et Claude - Ecran Mobile",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdkRneVE2dmhFczVRTElSb0FWcnhac2J3T3d2b1E1MWhhZlczSWRQNk9WTkk4S0JSWHdDc1B4b1g5NUhhUXZOVFliTHpYZ2pHLU5KdnY0RkZscmkxbkQ2ZlJSb1pFVEdtSVZGTXNNSjljSlhiLUhhUXZmc3JZT1JLMUVsRm9ROUJ3eDFHVklZdzFvV1IyN25LdDNibzRtcXFkTS1udUc4VXBNNHpSOTlkam9Mc0pyMzJZMDE3N0NqZw?oc=5",
+      "published": "2026-11-23T07:00:00+00:00",
+      "source": "Ecran Mobile",
+      "summary": "Microsoft dévoile 7 nouvelles IA moins chères pour rivaliser avec ChatGPT et Claude Ecran Mobile"
+    },
+    {
+      "category": "tech",
+      "topic": "TECH & IA",
+      "title": "Après les dérapages de ses IA, OpenAI veut pouvoir les arrêter plus vite - Journal du Geek",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOYWtJQk5LaXR0ZEtQSEhyRU1rWDFuWVBGU2RaZXlrTjZkTjF2VXRyMnFSemo5Yk1FVncxbGR2NW5aMXpMYjhzVS1JekMzTkpQeGRWcE9MUFdFb1owVXBJZTN6Z3ZBREVXMThoWjlVZkd3TDFfUjJYMmZxdUtQTmJHam0zMGRvUzVEeVBMamVlczlGV0Z5dUtiaHdOSjItdGhmcGhLRGprV2w1Z0FLNWlhQnZfbw?oc=5",
+      "published": "2026-11-23T06:57:59+00:00",
+      "source": "Journal du Geek",
+      "summary": "Après les dérapages de ses IA, OpenAI veut pouvoir les arrêter plus vite Journal du Geek"
+    },
+    {
+      "category": "finance",
+      "topic": "FINANCE & ÉCONOMIE",
+      "title": "Où placer son épargne quand la Suisse ne rapporte presque rien? - 24 Heures",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZmZicy03N2ZMc2NIUFZDOVFkaUI0ck9UWW1HZXo4RGZMYjBXUnBVbDNkY3o2VW5nQ0VGVGtsRHhxQ2xrSUpvQ1VMdVhsclRmUUdNbzRXT0RUR0pvRmxnVmdqME80MVo2NExKTEJzQ3g0eVF4bVBxaVNCVWJWblQ3Zjk1aXhLdVdWQVdyc21DS18zWmtQQVdGaERxOC1zVnhMZFJN?oc=5",
+      "published": "2026-11-23T06:56:46+00:00",
+      "source": "24 Heures",
+      "summary": "Où placer son épargne quand la Suisse ne rapporte presque rien? 24 Heures"
+    },
+    {
+      "category": "tech",
+      "topic": "TECH & IA",
+      "title": "Du sol vietnamien à la scène mondiale : deuxième record pour le complexe laitier TH. - Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOY0xBdW11MjNtQ09xcEtqUHh2MzBuLWRrMzV4bHZldm44bmFDdTFRTXpjVG83ZUVHcUVOWDRsLVQ2QlpicWQ4OFA5S1Zmdk84emtvTEN1WURqdVBRR3V1ZE9zVHpzSy1EZXJIaG5pajRReEVwY1NzNDRxbkMxRXhlRl9Yc2tVNi10YlFZamljVEt0MXdZcEEwQ0Vncy01UVhvRUFvOGViQ21KZFdXNzVIRkRaTmVxdw?oc=5",
+      "published": "2026-11-23T06:43:02+00:00",
+      "source": "Vietnam.vn",
+      "summary": "Du sol vietnamien à la scène mondiale : deuxième record pour le complexe laitier TH. Vietnam.vn"
+    },
+    {
+      "category": "finance",
+      "topic": "FINANCE & ÉCONOMIE",
+      "title": "Semaine noire pour l'IA et les métaux précieux - allnews.ch",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOYWRkRnlaUXBZZ2ptTk5KdG01UDUxTDdRRHhxWTBGYlNlX29PUFIyYjhMUTZLWjcwRXl4WU5KVU1YRmU4VTFHNGV2Z0YtMl9aVlFBdmEzVndyTDBmS0RGdnpPa2pvNU90cVB2dmZzeE5iTXBha0RoVU5oeFF2TDZ5WnpxUFIwdDB1UTFXeWdUWW9EUlZTWnc2bkpmNkU2T0U4?oc=5",
+      "published": "2026-11-23T06:41:44+00:00",
+      "source": "allnews.ch",
+      "summary": "Semaine noire pour l'IA et les métaux précieux allnews.ch"
+    },
+    {
+      "category": "finance",
+      "topic": "FINANCE & ÉCONOMIE",
+      "title": "On espère que la bourse des matières premières du VIFC-HCMC aidera les produits agricoles vietnamiens à mieux maîtriser leurs prix. - Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOS04xdHd1b2VmbF9ManNrTlhCQ194R19RM1lqcGt6NTZUOHR5blozeTJPOWlqLVZVV3dTS3ZVVmFCZHV4My1kSDhIMmc0cktQLWd4eHJFSmttT1NtNzBTWEFzUDlQcWJVTFBON2htSzkwUk5vYi12YnNqSFNTWFNBc1ZibXFaZW93WHA4SVRtNnZTQUlDRFh6QmdDNA?oc=5",
+      "published": "2026-11-23T06:37:50+00:00",
+      "source": "Vietnam.vn",
+      "summary": "On espère que la bourse des matières premières du VIFC-HCMC aidera les produits agricoles vietnamiens à mieux maîtriser leurs prix. Vietnam.vn"
+    },
+    {
+      "category": "finance",
+      "topic": "FINANCE & ÉCONOMIE",
+      "title": "Les marchés mondiaux des matières premières étaient en forte baisse, les prix de l'argent et du café s'effondrant. - Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdzBqMGxrMXg3cEVUaUxuMmhPSkQ1VkIySENMM2RPUHZkZkZYM0NoSlB2RHBObzY2R2g2eHRUWXBLU3otM3YwWGphc29HMG1sMlZlSy16RmkwNGg2czlBUDczd29WMVQwZ2Jody1HNWV2TmNXMkt4Q3R4Ti1tbHhkQ2hxeUZFNjZWQUV1Ni1maVhZUWlJekVEYzZvMl9hbXFqelE?oc=5",
+      "published": "2026-11-23T06:36:40+00:00",
+      "source": "Vietnam.vn",
+      "summary": "Les marchés mondiaux des matières premières étaient en forte baisse, les prix de l'argent et du café s'effondrant. Vietnam.vn"
+    },
     {
       "category": "feminisme",
       "topic": "FÉMINISME",
-      "title": "En Haute-Vienne, une centaine de personnes ont marché contre tous les types de violences faites aux femmes - ici.fr",
-      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNVkJ3Y1JwLUpkb3dWZU9XT0xPXzkxY25LS2s0aUcxeEpSSWFSUFI4VGN0NUhxcHlSOUtibE1LSnRVNU5uS1J1R2YzdEhhTWY1VU1CM2dscXhrS21sZzlYMjNWY3pEb1EzRllJZmVPX2NIQ2lud2FHWXNUcHVFeDQ0eWlUbTM0YW91dm5RaXQ1SkxiNFdsMnplb3dTSGZXNUxSYm53aFI4UldmSC1IXzVuYkJ1QlBwMXJGUE9XeVFnYmFXOFI5Rlc5d0tMdzFBb3Vpb2JGWGs2QTljeUhrLThkbHN3c01Ld205OEg5T2NxRVVVbnZMUDk0bVNZTnQ?oc=5",
-      "published": "2026-11-22T06:31:30+00:00",
+      "title": "“Une pierre à l’édifice” : à Toucques, un banc rouge pour lutter contre les violences faites aux femmes - ici.fr",
+      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQWERfY3V3R0QybWVTbXhXbFRXYnpLaDRSYVVWQm91dTc1TDBaSUVIN0pWUlZ2cGFaT2d0d2xNYzNISi1OQVBzOFllOVZ2Q0VzaWNaNEp0TnRPQkUxQm5SNS1zREs2NzM2ZkVSQWN6MTlfWlNiWVE5ZFIwV2cxZ1kzekVBbFM3ZjMycFdOWmlFc3RHeTNIVHkwY1lGRUZ1bWxCZFluSjNQUDBsQmw3czRkVHhlTGFLbG1sby05TU0yUm9Oa2VEdmc4NXduTGhkSGVQRlhOdkpReTcyU1ktSU1Ka3dXX3lqQ09DckhtZUlJVkxqR190LUtBaU81LXY5UVNjVDIzX1Fna0F3Zw?oc=5",
+      "published": "2026-11-23T06:32:30+00:00",
       "source": "ici.fr",
-      "summary": "En Haute-Vienne, une centaine de personnes ont marché contre tous les types de violences faites aux femmes ici.fr"
+      "summary": "“Une pierre à l’édifice” : à Toucques, un banc rouge pour lutter contre les violences faites aux femmes ici.fr"
+    },
+    {
+      "category": "feminisme",
+      "topic": "FÉMINISME",
+      "title": "À Nantes, un quinquagénaire condamné pour harcèlement et agression sexuelle sur sa nouvelle collègue de 21 ans - Ouest-France",
+      "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPNldvVWpvOWxOYjZtZkRNeGxidndfRFhhRHVIdUdFV01MQ01zUi0zTzhYb3dsTEF5amVTNEdmajZxU0s4cGxaQWk0dUxMT1RfLUFyV01zRC1Xck5ZbzlFaF9OTWdvcE1INENHTkJCSzNUQ0cxV1VzWTNUM1hhY0l1R1hZZ0ZsV0NaS2xkS3hmeEppQ0ZGbUxKZ1I4Ml9zM2lkTEw1UkRUMnBnb3RQWjJaZEdfNkZmZXlNWm9nTmRGak50TGkzQnZESjZBdU10UzNMdjBSdDBoLU1IS2xDdHo4NGxrbHB4bjhmRW54a0F0d2F4cUdpMlpKOVlCbTRzdlh4MFpHS3dvaTE3VTh5V1h6cVVfN0tiTTBBMVE?oc=5",
+      "published": "2026-11-23T06:30:12+00:00",
+      "source": "Ouest-France",
+      "summary": "À Nantes, un quinquagénaire condamné pour harcèlement et agression sexuelle sur sa nouvelle collègue de 21 ans Ouest-France"
+    },
+    {
+      "category": "politique",
+      "topic": "POLITIQUE",
+      "title": "Présidentielle 2027 : et si la grande idée était de rendre leur argent aux Français ? - Economie Matin",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMjJIZTFzT0RnNG9ZSDIxVGN3ZEx3QU8tNklTQUcyZUF6ck8wWWhRSGktZTh2OGVvMU1WQ1FKNm1zdjVndTVIVHlscGI1Y2JTUDlwOEYyUjF6YXc0TmFIVDQySGNrbnJWb1NuM3FCeDBOREQwMllJdWNfNXZUTk53ZVlCTXpab3B0S0Y0NXphcUo?oc=5",
+      "published": "2026-11-23T06:30:00+00:00",
+      "source": "Economie Matin",
+      "summary": "Présidentielle 2027 : et si la grande idée était de rendre leur argent aux Français ? Economie Matin"
+    },
+    {
+      "category": "finance",
+      "topic": "FINANCE & ÉCONOMIE",
+      "title": "Thai Nguyen : L'infrastructure des transports est le « pilier » qui soutient la croissance économique. - Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQNlUyNkpjNWdOZ2RVQkxEY0RmbXRVUGtfMVR4alJXMmR2TkVPeFVhdzN6ZXBnLXlJWnAtVm8wVGUwTUc1R2VoRDkzQjVNeFhPbzBrc1ZmNm1HRkR2MDVzRTRzWV8wZ3RYS3FpLVdFUE8teHJnNHA0SmRRRFFvWG50cXAza0QwTkxfaGpQQ1FFdTdFMmtO?oc=5",
+      "published": "2026-11-23T06:22:53+00:00",
+      "source": "Vietnam.vn",
+      "summary": "Thai Nguyen : L'infrastructure des transports est le « pilier » qui soutient la croissance économique. Vietnam.vn"
+    },
+    {
+      "category": "finance",
+      "topic": "FINANCE & ÉCONOMIE",
+      "title": "ENGIE : La situation technique est plutôt incertaine - Boursorama",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQaF9nVnNodGxqYlBWM1FGWkl1UUVXek8yUmVneDRPV0JSMlNTSEZ6LW9NV2RDNDNtV0U3bkVnQVlSQjY2cE5icEM4X0phVUppUlF0Q1lLLTlSNTN6ZUJLcDA0WTNkOGZ4SEdEWU1HbUJqSzUtcmVqMkdrSGsyWk9KQ2pSNXhfTGM5T3g1ck9SUnZmeHJfdXlvLTdTdmxxWkpjNzdOMzI3VzdpWHFaaXh6Z1ZnM0xWRjRqeXBsX0RqamNONjVjcmxJ0gHMAUFVX3lxTFByMWNjME1fSTJzSUNFQmJib0FkNmpRaGxacnBwOWNaM2RCNkc4SllMbG5wVldXZk5NRW1hb0o3NGZQbzg4TTdfMG82MFNndjVBbEpHNVdMblRrOXppME9XS3E5dGMtdzJoUDgyalpkcG81MExTX3dWa01WYjFaaFBPOTJ3eHBaZDBxZWFWWlc5dG9lMDctUEFPTkVDSWQyM01maXNfQlpIakNQWmE4ZDlBNExWU2xuRVdmdzBNeW5obkw4WGwyQTNTdzNocQ?oc=5",
+      "published": "2026-11-23T06:14:00+00:00",
+      "source": "Boursorama",
+      "summary": "ENGIE : La situation technique est plutôt incertaine Boursorama"
+    },
+    {
+      "category": "finance",
+      "topic": "FINANCE & ÉCONOMIE",
+      "title": "MARCHÉ DES MATIÈRES PREMIÈRES : Les prix de l'argent et du café s'effondrent. - Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPZHJJRHlxRVdJblFldW9JbGMzTXVjRnR5THdxd0NmM1gxY3dKemZSd3lSNnpIekVzMTQ5cFRLN00zelNiOTlvTmNwWG1XTUhfWWI3X3VXS2NRUGJMYlVseEJ3NTB0UXVOOTVWWjZ1TEhZazZHRzc5SEduZUV5MWdpYnBB?oc=5",
+      "published": "2026-11-23T06:10:44+00:00",
+      "source": "Vietnam.vn",
+      "summary": "MARCHÉ DES MATIÈRES PREMIÈRES : Les prix de l'argent et du café s'effondrent. Vietnam.vn"
+    },
+    {
+      "category": "finance",
+      "topic": "FINANCE & ÉCONOMIE",
+      "title": "Hausse des rendements: peu de risques pour l’économie et les actions - allnews.ch",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWjJYQjNoSXpxNVhRTFpBTnhiTDFYaGtabGlvUzdjZWxVTkt5R01nR2JsT1ZTZ0J2VXQ1SnpUTGZlLU1IM3BMWnFKSkNYeGFITUdhRDduV2FFaHpTR0J5X2dPT2VMTDNPXzFKXzlrT3g5Z3VvWloyUTNHU0pGR3YtS2RVaWhMdnVGck1acGtWdk9tWDNOUElnNm9qaWUxM25GcjNGckJXaDUwLXFIMnFwRUVjRHhCcGcxRlJpQjNQbXg?oc=5",
+      "published": "2026-11-23T06:00:00+00:00",
+      "source": "allnews.ch",
+      "summary": "Hausse des rendements: peu de risques pour l’économie et les actions allnews.ch"
+    },
+    {
+      "category": "finance",
+      "topic": "FINANCE & ÉCONOMIE",
+      "title": "BNP Paribas, Crédit agricole, SG… Opportunité d’investissement en Bourse après la chute des actions des banques - Capital.fr",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNRTB6cjZUbkhRb0tUZGNJNVJCUnNZWE82U1g4cjh2MG9vX0l3SFRmMFRQdkxsNG8wdk1vUW1MN0hpbm9BOXZFbFlTZ2xtWWtiOWNYQ2E2Zm80cWJEdFpQR3dVb1ZVaE51OHpQZEd2Ykt1NWFRZk9TTXF5d00tSlRKdzNIYjFyVUpXS3F0U1RkQjBaeWI2QTQ0V3lhUG5BSUo1Zk9Ob3N4UEV5R1Q5M1dIOE1XVUw2b0h0a0JDcTlYSzUycUMyRmFXWUxaV01PbVZ1T3U0VGJmWXA0a2RnMTM4eGg0bVlJZ0hrTjZDYmRNZw?oc=5",
+      "published": "2026-11-23T06:00:00+00:00",
+      "source": "Capital.fr",
+      "summary": "BNP Paribas, Crédit agricole, SG… Opportunité d’investissement en Bourse après la chute des actions des banques Capital.fr"
+    },
+    {
+      "category": "feminisme",
+      "topic": "FÉMINISME",
+      "title": "Essars. Un banc rouge contre les violences conjugales : le combat d'un père après le féminicide de sa fille - HorizonActu.fr",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOQkRfYjFXYzYzSmxLYmdEMkptTEdtVEE4by1yX25FbzBFYklSOEotcG1Vb19Jdnl4RndubldjY2V1TUhsN0ZSS0k5Zkx2dnIzQUtTNkl0QjRkSVBQYnJpUGZKeVJwNnhkN3ZmbzVJeFFnSGVoZUF5eWFIZjRwVXRQa2pZUmZ4SU05bEhyNEpoTTNyekU5WHlSUFppZXdRdWt2TmhUQjQtN2FSa3hTNFRpT1dvX1hBZlVSQm1RcmtaMExPX3oxUHRWUndBMVJKcTAxSGtoNGpFMFpELV8wbllZdQ?oc=5",
+      "published": "2026-11-23T06:00:00+00:00",
+      "source": "HorizonActu.fr",
+      "summary": "Essars. Un banc rouge contre les violences conjugales : le combat d'un père après le féminicide de sa fille HorizonActu.fr"
+    },
+    {
+      "category": "finance",
+      "topic": "FINANCE & ÉCONOMIE",
+      "title": "Les fonds de pension de New York confient 16,2 % de leur gestion active à des gérants issus de la diversité - L'Agefi",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxObUc4M29veTFTWXNzeWVtVlFUV3NXeWwzWVlaMURjSWMzUU9SQmZDelRDWVg0SHB0RTUzZzRUbGtRZUFBbVV5ckxHYzFBeTZnc1JfU2ZEalBIN1ZfbEt2M1U3ZGtIY3R2Y0tINWJONExsbG1oY2ZRZUJ2T3N1NkZBZ0c5YjhSdHF3bzNtaGxRZmNRZGlmOFpXMUE3MVUzU0dyckRzbnJEaWNMRk5kX0JkblUteGM1dVI3NDJhbV9HOVBEODRNcnZrRnNIQmo2dmR6eUdKMS02VE9MOUFJWGRGQjVOSXEwMzF5N0F5SlVCRjBBQ3B4TGVOVWp5VQ?oc=5",
+      "published": "2026-11-23T05:58:15+00:00",
+      "source": "L'Agefi",
+      "summary": "Les fonds de pension de New York confient 16,2 % de leur gestion active à des gérants issus de la diversité L'Agefi"
+    },
+    {
+      "category": "finance",
+      "topic": "FINANCE & ÉCONOMIE",
+      "title": "Débloquer des capitaux à moyen et long terme pour les entreprises cotées en bourse. - Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMHFXMjZZVmNOay1ySHppYjBuRmdUMFpKak02MmJCSVBOb2RrUlByTHNWWDhfWW1lWFdXalUtRzBJVkdkZVNZVVB5RkNjcEJEalNxWmVWVVVveXhyRjJtMm1ETnRobUhwMGYySmUyMDhaUW5jLXVpRHdTOXVaMmppOTBTLTRPTTVZRFJDMTVLYmxDWmUtRF9jdk5zUTFuWVk?oc=5",
+      "published": "2026-11-23T05:57:06+00:00",
+      "source": "Vietnam.vn",
+      "summary": "Débloquer des capitaux à moyen et long terme pour les entreprises cotées en bourse. Vietnam.vn"
+    },
+    {
+      "category": "tech",
+      "topic": "TECH & IA",
+      "title": "Cloud souverain UE : 180 M€ contre 82 % de parts US - shattered.io",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOLVJQUF94Z2N3YkNyM3FXYkFXZFJDNnFmazdaUE5POW15a0hOQzBIRFVnM2czOE10b293UElIVDlzWVdST0Q3ZVF2TmNLS3htc3hIdnFFVC10V1k5U0tWVGFXeEkwZEdzT3VZaTZZVV9xT2RSZjQ2SmhTTjZfMXpYSkRsY3kzQlowNXdtRWJzcGFBRlBOaGNFQw?oc=5",
+      "published": "2026-11-23T05:56:16+00:00",
+      "source": "shattered.io",
+      "summary": "Cloud souverain UE : 180 M€ contre 82 % de parts US shattered.io"
+    },
+    {
+      "category": "finance",
+      "topic": "FINANCE & ÉCONOMIE",
+      "title": "Les marchés des matières premières ont connu une semaine de fortes baisses de prix. - Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4yT1Qya25oUGJFRlI3NW83cVJmZ2EtM2gtVHI3WjRGSFVMQ0g0OTd0X3JBVVBXSzlhREZFNU1RdjBTa1ZzWndDWFBjNEttb2RpTEVDa0tIcHE0YVhRS2VKZURoQWRFY1RuSmVlSDJRTTE0NE9tTFJN?oc=5",
+      "published": "2026-11-23T05:54:57+00:00",
+      "source": "Vietnam.vn",
+      "summary": "Les marchés des matières premières ont connu une semaine de fortes baisses de prix. Vietnam.vn"
+    },
+    {
+      "category": "politique",
+      "topic": "POLITIQUE",
+      "title": "La cuisine vietnamienne diffuse son identité et crée des liens entre des personnes du monde entier. - Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPS0VBTE0wWF9oMU45WU5LVURWNFVEcUlrc3JVOVZEcExPWW9lZHIzdWd1UmNCcThEcUtCLXlCYWNMWUp6OExha2xFcFZ0S05UWkpfM3hKR2ZaZ2FIOHhGd01TVTJfUnpnR0s4b1hGT3JZSGJnX3Q5OGtzMFVBbnBGTFg5dnh1Sml2MlE?oc=5",
+      "published": "2026-11-23T05:50:56+00:00",
+      "source": "Vietnam.vn",
+      "summary": "La cuisine vietnamienne diffuse son identité et crée des liens entre des personnes du monde entier. Vietnam.vn"
+    },
+    {
+      "category": "tech",
+      "topic": "TECH & IA",
+      "title": "Ville de Bac Ninh : Développer les industries de soutien dans une direction moderne et durable. - Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQV3FPaldydVFBODBqSG9iZ2ZvS0tpM29rcnZjNjBtdE5oWUZNMEdtcG5Nb3MxUEU1alIzbW1SSG43SWtsMkpnUDFUaU54ZkNUelcxN0ZBWUpFM2YtRXlhNVZJN2VkM2ZVaUhZd1pfWmpWMF9ZVUNlc2lha3E4bzltRjlwWjJjYmdmYl9iZjNyVk1iNWtTSFA1R1NoUmpnSDh5RGZhY1V3?oc=5",
+      "published": "2026-11-23T05:50:54+00:00",
+      "source": "Vietnam.vn",
+      "summary": "Ville de Bac Ninh : Développer les industries de soutien dans une direction moderne et durable. Vietnam.vn"
+    },
+    {
+      "category": "finance",
+      "topic": "FINANCE & ÉCONOMIE",
+      "title": "Long Hung accélère le décaissement des fonds d'investissement publics, en supprimant les obstacles à la réalisation de ses objectifs. - Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNM3lUb1ViTnYtdFA3ZW9iLVNROV9MbEdacVRaM3UyZUpseG9UbzY0LV9KMzBnVE9KV2ZKWlJMakc0a1ZwYTBJVlJvaXJTWVA4Nnc0VEZUMl9PR0w4N0w5aHExTmZ4WWJqODVLN19mVGdvRVhjWHVZTmdtYjZlVURPOXNHWVZwY1ExWW1OQk5XOFNtWE1ncE5INkNHUHNTa1NVeEE?oc=5",
+      "published": "2026-11-23T05:50:49+00:00",
+      "source": "Vietnam.vn",
+      "summary": "Long Hung accélère le décaissement des fonds d'investissement publics, en supprimant les obstacles à la réalisation de ses objectifs. Vietnam.vn"
+    },
+    {
+      "category": "feminisme",
+      "topic": "FÉMINISME",
+      "title": "Présidentielle 2027 : « Plafond de verre », attaques sexistes et « virilisme »… Pourquoi peu de femmes briguent l’Élysée - Ouest-France",
+      "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQM3BnT1hZVnJTcXVEbV9DTFRieVZsVlRtUzYtaXBReS1ZUFM2bExZRGVXNlRXX2RCLWh4N1ZhdkhNbzNudXhFbmNVRXZrTE01Q0poUmRlOVJKWW56YnhVd2ZDYzg1VVRHdDg2bFB5STZxZ2ZxaXBJYTd5RVZxQ2Z3MGJOc2ZzSEN3cDVFSzBWOHd6aG0zNFNXbnlTalZRWHVhUGg4VHVaeS1ISlJOVGZod0ZsSkQ0MDVYU1d4aVN4YzExN2RPdjJKUzRnbUxtWEZ5YmFRM1ZSYjZxcWJFZm9YeUUwclEyVjRTUl9iR0REckNId2I4dEpxSWRVblFNZTRhRDZ0V1k1ZUZ6NnU3R05GMUFiMjF0QTBkRkxYQlZtaWs5Xzg?oc=5",
+      "published": "2026-11-23T05:30:41+00:00",
+      "source": "Ouest-France",
+      "summary": "Présidentielle 2027 : « Plafond de verre », attaques sexistes et « virilisme »… Pourquoi peu de femmes briguent l’Élysée Ouest-France"
+    },
+    {
+      "category": "politique",
+      "topic": "POLITIQUE",
+      "title": "Le Pen recule et Lisnard accélère dans un sondage pour la présidentielle - 20 Minutes",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVThKcTlVRkxWalN1Z1FtQzBKY2VuOWo2WmVvX2dMUTRNSjMwSUltWVZFX1dsVnNZMmdVUmZzTU8xeXY5a1dKUmliNi1RcGZtdEU0ZVRxZE9uQWVaT2Z4WF9jLUhqN1JDS3R3dXRTV0tsMGRJbUswb1BuMFJUQm00d3ZpbTdmZEZPOGl4TzdTbW0tek55STZXVnZuUXZUTHg3UmFsSmg1djl3dURMM1Fr?oc=5",
+      "published": "2026-11-23T05:26:00+00:00",
+      "source": "20 Minutes",
+      "summary": "Le Pen recule et Lisnard accélère dans un sondage pour la présidentielle 20 Minutes"
+    },
+    {
+      "category": "finance",
+      "topic": "FINANCE & ÉCONOMIE",
+      "title": "Après TotalEnergies, MBDA poursuivi en justice pour manquement à son devoir de vigilance - La Lettre",
+      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNVnlVczE5VXdlSTJsb2plVVptVFV6VWp1dDZVMDVCSTQ5UjczTGZxbG5DZ3Vic3hZWHZ2ejZwSzY1dTVjOGZrdjFpV2owMDZ3cTljSjkzd0FYSDh2ZHJFN0tWSG9VeGxNdExPZGJRcXpzZEVTMmV5SURRaWZyZ29JdUpSMGx6djRCa01yOEQ5QjlLYjFqcWVwdWdtOXBRbjRuanBxeGRSRFBWWEdGVnJmUjcwOVRQRmFsMUtKRUpyLTBsWk44Nm5YcHYxTjdsbUZGR0JTdlJiS09DZU1kRmVqWUd6dDRvWDBlaUNtZEFRU1hHX3ptMGtreXd3YlZvNF9TczBoSGJR?oc=5",
+      "published": "2026-11-23T05:20:00+00:00",
+      "source": "La Lettre",
+      "summary": "Après TotalEnergies, MBDA poursuivi en justice pour manquement à son devoir de vigilance La Lettre"
+    },
+    {
+      "category": "tech",
+      "topic": "TECH & IA",
+      "title": "La quête de souveraineté de l’Europe dans le cloud gagne du terrain, mais les hyperscalers américains restent dominants - Zonebourse Suisse",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQbTNCVFNwNm9DUk41Z2MyaHRUTnNkT3AyWWM0Uk44dlFaOWVxXy1sLTZteW1IVjBwSGMwX0xLTXNWYTFzY1FBV3lrOTRjY3RTMDhvcGdVV1ZxaUVXR2w1SFdERUhhTUU0bm5JQnpxbFd3X3Zub2VaQTE2RHVvZHdXUTQ3T2F6TjJxVkk2VjM0YlJYUF9MdzV1NVV5NXlZSDdVRl9pd2ZpLVJGeVBNaXFzdzRFWm96X1BnVTVDMExqTllkY2RWdGRDeVlCX3Brd1YxSmpnay0weV9JM1ZKV2g2MDFnTV93dkI1UGVwSWZlUQ?oc=5",
+      "published": "2026-11-23T05:02:02+00:00",
+      "source": "Zonebourse Suisse",
+      "summary": "La quête de souveraineté de l’Europe dans le cloud gagne du terrain, mais les hyperscalers américains restent dominants Zonebourse Suisse"
+    },
+    {
+      "category": "finance",
+      "topic": "FINANCE & ÉCONOMIE",
+      "title": "Savez-vous combien gagnent les patrons d’EDF, Orano et Naval Group ? Vous allez être surpris ! - Actu.fr",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxON0c5QkpmbE5HMzdKMEVtcWplT3d3Y1lpUXpLeGtPaHlwbnlvSVdTVk9RdUVTYWdqd2xDWmlPUHUzMjlQdjV0VE11cmFfQVoyMGNrS0M3WHVQWDZ4Z2dXMnpYWGxBc1hGbnNsZkVCZ0NvMXhSVlU5amc2RzJMTlVoZHpvX3JXd24xSkZ3dXdqRTRBRmk5aFpUMmZVbUpCa21lTkRpQ3VLb3BkNFI0R1JiOVUybjYzSXhwUkhhVVg5dGlONTI0b3c?oc=5",
+      "published": "2026-11-23T05:02:02+00:00",
+      "source": "Actu.fr",
+      "summary": "Savez-vous combien gagnent les patrons d’EDF, Orano et Naval Group ? Vous allez être surpris ! Actu.fr"
+    },
+    {
+      "category": "finance",
+      "topic": "FINANCE & ÉCONOMIE",
+      "title": "« Macroéconomiquement, ça ne tient pas » : ces risques que la réforme des retraites du RN ferait peser sur la croissance et le déficit - Les Echos",
+      "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxOcEN4cXdwTXJfTUhSX0U1WlhoS1VpczhtR3hwSTBiSWlVTHdtYXBmMDlXdndyclNMNTFoN0lOZjdUZkNfUUNRMUpqd2V6NDlONmZacjhScWFySmhJUkNrdFBUSXl5R1ZJV2xEeHRKbi13WnNCSFZVQTV2VzlDZEFVUlBNbTFQd0ozMzNSWHBJV2hfMlVqTVUxTXdLbnRXQnF3dW93ZmNhTFpwNUlpT005WEh0NGFLZEM2TU05NEFTc1pNTWJ0XzE5Z0hoVnhtajNQUEtzb0l4VjhpRk9USkY0SXFDcXZUaGhfb2Z3ZllYVEZqRm9aOHp0UDdjM1p3SUhWZkYwZkdrRHZFd3FOWTJGRFlxUGxnTWV4aDhV?oc=5",
+      "published": "2026-11-23T05:00:08+00:00",
+      "source": "Les Echos",
+      "summary": "« Macroéconomiquement, ça ne tient pas » : ces risques que la réforme des retraites du RN ferait peser sur la croissance et le déficit Les Echos"
+    },
+    {
+      "category": "finance",
+      "topic": "FINANCE & ÉCONOMIE",
+      "title": "Le taux de change central a augmenté de 9 dongs, tandis que le dollar américain dans les banques est resté à un niveau élevé. - Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQM3dpbFpzSmlsSkpHRnhEU3d5WEZoR1pfOFBGRmdTWk1tWVhqV2hiSVlxbVlnSnpIY05URUpQeEdKcFQwS3VkazRXVjhZbVppWUR3OHpKclpPZnVLbmlONkFlSFlXRjBHa3dPaHhwODUyN2pCNUg3WllHTG5Fd1ZIbUxZMVpyazM1N0pYb2lmTXJaVmc4?oc=5",
+      "published": "2026-11-23T04:44:39+00:00",
+      "source": "Vietnam.vn",
+      "summary": "Le taux de change central a augmenté de 9 dongs, tandis que le dollar américain dans les banques est resté à un niveau élevé. Vietnam.vn"
+    },
+    {
+      "category": "feminisme",
+      "topic": "FÉMINISME",
+      "title": "Féminicide de Chahinez Daoud : son ex-mari Mounir Boutaa jugé en appel pour l’avoir brûlée vive - Libération",
+      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOUElpek96M1NMNUkyVDEyVUp1SE1peVUzQmRBc084aUdXWER1cWxXYlZfREhOb1RsVTZTakNUb2ktVjZ2bU5kOFE4Tlp0aXRKSVZCVEhkbE5wMmJVVEZPaUdDNEppZUdISmE2V1VxLUpILVU4ODd4T0lnZ3lTUHhFN0dNUHl2eC13Z29RbTZSUUVROVI5SXkwZmVheFRkNndYemFVdGZpZkVlWkNnUkhSOXJzVzZjeXdZMW1tQXBNNzItNm81cUJMd051dC1zRVpJUnBTQjZ5c1ZkVEJaOWRFX0U1SU03ZmVzN2hVa2xhTFdZb25YMDAxdGpQRDc4ck5xQnRJTUNsdkhFQQ?oc=5",
+      "published": "2026-11-23T04:32:50+00:00",
+      "source": "Libération",
+      "summary": "Féminicide de Chahinez Daoud : son ex-mari Mounir Boutaa jugé en appel pour l’avoir brûlée vive Libération"
+    },
+    {
+      "category": "finance",
+      "topic": "FINANCE & ÉCONOMIE",
+      "title": "Les banques centrales signalent une période prolongée de taux élevés - IndexBox",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQTG5mUFRiaTZsem1yUG9sdmtxX0hQd0RIbndyOUNLekRzT25IbUdxV2NrYUp6emlPVjlqSGEzaGN1b3oweHhVNzhUcFI3bFJjeWV5dW0yR1pqUXdvZmFmbm50Q0FVMm1EWDYwUVEtRU0zNHF6Z3dYakVEWlJxcFp6NFlOcFItVmtSU253UEt6OTU?oc=5",
+      "published": "2026-11-23T04:11:54+00:00",
+      "source": "IndexBox",
+      "summary": "Les banques centrales signalent une période prolongée de taux élevés IndexBox"
+    },
+    {
+      "category": "finance",
+      "topic": "FINANCE & ÉCONOMIE",
+      "title": "ING : le soutien du dollar devrait se maintenir jusqu'au début de 2027, EUR/USD attendu entre 1,10 et 1,15 - IndexBox",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNjgyRFhnd2EtY2xqckxEaVBNNGNTRHMzZDBKaUs4VDVLemFLaWxjdlIwRUJPT0s0bW8teldneWFjNTdDd0ZtZ2JqV0RwdTc2SF9XcDhVZnFkOTU5RGszQTJ1d1hyNUZoMGh0emJMc2JyLTNzT0VDODhiejZmZ2w3UHNpRUhYTzBtMDM4VmpLWnVWN1NTOFN4SW9nYjF5dnBPT25n?oc=5",
+      "published": "2026-11-23T04:10:23+00:00",
+      "source": "IndexBox",
+      "summary": "ING : le soutien du dollar devrait se maintenir jusqu'au début de 2027, EUR/USD attendu entre 1,10 et 1,15 IndexBox"
+    },
+    {
+      "category": "finance",
+      "topic": "FINANCE & ÉCONOMIE",
+      "title": "Algérie : la croissance atteint 3,8 % en 2025 malgré le recul des recettes d’hydrocarbures - Africa News Agency",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOa2VmWDJNYnUzTkRlcEYwSjJZWTByZWtUd0RTcVlCa2JxZy1uOGl6ZG1pUUdqVGZkQ2lqNHU5VWhOU0JvRG9uTlVKNThuZFBUZ0N6cWMwdTlrYlc2THh1S2dFZEFYY0YwMWVWT0NkUFdTZXU1bjh4aTk1TEhXQ2t2TlV1TVhzckVodm1tbHZPdnNDUThCbDh1T3lPSGIzdDRUYVI4SFBFTzRxNHYxTXp6MVNWQVVYWEU?oc=5",
+      "published": "2026-11-23T04:03:44+00:00",
+      "source": "Africa News Agency",
+      "summary": "Algérie : la croissance atteint 3,8 % en 2025 malgré le recul des recettes d’hydrocarbures Africa News Agency"
+    },
+    {
+      "category": "feminisme",
+      "topic": "FÉMINISME",
+      "title": "CC - Coupe de France - Issoire - U19 Femmes #2 : Classement - DirectVelo",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMVFIZm9IUG14ejJtcHhnUWZEbmhZT3RVNFZ4aUlGMkJxeEptU2kwMHRvOFptd2JxTXBob2NqYmdRRDJDOE9JajVRdTIycldLVHktUHcxdVNXbGx2VjZEd0tiSzdaaXB6eUtnX3Z4MEhOOHhIbHNYM3dQVkVsdGVuRzRqYXMxTTBqRkVuSUZtbVJKZ0VscDBISnln?oc=5",
+      "published": "2026-11-23T03:46:46+00:00",
+      "source": "DirectVelo",
+      "summary": "CC - Coupe de France - Issoire - U19 Femmes #2 : Classement DirectVelo"
+    },
+    {
+      "category": "finance",
+      "topic": "FINANCE & ÉCONOMIE",
+      "title": "Débloquer les flux de capitaux obligataires pour l'investissement dans les infrastructures - Laodong.vn",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWi1fZTlGSHlZREhoeXZ4bzk3R2Rud1BlTGZBTDlGcUlva2trY3ItdU5rUXR4cjEtY0lnVjNGdGM0czJYNUxHSUs4VGVWMmlkMHJId3E0VHpNa3oyR0NUUTFjaUdjRGJmb0h1VjRiNGVSR3AxVUtJdmRrMGQ2SzY4N3AzaDIxNXpPNko5aVUySU1mT3dpQ2ZockZn?oc=5",
+      "published": "2026-11-23T03:17:01+00:00",
+      "source": "Laodong.vn",
+      "summary": "Débloquer les flux de capitaux obligataires pour l'investissement dans les infrastructures Laodong.vn"
+    },
+    {
+      "category": "politique",
+      "topic": "POLITIQUE",
+      "title": "Présidentielle 2027 : qui sont les principaux candidats déjà déclarés ? - Touteleurope.eu",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNY0xtSGxUMlNNdUdSYVhqV19HWklpLU45R3pSV3ZxNWVOS1lTV3pPVm03d2pvdXQ1OFB1ejBBaEJTRFJoT1FSMU4zVmhCWGk4VHp4MFVPc0xCZVFPN1FoY1NyVGg4S3BvQy1uVEhBVTlRc2pqV1NwVVJJQUZXNXJjbERxLTMtc1BhYm1jM0M1S1l5aWZ1ckhRZFZ1ekZSNlFEbkoyNG1yT21YWkdoNHdTYnAyV0VEVDRE?oc=5",
+      "published": "2026-11-23T03:03:33+00:00",
+      "source": "Touteleurope.eu",
+      "summary": "Présidentielle 2027 : qui sont les principaux candidats déjà déclarés ? Touteleurope.eu"
+    },
+    {
+      "category": "finance",
+      "topic": "FINANCE & ÉCONOMIE",
+      "title": "Taux de change du dollar américain aujourd'hui, 23 novembre 2026 : le taux de change central atteint un niveau record. - Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNVDNleXI5dnpydVQ3N1dacVJlZXdYOURvNk1La09xazNVNjZ4S0h4QVM4TGtQa1VyS1lFRndsTWRMVzNYVV9ma0xhdVY5dWJHa3J0T0p4R0I5Q1gtM1hxNU9hQ3Y0ckpMN05Pd0pIU0VjRjUtNkVxYTZaRU9BRUlEUlppdWJ4RFk?oc=5",
+      "published": "2026-11-23T02:30:32+00:00",
+      "source": "Vietnam.vn",
+      "summary": "Taux de change du dollar américain aujourd'hui, 23 novembre 2026 : le taux de change central atteint un niveau record. Vietnam.vn"
+    },
+    {
+      "category": "finance",
+      "topic": "FINANCE & ÉCONOMIE",
+      "title": "Les applications de la technologie blockchain accroissent la transparence de la chaîne d'approvisionnement en matières premières pour l'alimentation animale. - Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQT3hVOG1fV0FJWV8wSHZoVWQzY1d6NFVYb0dSYU5zYjNFbmdGU2hkY2hwZGpyZ0hhbjd4SEVMR3lFOXRYTHNBcloxUFJYV3ZTWHNCeUtPTzROX2Q0QU5Tc3BvNmNmaXh6TXh3X3RETC1HajFuT2RyT244YkJVdk5RNHl0cnZTRUhiWW9kZG4wN2ZualRoOTlhdFA4ZlItbFpfdlRYU2R4TQ?oc=5",
+      "published": "2026-11-23T02:26:47+00:00",
+      "source": "Vietnam.vn",
+      "summary": "Les applications de la technologie blockchain accroissent la transparence de la chaîne d'approvisionnement en matières premières pour l'alimentation animale. Vietnam.vn"
+    },
+    {
+      "category": "politique",
+      "topic": "POLITIQUE",
+      "title": "Salon international de la défense : un espace diplomatique et un symbole de statut national - Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPQWEtVHZrQXFkZXRLekVpWGF6Zmgyc3RSTnYtcGlndHNweGJKTjVGNmFmeGdTRXA3NjFqUUFNWjhQZEtVdGpnS3psVzNrZXNrbUQ3ZF9pUDJqV3B2bGgxUXcyc3p3cmdobW93ZkRpZUpEaDRnYXR1Tk1jcENSaDIwUmNtSFdndkxISDlfVHR5WXlIdzc1NS1EZVc2TDV3ZUY2RGhZ?oc=5",
+      "published": "2026-11-23T02:24:25+00:00",
+      "source": "Vietnam.vn",
+      "summary": "Salon international de la défense : un espace diplomatique et un symbole de statut national Vietnam.vn"
+    },
+    {
+      "category": "feminisme",
+      "topic": "FÉMINISME",
+      "title": "En Corée, les femmes gagnent en moyenne 28% de moins que les hommes malgré une réduction de l'écart - Agence de presse Yonhap",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBKdXBNbmxqeUd0ZmY4elNSdHVCbFZDUFVGWTVPRTQ0WFhyUTg5OS1ucmplYXN6RlYwdW5sWFFKNFpZX1ZxdUlRTFktcXNRX1c5cnUyMWRSWFpKZw?oc=5",
+      "published": "2026-11-23T02:23:39+00:00",
+      "source": "Agence de presse Yonhap",
+      "summary": "En Corée, les femmes gagnent en moyenne 28% de moins que les hommes malgré une réduction de l'écart Agence de presse Yonhap"
+    },
+    {
+      "category": "finance",
+      "topic": "FINANCE & ÉCONOMIE",
+      "title": "Dow Jones : après une semaine noire, Wall Street suspendue au PIB et au PCE - Investing.com France",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQYmJVUGVoU2RtblRsZzBmV2s4di1ZZnZYVm5WSFhyOG9HRC1IekpjUXpOWHp3SjVSYUZ0M2JXZ2R2NGVrUjFqaDhSY3RfM20yQ0hDVmRvd2Z5eVBxcHBNc0lLWWl3YW9Ha3JJWU9pZTB4bE1sMTRFVUxUVDVqY0ZlV29zTzNjSF9SQnFTNE9SX2YwN2lZdDRVck44M3pyWEhqZ2d6VW02Y0hMWVp1Zm1YSUJucUYwUlZ4Um9TYnZaUGVHZHQybl9ZSA?oc=5",
+      "published": "2026-11-23T02:12:00+00:00",
+      "source": "Investing.com France",
+      "summary": "Dow Jones : après une semaine noire, Wall Street suspendue au PIB et au PCE Investing.com France"
+    },
+    {
+      "category": "finance",
+      "topic": "FINANCE & ÉCONOMIE",
+      "title": "L’euro se maintient au-dessus de son plus bas depuis le début de l’année, sous 1,1000 face au dollar américain, avant les indices PMI flash - www.tmgm.com",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOaUtrZUxhd1Z3czhjSnlRSk5rYlFnZGVvdndzWXJiVXdQaGtsa1JEYVFXZVBLN29rczZncERtblRULTRIRGp2WmxDcHVBZTg3c0duVXdRQ3BvaHJZT2dMSVFuam5UblF4dHNxelY0cV94cmw5cTFQX2NseFVZYTFDZVdRbjJteVlQOHhpZHE0WXVjdE9CdTFiSkYyQWNvT2p6a3hPSThlQ2w2c2lFWGRzVy1rcTZnd1FLZElveFlFd0JXU2dDMklnaTlXcHRmcm1uZFE?oc=5",
+      "published": "2026-11-23T01:45:04+00:00",
+      "source": "www.tmgm.com",
+      "summary": "L’euro se maintient au-dessus de son plus bas depuis le début de l’année, sous 1,1000 face au dollar américain, avant les indices PMI flash www.tmgm.com"
+    },
+    {
+      "category": "politique",
+      "topic": "POLITIQUE",
+      "title": "Somalie : l’ambassadeur émirati sommé de partir, le conflit sur les ports s’aggrave - Politique Matin",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQRlZQSnRVOEZvWFQ5WkNwSXVNS2hkQXJ5VzZ2dTRLSHNQb2tleC1YMnNWbUlUaExNaTV0UTFBVEVFQzRRMHh1WUUxS1B4cWpvUXlpcmhIUWQ4c3Z4YnpOd2dmbDFxSElxUWdZeDljODdCeU5vbFhteDU2MkhzQm8wWUt1ZEhBZVc0M1lLa0d4YXlCbjFBVzk1Zy1pTE4?oc=5",
+      "published": "2026-11-23T01:40:17+00:00",
+      "source": "Politique Matin",
+      "summary": "Somalie : l’ambassadeur émirati sommé de partir, le conflit sur les ports s’aggrave Politique Matin"
+    },
+    {
+      "category": "finance",
+      "topic": "FINANCE & ÉCONOMIE",
+      "title": "Le S&P 500 à terme augmente de 2 % aujourd’hui, le Nasdaq bondit de 2,57 % et Bitcoin récupère 61 000 $ US - PortalCripto",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQN19xTmRWOWl6bTZHaVlUYUY3Vkg4WFAzekJjb1pkU1EzTk1JWVRhWWhITWQ0QTNsRjJOcmhsLV8xaEotbTFmOFYtbC1HUTczcTlvWXJRRk1XeDhyRGczVXJvajZzaVRhSjZlSFJmbS1LMHZwSEZ5YVlJMkEzakJqdzBiTGNMN284Ml9QVHRselozTVJNX0NRa1h6VTJ0WE0zLUZhVDEzcWh6Nml4X0ZUSXZBT2hyWFBYX1VvbHlZMG44am5zSzJGNkVaVjk?oc=5",
+      "published": "2026-11-23T00:57:55+00:00",
+      "source": "PortalCripto",
+      "summary": "Le S&P 500 à terme augmente de 2 % aujourd’hui, le Nasdaq bondit de 2,57 % et Bitcoin récupère 61 000 $ US PortalCripto"
+    },
+    {
+      "category": "finance",
+      "topic": "FINANCE & ÉCONOMIE",
+      "title": "Le dollar et l'euro se terminent avec une nouvelle surprise pour les Cubains - CiberCuba",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZ0wyVmowZjE3ejNLenVibkRRYWlnbVd5UkYyWkhqOXlPekhudUt2R3BueGRXNVJMOFJIZ04xaDZMcVlaQ2FNd0ZkU3E1VHVfeGZtdk1tZHlkRjR1TnJHbXFBOC1EM2hVaHk0VmtpMUVxYy1SX1lUb2FqMVQyTWxENjZxZVowZkhXVGVKV1ZlRDFJWFJnNldXUEFVNGlHYzFMRGpqT09TWXlUQjZldzYzX21VdHE?oc=5",
+      "published": "2026-11-23T00:17:51+00:00",
+      "source": "CiberCuba",
+      "summary": "Le dollar et l'euro se terminent avec une nouvelle surprise pour les Cubains CiberCuba"
+    },
+    {
+      "category": "finance",
+      "topic": "FINANCE & ÉCONOMIE",
+      "title": "Chronique des matières premières - Comment la Chine profite des prix bas de pétrole pour reconstituer ses stocks? - RFI",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOcjZBOWZWcTdyMDc4Vmh6bVNYTHBpcGdPQjRxY1ZtcjA3SDRFcG05VEtESkxSYkNrd01MUE9BMnFKcHJGcTJlb290TWxIUThEYnJGVG4wVmtwZUQ0U0JvUl9hNnVuVXBqOTd2cnNTV0pNeDJnUHhIZzRKYURlS3dBcjJXUWRXWEg0YkdsTE4yY1FuTlFPOE80SjFVOTZFZ280M0FUT2ppRy1tWDFSS1FOOG93Z2YzOTVJeW5QYVBUY0hFdlBoMV9USGp1ZFdGUi1SX3VOVGw2OHN4aFA0QkpWN0pPNFdLLXpRaUdjWlJEQjJMUnIzaW9VbA?oc=5",
+      "published": "2026-11-22T23:07:00+00:00",
+      "source": "RFI",
+      "summary": "Chronique des matières premières - Comment la Chine profite des prix bas de pétrole pour reconstituer ses stocks? RFI"
+    },
+    {
+      "category": "politique",
+      "topic": "POLITIQUE",
+      "title": "Les grandes fortunes britanniques prennent le large - Yahoo Actualités",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQUQ0TS1VWHZvMllkcUtMcTdFa1JJSDk4R3I4MHB5SmxBRUdVS2VmbTUxUTVHcDNOZzVPOE5UUXJGRkNwYm1fOHBNeFpFRkhaWW1rT2VoNEdUOWxQOE9LZ3laeDNnZmQ1N09XWkhWc2NQTlRNR085bkF0V0ZOMktkaHRfUXNGcnpIRUdRWUR3?oc=5",
+      "published": "2026-11-22T23:02:00+00:00",
+      "source": "Yahoo Actualités",
+      "summary": "Les grandes fortunes britanniques prennent le large Yahoo Actualités"
+    },
+    {
+      "category": "finance",
+      "topic": "FINANCE & ÉCONOMIE",
+      "title": "Goldman Sachs privilégie l'or à l'argent jusqu'en 2027 - IDNFinancials",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNODBndVNNbVRLTFZsOEtoeFB6aWEwZWJ1N1M5YnlqUFZhMUc3Z3pGLVduQ0RoczNpbC1QTkYtbWMwM1hzY2ZlSUxCdnlER2haNThUZ29YakZXcGdfT242c1RrUWhDX2wxMG9WUF9fZUk1YnhUWTRKN2UtZjBJMXc4c1JBdmFnYXlXVEdiSklyZlJNWmg5d3FxbG1OQjNOd1NOWUs0UWJwM00?oc=5",
+      "published": "2026-11-22T23:00:00+00:00",
+      "source": "IDNFinancials",
+      "summary": "Goldman Sachs privilégie l'or à l'argent jusqu'en 2027 IDNFinancials"
+    },
+    {
+      "category": "politique",
+      "topic": "POLITIQUE",
+      "title": "Sanchez, Feijoo, Abascal : les principaux protagonistes des législatives en Espagne - Yahoo Actualités",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNRWQxUE1VYUs2VWJsOFZpRjJJUjQxNjJudUF1RzQ4WmkxYnM2dENROGJ5eFE3Q3Zaa00xVlA0aFBmQ19OVmxvMkhHTjh3aEEydWlTaHBmVUktTWstNUQ3NDBBZkZDaXJoSHNnalZGQ29KLTlGb2R0Y1k4NDMwdmhZSGN0RE5KLWhZeWlRZHhNQVU0dw?oc=5",
+      "published": "2026-11-22T22:55:00+00:00",
+      "source": "Yahoo Actualités",
+      "summary": "Sanchez, Feijoo, Abascal : les principaux protagonistes des législatives en Espagne Yahoo Actualités"
+    },
+    {
+      "category": "politique",
+      "topic": "POLITIQUE",
+      "title": "« Une ligne tout en bas du bulletin »… Cette réforme cachée pourrait priver des Français de RSA ou de prime d’activité - Yahoo Actualités",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQTVNRblBISEx3aDROa2NPbVBZVGpLYlBzemdaLVBPQzZUM3AxOGZ2dlBMeHpjRWtuX0V4Umx3ZktiaFVLdXFNSE1uNVJUVFllemxSanZ0aXZxT2syWDBzZWwyb3BFSW4zdFZMMEFlOWxsQ2VONUNRbUNBRU1icS1mNXNFVmdQLWtEV18xaQ?oc=5",
+      "published": "2026-11-22T21:07:00+00:00",
+      "source": "Yahoo Actualités",
+      "summary": "« Une ligne tout en bas du bulletin »… Cette réforme cachée pourrait priver des Français de RSA ou de prime d’activité Yahoo Actualités"
+    },
+    {
+      "category": "politique",
+      "topic": "POLITIQUE",
+      "title": "Israël: pas d'avancée entre les partis d'Eisenkot et de Netanyahu pour la formation d'un gouvernement - Yahoo Actualités",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOM3RDUFRXTE9XV0FRU0ttYndCX2RRV2piQ19QbVdrY1RscUowdW9kcUZGX3ZWblB5cllsdWpIR0d1TmV6UDRNenZzV0p4Qkt3c3MzV1FYdlNZdkw0anU0S1paak1QbTZhUzN2RGQwNzJaUmptdjJWY2dSWndWVmxxQWJBMWpHWjhEakpjVlI0c0dHMGs?oc=5",
+      "published": "2026-11-22T20:34:07+00:00",
+      "source": "Yahoo Actualités",
+      "summary": "Israël: pas d'avancée entre les partis d'Eisenkot et de Netanyahu pour la formation d'un gouvernement Yahoo Actualités"
+    },
+    {
+      "category": "tech",
+      "topic": "TECH & IA",
+      "title": "Bitcoin : Les investisseurs lassés du marché misent désormais sur l’intelligence artificielle - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9CTi1Gck45Q1VuSnVkdnl2c2x4ZWM4dEk2clh3dkt6T0NjLXBkRmFIZ1hmY3J5YzRCalczX0Vic2NiRDlsSzZXd2dOOEo4WGhzN1NkVkNZN09DRnBkSUkzUmU1N3ZGZmRWQjhjVQ?oc=5",
+      "published": "2026-11-22T20:00:00+00:00",
+      "source": "TradingView",
+      "summary": "Bitcoin : Les investisseurs lassés du marché misent désormais sur l’intelligence artificielle TradingView"
+    },
+    {
+      "category": "politique",
+      "topic": "POLITIQUE",
+      "title": "Emmanuel Macron, Justin Trudeau et Katy Perry : une rencontre parisienne qui fait sensation - Ohmymag",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPbE56V2ZzUi1aZjRSZEFLS3dFMjhMaTJmLXNBQWY5SzBtZUp3aTVaLVRCQkZFQ2dWcG9MNnpLbmFaRUVKR01jZVRrWnZWOGh2VFFsQUxtZ0R0WER4ZkFFeHpGYWc4bFBvczlKeUJhNFhsT1pMRlRFaWVaSWQwT0RQSXNhSHZHdkVadFpYVXduelE3ZFplNnUxclhBcElhdk9JWUNnVUl2OGpVbE9NN003R1J6X194b3hmMnlMdmFQYkRpWHZjd0paNXkwcEw0TEVnYVRPcUFEX2hUUQ?oc=5",
+      "published": "2026-11-22T19:30:00+00:00",
+      "source": "Ohmymag",
+      "summary": "Emmanuel Macron, Justin Trudeau et Katy Perry : une rencontre parisienne qui fait sensation Ohmymag"
+    },
+    {
+      "category": "feminisme",
+      "topic": "FÉMINISME",
+      "title": "Des milliers de manifestants mobilisés à Istanbul contre la fermeture de médias d'opposition - France 24",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQdlE1aDhFakNMbFRrNks4ZWViLUxwWm1HRDN4Y3k0YXBkNG5CTWZSSHVPb1BkOU10N0pWdmx6bTFOWnlIdHljTG9WUEloZ3hxM05Nb3EzUDFtTEFpVzVPUWVOUjdPdjlwSUxvSVRDNWNXbktXc3BCYzRNcHFtdHBmazB0TVpPRWd0c1hjX0h1d2FKU2ZaNjRySUw1SFUyM3FyV0YwaDg4VkxKdnZBVzNaYk84NzFFbVpmWVFiZTZlOFdSazIycTl6NjkyUUJha3ktb01Dak55eTdieENydWpFZzJJSk9Qazg1?oc=5",
+      "published": "2026-11-22T19:02:24+00:00",
+      "source": "France 24",
+      "summary": "Des milliers de manifestants mobilisés à Istanbul contre la fermeture de médias d'opposition France 24"
+    },
+    {
+      "category": "politique",
+      "topic": "POLITIQUE",
+      "title": "Analyse - Les raisons de l’obsession algérienne à l’égard du Maroc : rivalité historique, insécurité stratégique et compétition pour la primauté régionale - Article19.ma",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5zb082dVk2Z2dpemxORUMybTF2TVo2X0E2OHZNNzR0c0hMaFBpbjQ4SEhORmRnNVoyX1hWV2UxakNFVGQxZVhtUXNmb1NqRW8xR2ZxVnJrSQ?oc=5",
+      "published": "2026-11-22T18:53:50+00:00",
+      "source": "Article19.ma",
+      "summary": "Analyse - Les raisons de l’obsession algérienne à l’égard du Maroc : rivalité historique, insécurité stratégique et compétition pour la primauté régionale Article19.ma"
+    },
+    {
+      "category": "politique",
+      "topic": "POLITIQUE",
+      "title": "Israël : discussions pour former un nouveau gouvernement - Yahoo Actualités",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQVDlaT2hYZ1p2bDNGcDUxM241SVpSUUdvbUxxZ293LWZaN0xSaDUyQnZjWHF5UWNocjU1TlU0SWM4LXJxTWxQQWd0YjdxYXloWWVpLWNhcGhITHhScFVHc2pIQUxkZmRNdjF1Yk5SbXVfRE5HMG9PbkpZRHdZcnRnQ1dzTGZvRVp1Vi1DSXBkZnVJY0pPS2tj?oc=5",
+      "published": "2026-11-22T18:47:41+00:00",
+      "source": "Yahoo Actualités",
+      "summary": "Israël : discussions pour former un nouveau gouvernement Yahoo Actualités"
+    },
+    {
+      "category": "tech",
+      "topic": "TECH & IA",
+      "title": "La PME 1001pneus.fr s’autonomise côté logiciels grâce à l’IA générative - La Revue du Digital",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOM1A4NFozV3dqYjdoaVU2dS1ZNkZONVAzSUxvbG5hV0Q5RXBRZjhyQmZvemlSbmtWWEJSdnVzTkJzRWtxaWFhNlhDZkFhXzB3aHZGbExqS3JscGNjbjVqaTNtNkhWcWtPeWFxNmJJVUJ1X2lYdEdHSWk0Yk1nNjRyRkJTRTdxOXVrRm5sbXJkZ1FOY3F1bll0a3FKNHdmTE1CTVRZZzZR?oc=5",
+      "published": "2026-11-22T18:20:43+00:00",
+      "source": "La Revue du Digital",
+      "summary": "La PME 1001pneus.fr s’autonomise côté logiciels grâce à l’IA générative La Revue du Digital"
+    },
+    {
+      "category": "tech",
+      "topic": "TECH & IA",
+      "title": "\"Un moment monumental pour l'humanité\" : Claude aurait résolu un problème vieux de 167 ans ! - Journal du Geek",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPcWVBdDk5VXJfWGY4Zm5FbHdtcDF6dnJSb3ptYUdhbnFocEtNZnlSNVRuZWtNUkowR2N6d2c4TnRxaHhTZU5XZ3VBY0pKdUVDeldSMFE1WjNnR0E4RW5PZG82cTFES29JNVlHRkhaR25iNkVSSFJNYUkyR3BkZjhzWHZESXdxbDE3SGNySW1idFNyMWhCQkdrWU9HbkFuZ1R2dFlSTHBNd1pMOUlCMk1JZjlUMGpZaDgzWDBzUEhzejF0SHNaYXc?oc=5",
+      "published": "2026-11-22T18:02:06+00:00",
+      "source": "Journal du Geek",
+      "summary": "\"Un moment monumental pour l'humanité\" : Claude aurait résolu un problème vieux de 167 ans ! Journal du Geek"
+    },
+    {
+      "category": "feminisme",
+      "topic": "FÉMINISME",
+      "title": "Le féminicide de Chahinez Daoud avait sidéré le pays par les dysfonctionnements dans la protection des victimes : son ex-compagnon rejugé en appel ce lundi à Périgueux - Sud Ouest",
+      "url": "https://news.google.com/rss/articles/CBMitAJBVV95cUxOQlFmV3MzTVVVdHdsLS0zQmhVN0hvZE1EWEwxdDRlcXZEOGctOWp0Nl9TVk9sbGhtaXZHTDlLRGI1VVlMY0NzRkQtSkUtZ193TWxrU2Z5UTZ5RnBwR1NoOXV6eWFveVZ6R1RyQ0NaTkJESC1mT0QtdU1lMmpGMjhmeUdYTUdRMUd4cWwtT21XU0FnSHFoZVZHWGxQbXd4TEhzOUd1WGNqUFdTT2hXVHlreDZ5b25obE9uZmQ0MjdsTHpUVjNmYzhNQzhVMUx3ZWhDVUgwWlkyNUZZVW51UHBIbFFVNVU2Wjhsa1V4b081NUdIRDB4dl9iTW53c1J5VWhUSGZGdGJXRE1uY19wSGFGNUJqc05acHR2ckZIZzBTVG05WDFDaTd4WXZtQXpWZGVLay1vYg?oc=5",
+      "published": "2026-11-22T18:00:00+00:00",
+      "source": "Sud Ouest",
+      "summary": "Le féminicide de Chahinez Daoud avait sidéré le pays par les dysfonctionnements dans la protection des victimes : son ex-compagnon rejugé en appel ce lundi à Périgueux Sud Ouest"
+    },
+    {
+      "category": "feminisme",
+      "topic": "FÉMINISME",
+      "title": "Inquiétudes face aux répercussions des gaz lacrymogènes lors de manifestations - Le Devoir",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQczdUdFhvUUtKWnlqY1c0WHhvTFlkXzFXdXhrdmo4c0dPVW9ibjM0Z1hBV1FfeVNpN2Zzb2YxVWo1UU9fVzZaZlNfbjBJUTctNm93TjdMbkVJWGFmYzdzN3lacm1JYmNGMVlleldxeS1idjBNN1FrM2xqQjRWcFFUQ3FzQ1JDYUViWDN6OVFHdWFQZV9DSEtCOFRET18wVEVMZVNseWZPZUlxTUVSWVFLcjcxRWZXbmFS?oc=5",
+      "published": "2026-11-22T17:48:27+00:00",
+      "source": "Le Devoir",
+      "summary": "Inquiétudes face aux répercussions des gaz lacrymogènes lors de manifestations Le Devoir"
+    },
+    {
+      "category": "politique",
+      "topic": "POLITIQUE",
+      "title": "Israël : les partis d'Eisenkot et de Netanyahu achèvent leurs discussions sans parvenir à un accord - Yahoo Actualités",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQSlBLMXJ6eFJhV2xVQnY4NjFFVVdvZXJ2S1JSYkFXVFphQjRmejFXU1VDX1VyT0FNcjJGSkJoeEY2Sy10MDZQdXN0OXpxMmhqVzdrZEkxaVVhdjBEU1hCWUsxeEpCR0pMQWFmOHdsRm8wVElmejAwTmloNV9kM2g2VkRTRlFHS3U5ak1jTF9neDZjYk90?oc=5",
+      "published": "2026-11-22T17:14:04+00:00",
+      "source": "Yahoo Actualités",
+      "summary": "Israël : les partis d'Eisenkot et de Netanyahu achèvent leurs discussions sans parvenir à un accord Yahoo Actualités"
+    },
+    {
+      "category": "tech",
+      "topic": "TECH & IA",
+      "title": "ChatGPT, Gemini, Claude… 54 % des utilisateurs ont déjà changé de marque après une recommandation IA, selon une étude Havas - LSA conso",
+      "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxQM3ZfRDJhdXhhZDNjQVJoMk1qUm92NTFZNTlwaUhLblp3MS1aMDN4TkV3YUJVZ1kycUE3eXJiWmdIcFROa1k4SVdTT1haOUlkQjBDRzZsdkFSTnNQMTk5M3VLUk9hdGJBczd6b1dLaThZdFVpTUFNMURCX3JFUEx4dTV1M3l0djd6d3BBQ1ZkLWpadmN5TFViZndnWVozaGJYVnZHdEJDVEh2Z08teUpMN19NcnVONjNkSFhiTWZGbXMzYmk3RlRxenV6Q3VWSVlOeE9BNHRwSkN0dktCV1VEX2Ywb2RCNm5XUVhBSzhFQ0JuOFVQQU5IbUgyOGpCdTVqbDUtRXczQkgzdnVISzc1c2lDcDhCQnczcGVBWGg4MjI?oc=5",
+      "published": "2026-11-22T16:43:00+00:00",
+      "source": "LSA conso",
+      "summary": "ChatGPT, Gemini, Claude… 54 % des utilisateurs ont déjà changé de marque après une recommandation IA, selon une étude Havas LSA conso"
+    },
+    {
+      "category": "politique",
+      "topic": "POLITIQUE",
+      "title": "Renforcer la diplomatie climatique israélienne et faciliter la coopération internationale. - IsraelValley",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQUlpMd3VLTDRxTFNTS2ZUcDRxSzBuYXljMHpVWERwWjIyQUZuQUpaUlJQQVB4YUt2TzlRRkFXelkweHNQY2EtNUxma1U5dHM0OW9iRkFLck9uWXlVOXBsM2FDVGx6b0VBaTM0YVB5a25SZ1pJM290bEQ3cUowSFJydTlXcnZSdnk5REU5c3pOOXE0YV9mb2RERTdGeUp4NWctZTN5QUxvOTNJNVhWTnFMcnlVb21RR1AyWnAzWVZwdHVWQU8x?oc=5",
+      "published": "2026-11-22T16:30:12+00:00",
+      "source": "IsraelValley",
+      "summary": "Renforcer la diplomatie climatique israélienne et faciliter la coopération internationale. IsraelValley"
+    },
+    {
+      "category": "feminisme",
+      "topic": "FÉMINISME",
+      "title": "Violences faites aux femmes : Le Défi Media Group se mobilise du 23 au 29 novembre - Defimedia",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZGViOVE1LXNIWHVyUXBLejUyLXNwNGtlUXo0cWZ0NHRwNU1kQThBdndFUjlHbjlaSXM0ZXJBbzBxZ0dROUxybG0yZHRBQ2NSU0YxNkxVX1ZNVXVIclRHcHF2Qk11UHIyRjNGUGlEVkdzamdlZHBJd2h4UXR4TWtDMnAtQmhDTkRZUlRhVllEZU5rRjZpRDc0TnpGbWRHTEtHMWtwdmFB?oc=5",
+      "published": "2026-11-22T16:22:56+00:00",
+      "source": "Defimedia",
+      "summary": "Violences faites aux femmes : Le Défi Media Group se mobilise du 23 au 29 novembre Defimedia"
+    },
+    {
+      "category": "feminisme",
+      "topic": "FÉMINISME",
+      "title": "« Nous dénonçons le manque de volonté politique » : à Groix, elles se mobilisent contre les violences faites aux femmes - Ouest-France",
+      "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxQQ1RDeUxqT29TOUF4LWREZ0k0elBWX0dINjZtelVHdjZpNEk4NTh4RWZnenBWUUxNNEpmbjFFSEttc3drRXUzSVA1aUdsckVHT2YwQXZrMEU4dlRDMzNsc2NIc19KWlBJRjE4MkswclluTTVRdERQbUVSZUwwQUZRR1Jzb2loZGZMWXhuN0ItNVhsWk95NFBtRWRuZ0I3ckVSaFRqRlFNV3lIOVAyb0YtNUJ4NWYyN1ZhWkEyTkpSSlBqVHNkZ3hLa3RaSmNwSkVoakdtcmlNYWlYbXdjc0FPMl9tRjhpV3FEZndmN1ZjbU45UDB0TTZXNEF3MjZ3aTF3RjliNEhKVzFoRk9WcWF1bGR1bmd6UEN2UHBldXZnM3VMU0xm?oc=5",
+      "published": "2026-11-22T15:47:10+00:00",
+      "source": "Ouest-France",
+      "summary": "« Nous dénonçons le manque de volonté politique » : à Groix, elles se mobilisent contre les violences faites aux femmes Ouest-France"
+    },
+    {
+      "category": "politique",
+      "topic": "POLITIQUE",
+      "title": "Réseaux sociaux : le seuil de 15 ans divise les États européens - Politique Matin",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMFdmWF9pZG5zRzFYSm5rbC1lRF9VTnIzVmpNQThRNHI4cVFNWFE0U1dJSTRnSVNVMzBzYWFTSUFsVmJ4dEt2R01iM3lsamtuNHJuS0tvWDZjLTZLbVpOZ2F3SnpSRk5FdF9ZdjE3Z1duMEM3Zmw1QWNtc1RmUzlUVGlZbFlYc3RiVTJ4bVpSN1ZhbUQ0dkIza0JTWUs?oc=5",
+      "published": "2026-11-22T15:15:47+00:00",
+      "source": "Politique Matin",
+      "summary": "Réseaux sociaux : le seuil de 15 ans divise les États européens Politique Matin"
+    },
+    {
+      "category": "feminisme",
+      "topic": "FÉMINISME",
+      "title": "Haute-Saône. Il touchait les fesses de son apprentie et l’appelait « chaudasse » : un boulanger condamné pour agressions sexuelles et harcèlement - L'Est Républicain",
+      "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxOMk9TRUxXYk40eXl3aFVuN25SOGtIZExKUHhoa3dsYVQ1SmFnTmZ5QUVSaG53ZnpOS2Zyal9EYmUwcV9GV1VzVHVGNFRtWDZzUEtOT1FZWVp4UjgxeWRuN2lMcnAtTHNzWmp5TmtRWU1mcmNUVUhQS3VPWjBFU196dU0ta2Y0TjJTVE1DVXhxUUNEMXJtazNJLThGbWhMVWJPSnZCbkJleXNUQUhqUFpzR3BiNDFrQ2o5bVZrckNrNnYtSm1NMTJabjFOQmJLX1d5SERZYjV2MVluWVFnOThSVVhnbjRfZ1g3cE00azVPc2UzdFltTDd6WkdsX2J3cFBQN1hrUGtaVHdHV1BqeWxSaDFBbndRdGtHcERVWGNkd1Y?oc=5",
+      "published": "2026-11-22T14:39:37+00:00",
+      "source": "L'Est Républicain",
+      "summary": "Haute-Saône. Il touchait les fesses de son apprentie et l’appelait « chaudasse » : un boulanger condamné pour agressions sexuelles et harcèlement L'Est Républicain"
+    },
+    {
+      "category": "politique",
+      "topic": "POLITIQUE",
+      "title": "L'Académie diplomatique lance son réseau d'anciens élèves, reliant les générations lors de la « Journée des retrouvailles ». - Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPRk4yOVNVMTV3MlR5Rzc2U0FXQlZsQllJVGtsUWdKdVZnYWJELWxYMmFxV0hMVG5naFJJa2xXY0JXQ0h2TUNLZ1hjb1pKRkc0aUx2R3gzWnZ4bEh1NHNNN1JZWXhMUXFRdWZDUmZjQ2V5YjZ1Nmt3ODR5MWZoSlRHRGNHbGpDMG44T3dVc2xXWHlJbzRzZ2oxc3N2eWtZYXItc3hVNUlSSTNPTF9MUjZka2V2MGtwUVk?oc=5",
+      "published": "2026-11-22T14:38:53+00:00",
+      "source": "Vietnam.vn",
+      "summary": "L'Académie diplomatique lance son réseau d'anciens élèves, reliant les générations lors de la « Journée des retrouvailles ». Vietnam.vn"
+    },
+    {
+      "category": "politique",
+      "topic": "POLITIQUE",
+      "title": "Présidentielle 2027 : les sondages prévoient un duel Le Pen-Mélenchon au second tour, le point sur les intentions de vote pour chaque candidat - Centre Presse Aveyron",
+      "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxQYXhjbC1ORy1OandXd0pCN2o0eFhMSmNPVHhYT1FDWlFwRTBrY29JSkoyTkNCckgzTmRMcXBDSkJsTEhVRTN4NDg3M293VFFLVjNzZnc4NVZyQ3h4NFFETnl5OUdMSVhuR0hhOHliamo3OU5YN1ZpM25oOXRKWTA4aW40OVlIT3ZBXy12S3lybkFUbFhqZDFYUWFiSlo5QUIyWUpGSko1M2xCZ1pjSlpGRkNjRkxkdUpIYURRZUQ1QlRyc29WaUVBN3NqdmJtbkVNTlhQelpGVUhCUmFTX0sxTVJOTXB2aXdsbDZnUU01OFdwQ3hJY2g2Nzh2S1phd0RQbUlWdkFhSXNqak5naWpqX0pVNkZkajZBXzZSemtCbkFjUnF3?oc=5",
+      "published": "2026-11-22T14:26:00+00:00",
+      "source": "Centre Presse Aveyron",
+      "summary": "Présidentielle 2027 : les sondages prévoient un duel Le Pen-Mélenchon au second tour, le point sur les intentions de vote pour chaque candidat Centre Presse Aveyron"
+    },
+    {
+      "category": "politique",
+      "topic": "POLITIQUE",
+      "title": "Qu'est-ce que la \"règle d'or budgétaire\", qu'Emmanuel Macron (comme plusieurs candidats à l'élection présidentielle) souhaite faire inscrire dans la Constitution? - BFM",
+      "url": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxNQVBzaE5STEV6SGZkUkQ3ejVuXzFuVHVQcHYtdGh1eXVjRmV4RHIxcERPV1gzQjhRSFdaZno0UU9yNWNSYXZ0YV9CYU1DUnJFclRJS3IwODZhdlk5SnhpR1RBYTc3UWtXaERSSC1KYjl4ZTJYVGVCMU5fUFEyQnByNEw5RVdqclF5TTY1enJoYWNuRENrT1h0dVZlUXBpZFl1V0hoeFU3U0JpNkhQb2pha05wdzZPajZuS281Q1VYSEVoUkVWZFR1SlNOZDB4dVR6MmNfcmJ6c3h4eWtIODlXeS1rSUM0bU42bHBTS2U3QTE4ZENycGpmOFZwa216Y0NPY2E2YUhUeUp6dzF6UG5LRG9WbWRiSTFQMHdzb1NocEo5REphQjNCdU5Sa2E3ekEzQlFIdHJoQk9BU29qRV8ycnFQNlU4VEpwS2w2MUtSa0xndUNLYlVMdUVGdEc?oc=5",
+      "published": "2026-11-22T14:09:55+00:00",
+      "source": "BFM",
+      "summary": "Qu'est-ce que la \"règle d'or budgétaire\", qu'Emmanuel Macron (comme plusieurs candidats à l'élection présidentielle) souhaite faire inscrire dans la Constitution? BFM"
+    },
+    {
+      "category": "tech",
+      "topic": "TECH & IA",
+      "title": "Gemini 4 Neon est le modèle d'IA le plus puissant : il surpasse ses rivaux Opus 5.5 et GPT-6.2 dans les tâches de codage et d'analyse, tout en offrant une exécution rapide et économe en tokens - Developpez.com",
+      "url": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxNZ205UUZDTHM2a0tvTkllang5aXBpa1JseXh0VjdBM0RCSldjeHZrazg1aVFjaXpkc0k1QVBMalJjX2pBQkZ5eVVlcmxndjk5N0dFM0c3bDhhRXpYMFdxcjRJVjRZbHN3R05pN0lIRnF5NG1HSDdadjRFejVsUUNqRG9TYm1FdXBPb20xcVF2bXRzdnRVeTZ0UDV5eEI5dnZJWmVuVU9qQ1lMM3o5RmJ1UHRjWlFVODNPeWdMeVQxaHM2MHJhdnpzY1psUmEyZmJTeHF4ZXFqbi1fYWtjSTdiVk1QOU84RlhmQUhja0JrZjhhMjZpN0hBUXVXU2szNG9mcTV6RktxUjJWMFlNNzZTelN5alZTeGhWb3pZLXB1aGEtcUFVMUxJS29ybkFZQk5YMk1TXzMzT2ZYLUVxRkQ0TkM5aHpRUXVqVUJxajR3RWtDemxlLS1lM1dRcjdVV1FER2lQbDk3dThUVXfSAfACQVVfeXFMTXFVUmlreFczX25PaDJ3SHVXT3Jic3RYVHdjRVpXMURMZlF0SFVkLXJ3Z2kwbzlIT2Y3a3dQM2hzeTg0ZTE4M1lxRjRCa3FYWXhMUzVmZ2cwLVZwLVBGcm9Mc2NTZVZCQmdNd29ndUtPZXQ1NDRGNDFuQzNGeUZMZTlLMmtxWWdlOUkzdUU2WmNJTkFmY1pBYU9aLTZUd2o0cUYyYnJtR1hZa0gwMXI4V2dYcHNnSG9hU0tUTFZyVTItUWxCVDhWZnZUYm81UzNObmJRc0g2ZWJxVmRiaDNxdWlZOVFnRnpQZ3NkNlBHSDJtUVpMOVRTLXNzTzdZRHllUzlCOHVtbjdUZ09wV3JhWkEza0JVbWg3M1RuUUxWaHpuUVZtLWZhdzZPS1c4Y1VkZ1lqLVNQMU9YenhlUmZPZkpRVEFBRXpWYXdaMTFjSlkxZk9DWDBVMTdRZXZDaTNrRjJBTnhUSk5RYndJc1cyelg?oc=5",
+      "published": "2026-11-22T14:08:00+00:00",
+      "source": "Developpez.com",
+      "summary": "Gemini 4 Neon est le modèle d'IA le plus puissant : il surpasse ses rivaux Opus 5.5 et GPT-6.2 dans les tâches de codage et d'analyse, tout en offrant une exécution rapide et économe en tokens Developpez.com"
+    },
+    {
+      "category": "feminisme",
+      "topic": "FÉMINISME",
+      "title": "Lison Desprez s'impose à Issoire et frappe fort en Coupe de France de cyclo-cross Élite - DirectVelo",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUFU1RUZ5dnc1WUNMYkhZY1FUTkVrMWthT3VoTktZck9QX1NON1FwY1dZY0poQnNNOTFEcUFNN3gtTWZWX0U0UXFvZE9DSlNPbWRSNnhVbjV6Q1FXZENQZFJYLWhOazE1UVBZQXVudUE5WV9INE5GZGxQUnJoVTZib1Z5dmFacVBDUTdwbUlRczZmNEtvZU9IQ19Fc3ZkT2RkalE?oc=5",
+      "published": "2026-11-22T14:00:50+00:00",
+      "source": "DirectVelo",
+      "summary": "Lison Desprez s'impose à Issoire et frappe fort en Coupe de France de cyclo-cross Élite DirectVelo"
+    },
+    {
+      "category": "tech",
+      "topic": "TECH & IA",
+      "title": "Les Américains, terrifiés par le risque d'une grande panne liée à l'IA, stockent de quoi survivre - Les Echos",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQdnBPLWlkRlJpRVItNDJ0VEZrdmoydnRPNGgwVzU5cU5nYUpfRmRNcGo5aVR2T0xxbXl4OUp1NTY0OUxPY1V4Qjk4dGE0eFk2aDd4Vjl6Rk4yRWVhLXFoSTRoc2ZwMDd0TlROVktTcTFOeWtqRDB2SmdnMFFoNXBSZHlXU2s5a0ZpbVVGOXQ1TjRTZUNIb0hnV2hTT0dHZU5ZWGpOX3NoVnF0eTI5cWdHTUxqa3ZDaDBEd2dUY3g1dXJFXzg1MEVfUF8yLWYtS0hQVmdiWV8tNTRkVFBzdG1BNmRpYjgxc2padUxfQ3pUeEdyLWNYdmc?oc=5",
+      "published": "2026-11-22T13:45:08+00:00",
+      "source": "Les Echos",
+      "summary": "Les Américains, terrifiés par le risque d'une grande panne liée à l'IA, stockent de quoi survivre Les Echos"
+    },
+    {
+      "category": "politique",
+      "topic": "POLITIQUE",
+      "title": "Qu’est-ce que la « règle d’or », cet outil budgétaire qu’Emmanuel Macron souhaiterait inscrire dans la Constitution ? - Ouest-France",
+      "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxNVko4cEloTkRCbVlTdWFZQ2JuU1pjakEySHhENEM3REdFdTdfNUt5eV9GR0JfWHBJSUxfT3lPcllka0xsd3lFYzZOQ1BvTnFlc01kSUJvUzBPRVBBdnVuS255cW1mbFc0MHdYM2U4RzdHQVNtOTVJREh0TldzWUV1SUxXUHkwNHBiWFNPMm1vdDRqUlRwd3A5ZVpIUkJPeFpMeWoxSkZKdkR0LXo5ZWkzcUszQmlKckZhLVBXOHlpLXJOc0RPNHpNYVdUel9QS3JlUDY0MmtfSFdVQnA0UkxIRkdGenFQbi1ob2thUFZXNjVrb1VTNmp5RTlULUZnVVlkRmhCaDZnZ2s3bTlvUjZjN2tieUpIaHViY1d2c29ybXM2OFBFTDhOWWNWdkp2WHNS?oc=5",
+      "published": "2026-11-22T13:12:16+00:00",
+      "source": "Ouest-France",
+      "summary": "Qu’est-ce que la « règle d’or », cet outil budgétaire qu’Emmanuel Macron souhaiterait inscrire dans la Constitution ? Ouest-France"
+    },
+    {
+      "category": "feminisme",
+      "topic": "FÉMINISME",
+      "title": "À Lisieux, deux rendez-vous pour la journée mondiale pour l’élimination des violences faites aux femmes - Ouest-France",
+      "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxOc0JsQzJQcDMzVFpaYUwzNUZQOTFleG1LTS1tMWkwOW82cXFoMVNsQXNUUjhPZnRVYy1WYVF0NE1tU3ZVUF9LY193LTh3UFNuZHl3M3hsVXoxekNudEhMeUJ3cUxEbnhCSW95aHV6U2VKb1U2alM3dHQwQlB0ck8tVnpadEd6U1dIRlg0d2RPN2N4cm1rdXJ4WHlDbE1MalpsT2Q1Rk52a1g1cHZfR0s4TjZKbTI1S3dBdWpSQXR4Zk1FZGU1aTZkNmQwQnNqQ09CZTZBVHF1ZUZDS05FNV8zLVFhTnRwZlE1UGZDQm5lSXhsNjlZUllsY3VXZUswM1B5TUx3T0lNMkxqQmh2ZHBfQ01zVmlMYUZkSTBreHFjc2ZhVkVBd3c?oc=5",
+      "published": "2026-11-22T12:44:49+00:00",
+      "source": "Ouest-France",
+      "summary": "À Lisieux, deux rendez-vous pour la journée mondiale pour l’élimination des violences faites aux femmes Ouest-France"
+    },
+    {
+      "category": "politique",
+      "topic": "POLITIQUE",
+      "title": "Budget de l’UE : Costa retranche 40 milliards d’euros et relance une taxe numérique - Politique Matin",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbHhtdGQxZHBzaExhSmZTWVJRbmVFMnR1bnM3YUEza2I0YW5TSFlGV3lZbkQzQTJjSWxJTWRHd2hxeVBpRW1aek41cG9LRFNxRU90aEpVSThyWEY4M2pWZnRUdXBBdU5vM3Z3LVVmTFpLZzZzdmFSNEpLalVUNW1xbFVuQXkwMmZicGhxcEYzVWNzYy0xZXNwMTV3ZTZheTRDX0RwRUlR?oc=5",
+      "published": "2026-11-22T11:19:07+00:00",
+      "source": "Politique Matin",
+      "summary": "Budget de l’UE : Costa retranche 40 milliards d’euros et relance une taxe numérique Politique Matin"
+    },
+    {
+      "category": "tech",
+      "topic": "TECH & IA",
+      "title": "Cloud en panne : le talon d’Achille contractuel des entreprises africaines - Africtelegraph",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNnRyRFI1OXk3aVYtaUJCU2gwMldLdldfenRSdWVSbFZvOEUtelNOQ0kwdjVkQlNpVzRIbmZZY3EtOWRyVlhsdVJoLUlkTFJBeVNWZGdMbldXUnlPbkdKaFVZUVp4V3hQbTBRMC0tc0V6R2ozUk9sWnZpZHpmLXRGajhnWDAwT1ZMUF80Zm1lczIwOFIySnFMT2VLMVJXMlNuV2loa3kwVQ?oc=5",
+      "published": "2026-11-22T11:17:48+00:00",
+      "source": "Africtelegraph",
+      "summary": "Cloud en panne : le talon d’Achille contractuel des entreprises africaines Africtelegraph"
+    },
+    {
+      "category": "politique",
+      "topic": "POLITIQUE",
+      "title": "Actualités d'Israël et du monde juif en espagnol - Aurora Israel",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRktVVkpmQlJfNGNnc3hsWEMzbmZYZHZmNTJMaGtsb0tlM1VqdXVVMkdnUW84a25rZEpVSGs1bDBLejEwMkVvOGl6REF1a255Vmh1Z3RvZnhvdHR5N0UweVdGajlMR1NzVGt1NDBUZTJxTkxGWFgtU0JKUW40ZTFscTNtMEVLTFpaMGhZaTFvM0otSWVzdDFB?oc=5",
+      "published": "2026-11-22T11:17:01+00:00",
+      "source": "Aurora Israel",
+      "summary": "Actualités d'Israël et du monde juif en espagnol Aurora Israel"
+    },
+    {
+      "category": "politique",
+      "topic": "POLITIQUE",
+      "title": "C’est quoi cette règle d’or budgétaire que Macron veut mettre dans la Constitution ? - 20 Minutes",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVVptT1pCM09xN01PRzB2SDhjeGV4Z3owWlY3bHBidWlRZXJrNmYwbkNNRG85eTdrZE1vblJybFZUaTNZR2YydGFEelhzaXZkN01XWEhZdGZSZGs0ajNyWm9YU3VGX1BvdFNTZnFNWlVmZTFIc1BJRHVqYVZ0NHZSWFczMk02SmRESHNKYnZOZFVWYmZnVDR0WUZEdGlQcFl6WXhaY1hTOHhlQV85TnNaa0VVR2o?oc=5",
+      "published": "2026-11-22T11:12:00+00:00",
+      "source": "20 Minutes",
+      "summary": "C’est quoi cette règle d’or budgétaire que Macron veut mettre dans la Constitution ? 20 Minutes"
+    },
+    {
+      "category": "politique",
+      "topic": "POLITIQUE",
+      "title": "La France salue l’arrêt de la CIJ dans l’affaire du génocide des Rohingyas et demande une réunion du Conseil de sécurité - Anadolu Ajansı",
+      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNakRha3hkcmtDc21tWm9ORzFUZTBuV1ZiMDZLWF8xWUVWOUNuR25Oem90S1VNZUlBeXQxdTlBRXFidGpHcFhzQkFtZmVuSlJXMWJmNlktam4zSUtiZm9vdE9sa1RMLVM4ek9wN3N1WGNWblRQRzA1djVqbGU0V3ppdW05LW5SRXpOX00tdS1lNEtvb2dhdTkzSEk4LTdCQWhpRmZBU1htM2JiSWo3T2ZZOHY2VFRBQ1dyT2xZX0lwQ3h5ZnNVbVJwUFpmUHBlNDkyNXVpdXJ5MW1OMjE5SEFtV0tTRXpIU1NORlVLM2gzUEpmeENma29JM0xjVm9PQVRpd0ZWSlcxd1A1dzFCdXpTb0F3dkM5c0E?oc=5",
+      "published": "2026-11-22T10:58:09+00:00",
+      "source": "Anadolu Ajansı",
+      "summary": "La France salue l’arrêt de la CIJ dans l’affaire du génocide des Rohingyas et demande une réunion du Conseil de sécurité Anadolu Ajansı"
+    },
+    {
+      "category": "tech",
+      "topic": "TECH & IA",
+      "title": "Gemini rattrape ChatGPT avec une nouveauté qui va vous faire gagner du temps - PhonAndroid",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOc2xtX21LMnlndkY2T25BWGhGeTJJSFJ6dFkyQXRFRDZaTnRZRW01UnFrR0VOejl4Q0dUaGVBM3FuYW01NnBndUNRWk82WHQtU1d2bkwtLXFQS2hXYTlwaFc0MlNINWV3YXU4VVJVS0hmN081ZFpYWWV3eDNCT0JwV2ZQaXlDbkI0UjN6eE94MExnMGtqTzhKNnRQTnZVN3daZTl3WG5hR0dhN2ZMS1E?oc=5",
+      "published": "2026-11-22T10:45:00+00:00",
+      "source": "PhonAndroid",
+      "summary": "Gemini rattrape ChatGPT avec une nouveauté qui va vous faire gagner du temps PhonAndroid"
+    },
+    {
+      "category": "feminisme",
+      "topic": "FÉMINISME",
+      "title": "En Afghanistan un décret ordonne de remplacer le nom des femmes par des surnoms - Courrier international",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNNzA3Vi1DeUJHSFVvWmxHX29WRnhfTUlSbHZiYjJQVkx4X0xIMEk4dm11NVlzcXlkZ011dHo1bTBRQ3FHd0ptdzQtZ1p4ZlpKSVNidDhBd1hfVUlqUTgtamhWNVY5WHRSRkZXc3FkR1ZRUEpmTUk2MDRmN3J1UXh4LVlvRkhpWHdZLWFQdXptbXdZMEUxYTFMN1FSM2F3c2J3QmpXTnRFak1CWk1VMk9ZSXVYZzNXZjhETFlBc2JzcjBlbUdoTDBKRWpiRVNlelVHR1U4dC15WFBJOFk?oc=5",
+      "published": "2026-11-22T10:41:39+00:00",
+      "source": "Courrier international",
+      "summary": "En Afghanistan un décret ordonne de remplacer le nom des femmes par des surnoms Courrier international"
+    },
+    {
+      "category": "politique",
+      "topic": "POLITIQUE",
+      "title": "Mauritanie: le gouvernement soutient un projet de loi pour valoriser le secteur de l'artisanat - Yahoo Actualités",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRVBpbjg5WDZySjlINFJtbXpXZVZoMTJUYVFPaVlLN3VIcVVhUzQ2WUdSa3p4UFVGLVFvRXNMRk8wcVpmZDRKazR2ajNyLUlkMVdxakxRZHZWbXhIWHF4eHllNl94OGVMOTBQZTRxMlhGWW5wOS1KNkQwWFd6dXF4cl9vc3F5c05FVW5aVA?oc=5",
+      "published": "2026-11-22T10:38:13+00:00",
+      "source": "Yahoo Actualités",
+      "summary": "Mauritanie: le gouvernement soutient un projet de loi pour valoriser le secteur de l'artisanat Yahoo Actualités"
+    },
+    {
+      "category": "feminisme",
+      "topic": "FÉMINISME",
+      "title": "Journée internationale pour l’élimination des violences à l'encontre des femmes : FO exige des actes concrets et des moyens à la hauteur des enjeux - Fnec FP-FO",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOYmxHSXZoeWFNQk5qeGd2cTVvZlZfMFdmMTcwa3RLS29aNWZHQ3dnQ2NEVG5TaGNRc2IySGYzcFk5V041c0JGTndfT1dnQWptbmZ4SjM0U1hKUms2REZyVktwNEV4SlRDeHpReGVkNjRzenFwZWtsMzctdWUzNGdoRzZtVDdCUC1VbVZacGo2Zkd6NHdXQmNfbG9tanByeEUtS0FnYktLaEd1YURsQkxCXzUxWmx0S2ozNmVuUDVJcGNZR19LVndyeE8tbDY1RHlsNUJnU0pLLTdVYlNCMUNJRkdrMnRoWEJPMnRtSHI5MTZIQlViaEQyVVFDOFpSQQ?oc=5",
+      "published": "2026-11-22T10:37:23+00:00",
+      "source": "Fnec FP-FO",
+      "summary": "Journée internationale pour l’élimination des violences à l'encontre des femmes : FO exige des actes concrets et des moyens à la hauteur des enjeux Fnec FP-FO"
+    },
+    {
+      "category": "politique",
+      "topic": "POLITIQUE",
+      "title": "Israël : les partis d'Eisenkot et de Netanyahu reprennent leurs pourparlers sur fond de divergences - Yahoo Actualités",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNHU5bndxOVJQdjN5SnNoZW9GMGlLQXpvZVR6cTFTUk93MFJDR082d2prSExvT29FY0RnTm5oSWktcG0ta1hCVVRWbmhxVXV2aXc2YjBoTkRHWW1MekRmQmVSREhEMXg5cTFGb2UtVHNtTDItTUpIeUtUVmFXZzNYSk9SOTU2RXozV19zWEs3Zk5MS3Rt?oc=5",
+      "published": "2026-11-22T10:23:01+00:00",
+      "source": "Yahoo Actualités",
+      "summary": "Israël : les partis d'Eisenkot et de Netanyahu reprennent leurs pourparlers sur fond de divergences Yahoo Actualités"
+    },
+    {
+      "category": "tech",
+      "topic": "TECH & IA",
+      "title": "Comptabilité : 88 % utilisent l'IA générative aux États-Unis - Brief IA",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbUd4ZzJpSlRORWFKOElUMERlUWZhaWttdHViWTk0RV9lSndRRzd6ajNvcE1aZ0NZc2w3RGdBanhMRmVtZEtSVk9LS0gxLVhrU1NfMEVIbWVkMHR2eGUxZ2ZKRTQzS2hYRWZuTV84OWNoQmI4alBiSXMtMFZZZXJTZWp1akNvN3lrRmFzYlZjT2Y?oc=5",
+      "published": "2026-11-22T10:04:59+00:00",
+      "source": "Brief IA",
+      "summary": "Comptabilité : 88 % utilisent l'IA générative aux États-Unis Brief IA"
+    },
+    {
+      "category": "tech",
+      "topic": "TECH & IA",
+      "title": "Il est milliardaire mais n'a aucun diplôme, il scrute la \"boîte noire\" de Claude: qui est Chris Olah, le visage méconnu d’Anthropic qui a demandé l'aide du pape pour encadrer l'IA? - BFM",
+      "url": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxNUXIzZVdNM0FuODJNLWJQRnlzdG56MTBfdW5DZXZCcENkVXpvU0VzamJkcG5MN3l1X19RR3ZxdzlNOHFiNWNpci1mMTFYWG00THNIcjk4Qnh5NlBOZ1F5Ym1GRlZjdFZfSjdKZTNMZE1nNl9kZ0ZUa1ZRTGJyaWYxTjQ5TFRVNlNOTmZUUURfMFZJdHlod094Z2xnOFd5ODh3dmlMZVpLdVUxalRNbjJTTnBzeFZ3N3RFaTNjQ2stS1BtSVRQZVBkdFY2Q3JiVFBBS1U4YTdSTjFIdlpjU0ZXM0F3alRqbGpGVjBVNUVUeGJJLWdvMGRxRFlLaS1KZjZNTVNPZ0gxRDhTY3NCRzlFQjdEdkNVLV9sckRhSUp3QUxseldKSG5mQWZJRXFLOGk5YTNUaGQxRHVGNzJ0WEozX2h5bnNmQ2FpT3o1QmxGTnRlV1FoekVrM05iaDA?oc=5",
+      "published": "2026-11-22T10:02:51+00:00",
+      "source": "BFM",
+      "summary": "Il est milliardaire mais n'a aucun diplôme, il scrute la \"boîte noire\" de Claude: qui est Chris Olah, le visage méconnu d’Anthropic qui a demandé l'aide du pape pour encadrer l'IA? BFM"
+    },
+    {
+      "category": "politique",
+      "topic": "POLITIQUE",
+      "title": "Une guerre Maroc-Algérie est-elle possible ? - Le Point",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVEkwbEF4YUx5NF9YWG5qOHNSUnA3OF9QTWhzRkY1aEhObDdPVkpsakI0V3N4UGpfbW5BNXZTaHRKdlZ1VllyQWloM3pENXhGVjRkR0hBWHlIQVRhenpGa2hPTnRGWTNLX3BUakFLY1pWUWsyeEJqd2V0U1NoTTFiLTU5LU1IQU5qMXVyRzdLdmpPZ0Q4SnQyT3lySXlPUVRx?oc=5",
+      "published": "2026-11-22T10:00:00+00:00",
+      "source": "Le Point",
+      "summary": "Une guerre Maroc-Algérie est-elle possible ? Le Point"
+    },
+    {
+      "category": "politique",
+      "topic": "POLITIQUE",
+      "title": "Géopolitique de l’année 2026 - Nonfiction.fr",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1yQXAzMkVPT0hRRC01a011OG41MlY3MmtrLXUtb3FwWDUwTWd0OWV5dFRxeWxVTDZsZVgzZ2Y4WGIwTzBuUnFiWDdFRDRwRXZyVGpoa1pXZVJPRzB2bFl5RHpLNUNGQ3UzTEM5dWh3NGdFQWZ4MlNLalo0TQ?oc=5",
+      "published": "2026-11-22T09:46:47+00:00",
+      "source": "Nonfiction.fr",
+      "summary": "Géopolitique de l’année 2026 Nonfiction.fr"
+    },
+    {
+      "category": "politique",
+      "topic": "POLITIQUE",
+      "title": "Quand l’élection présidentielle s’invite au congrès des maires des France avec la double candidature de David Lisnard - Midi Libre",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNOUlLbkdCZ25NcEl2c3JrRkJPOS1uOHRiSnZXVnJLTmF5VldwNjBxOE5rSGFPRWxzYlRwajdLTWs0RVFVMUJKOU5lTEpZTHN3Uko5NUNHZ2JaZHR5a0dISERSSko5ODB6ZFVKVml0d01lRHEyaVdhTUVkSTgxcEhVZkJ6MGM0TVdKN05ScEZjVWRqMDZjS3VCZkUwQkpVdGt2dEhpOW5ZR3M1elJfN1FTdTdkMTFfNzdVamlxQW8taGF0T1U1aE9BVHJ4MEJERlYwb2xmazBRZXRaRnpXczRza3c3eXZrcnM0WG0xenJsQ3JJZlJqNnJn?oc=5",
+      "published": "2026-11-22T09:01:00+00:00",
+      "source": "Midi Libre",
+      "summary": "Quand l’élection présidentielle s’invite au congrès des maires des France avec la double candidature de David Lisnard Midi Libre"
+    },
+    {
+      "category": "tech",
+      "topic": "TECH & IA",
+      "title": "L'intelligence artificielle résout un célèbre problème mathématique - franceinfo",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPb09GeWtVMkNpbTcyVXJUZ3FESGpGSENMazlIOFVoQk5PSWVfS2J3LUl3emFkdnVZREtLUFpBN3VaemwydWdMWnE3NDcybkhBTGo0blpKTEI1U0VRcVJxWmI2eWRBYzI5enAwbjZ5VHhXcnVIcG1ScHJlSm4xdjgxSlpMM29XZWNfN2FMaDJjMHFTQVRPWmlLYzgtdG01ZUpBRGVydk92NXBuYkZobEZReEY0VGNndGlNQWhWZmhBb2x1eHhfclJBMTNTVG9CU1hTbmZBUS1XZ2o?oc=5",
+      "published": "2026-11-22T08:23:14+00:00",
+      "source": "franceinfo",
+      "summary": "L'intelligence artificielle résout un célèbre problème mathématique franceinfo"
+    },
+    {
+      "category": "feminisme",
+      "topic": "FÉMINISME",
+      "title": "IVG en Tunisie : du droit à l’accès réel - Libnanews",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1PTG1TSC1sSlY1cDhfcFJ0RHdFMVFrX3J2MVFZMGF3bGZaMG9IYUhQem5yNC1mT2tFNWVsb3J6d1NXOVc2Q1Atcm82NnMydUlMLVdrLXFPbVE3VWp3Yl95aElNczJsS1N6WENRVA?oc=5",
+      "published": "2026-11-22T07:00:00+00:00",
+      "source": "Libnanews",
+      "summary": "IVG en Tunisie : du droit à l’accès réel Libnanews"
     },
     {
       "category": "tech",
@@ -20,220 +875,13 @@
       "summary": "Mistral Vibe, Euria, Apertus… Quelle IA générative choisir pour se libérer de ChatGPT et Gemini Vert Le média"
     },
     {
-      "category": "feminisme",
-      "topic": "FÉMINISME",
-      "title": "CC - Coupe de France - Issoire - U19 Femmes #2 : Les partantes - DirectVelo",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSEp6czJBRzZVYmFmdk0wUEQtYTZsT0dmWTRkaWZiRzVPQ09jaXZqcFpDUjFVQWx1RExhT09kdUJjdjdoc1V3X1NHRDhMQXJLX1oxNzItaUozY0Y5ek9tdFk4MF9FZ1FZVFNSanY3TGRVSnFLOVVvdXJIcnd4U004NGRrTGZvRUFEQWZoRmtGT2NubUtYWDBCUW13dWZ2UQ?oc=5",
-      "published": "2026-11-22T05:46:23+00:00",
-      "source": "DirectVelo",
-      "summary": "CC - Coupe de France - Issoire - U19 Femmes #2 : Les partantes DirectVelo"
-    },
-    {
-      "category": "politique",
-      "topic": "POLITIQUE",
-      "title": "ENTRETIEN. « Les peurs vont être au premier plan de la présidentielle de 2027 », analyse le politologue Pascal Perrineau - Ouest-France",
-      "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxNQjlfQW8yVjNacmI1bWtYOVVQbEtDVk5qUm92TjFNNEd1MXdSNjBobWJMc1lXWk9XcGpIeGZ4OVhLQ3FPVndabm00bEdvWlVwVjZ0UHdJa2lTbnpxc29vWlFTa1ZsdlhOMlRrN1pvd21DZ3ZfY0FiZ3Z2RWJLWVg2YTdjYWViR1BNT2VGTERUNHQ0X1RFczJqbl82eHJrOVRnMnZ3WVJUOV85MWZTZmhHZDNsaEFiMS1MMlo3ejQzcWFkXzZ6LU5ZRFdYLUxZT3J6alNDQ2pJVy10X01ucG8zMkJxZXlvcmpkdzZWbVRJTjAxMVdZanN0czlsN0k2Mml5NzAwV08ybVBaUzVxVm1IOXJLX1hCektObzFjcjFPZHpNTGRFb0RlN3A5M2Y?oc=5",
-      "published": "2026-11-22T05:45:15+00:00",
-      "source": "Ouest-France",
-      "summary": "ENTRETIEN. « Les peurs vont être au premier plan de la présidentielle de 2027 », analyse le politologue Pascal Perrineau Ouest-France"
-    },
-    {
-      "category": "finance",
-      "topic": "FINANCE & ÉCONOMIE",
-      "title": "NVIDIA Cours Action NVDA, Cotation Bourse NASDAQ - Boursorama",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1FY3p6cDdaTUwxUFkxZjNJcjdVd1YtTnJocUg0eEJhYjBhTUNsemQtbWVaMFh3TVVKRFBuQ203c2ZyNzdDMVpoOXU2YXpTNjg?oc=5",
-      "published": "2026-11-22T05:20:14+00:00",
-      "source": "Boursorama",
-      "summary": "NVIDIA Cours Action NVDA, Cotation Bourse NASDAQ Boursorama"
-    },
-    {
-      "category": "finance",
-      "topic": "FINANCE & ÉCONOMIE",
-      "title": "La pression pour rembourser les obligations d'entreprises s'accentue au cours du dernier mois de l'année. - Vietnam.vn",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxORU5JMnBOVVV4T3oydVZoeUdOeVdDMjNKOUFWRHY4QlhHTGdLY0kybjlWWVJLb0ZXbGdCSzFlS0hXOTZVSHRMaDRKb2pwb25aZmd4dmlRYWRSR3pUdV9IUjd3WUhLUU02VHRJWXpTVUZJM1hlNW5BdlVmMEhtb1dZYzJFNjFpaTVsMEhtYU96LTRlOXpOUlJ5ZzVWWQ?oc=5",
-      "published": "2026-11-22T05:11:22+00:00",
-      "source": "Vietnam.vn",
-      "summary": "La pression pour rembourser les obligations d'entreprises s'accentue au cours du dernier mois de l'année. Vietnam.vn"
-    },
-    {
-      "category": "finance",
-      "topic": "FINANCE & ÉCONOMIE",
-      "title": "RENAULT Cours Action RNO, Cotation Bourse Euronext Paris - Boursorama",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBhQnhpaFNXNzBFZzZLUHNkdjRKUnJHaTZBQVFOeDhaQTBMd1pFWllJVUgzQkVlNTZXTlNPV2ludU94Z1ZzdVc2Z3oyTEVsNVdMelE?oc=5",
-      "published": "2026-11-22T05:08:47+00:00",
-      "source": "Boursorama",
-      "summary": "RENAULT Cours Action RNO, Cotation Bourse Euronext Paris Boursorama"
-    },
-    {
-      "category": "feminisme",
-      "topic": "FÉMINISME",
-      "title": "Tir de mortier contre Farida Amrani : le tireur condamné à 10 mois de bracelet - stephanelarue.com",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOVVhpd09nc1BEUWFneVRqdGFMcElISDNvYV9kNjJWd25zS0t2eE9pRkRGTWdUUF8xd1NKT1lEYlBaZ05sdUlnX3FJMm5KWUZXSmREelRSbGluc05HS2Z4S05uWlN2R2RMUnBlX1JIR1VJdTEycG5WRE9VTGp5ZXlsRDBySHZjTWtBdTBqNENhakZvQi1VT0IxNzRHLXBHQ2x3NnFscFlR?oc=5",
-      "published": "2026-11-22T05:06:39+00:00",
-      "source": "stephanelarue.com",
-      "summary": "Tir de mortier contre Farida Amrani : le tireur condamné à 10 mois de bracelet stephanelarue.com"
-    },
-    {
-      "category": "finance",
-      "topic": "FINANCE & ÉCONOMIE",
-      "title": "FDJ UNITED Cours Action FDJU, Cotation Bourse Euronext Paris - Boursorama",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9vcmRTeE9nVWlNRVMtRTlucjdHZnVSZF9jbGllNUE4NlllQVJhaW53VW8wZURSWjJ1VU00WFJPc1phdEphdEpuQksxaVZGTlZOeVZr?oc=5",
-      "published": "2026-11-22T05:01:56+00:00",
-      "source": "Boursorama",
-      "summary": "FDJ UNITED Cours Action FDJU, Cotation Bourse Euronext Paris Boursorama"
-    },
-    {
-      "category": "finance",
-      "topic": "FINANCE & ÉCONOMIE",
-      "title": "PIB x4, pauvreté ÷6 : le vrai visage de la croissance - Tixup.com",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMkJfbjRRdXJPMWctX1N3WDlpUElsaGFVck91ZUlFZDRKTHQwSzF0N2JIWVYtUjBjWGppaVgwWVNKMEEwWktNOU9Qc0FybExvR1BvbWl0NmVvSG90dk9HRldyZnYyRzVVNU90YXZxUkxUcWZreEl6Mm12ZDNET2NMZ1FFYzdhOHBTSDFmZFp0R3AwbFF4bzhZb3psUkFwQlE?oc=5",
-      "published": "2026-11-22T04:31:00+00:00",
-      "source": "Tixup.com",
-      "summary": "PIB x4, pauvreté ÷6 : le vrai visage de la croissance Tixup.com"
-    },
-    {
-      "category": "finance",
-      "topic": "FINANCE & ÉCONOMIE",
-      "title": "VUSION Cours Action VU, Cotation Bourse Euronext Paris - Boursorama",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBRVk9VaEdOb3IzZVNtajJ2RzAxODg5alJMWlJZU2VxeGpudUpqZXp5dng1SXpKSlQ0bmFucXAteFJDNWtxSTdQdmNZeTJodFRt?oc=5",
-      "published": "2026-11-22T03:09:45+00:00",
-      "source": "Boursorama",
-      "summary": "VUSION Cours Action VU, Cotation Bourse Euronext Paris Boursorama"
-    },
-    {
-      "category": "finance",
-      "topic": "FINANCE & ÉCONOMIE",
-      "title": "Keytrade Bank relève ses taux et prend la tête des meilleurs comptes d'épargne - L'Echo",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNV0VmTEtheTVsTENzT2JZbFpaVWdxZ0phOWktRzctNGlhRHEzSW9ZQVFKUkp1VGRmcFBiYkNQbUVrWW9JTERUMzFHVENla1ZMb0VzX09KaXZnYVh0aFhTVWxpN2h2WkpjLXZFc1QzZjVMQlFtem1DZTV0ZDJ1Z1JMc0pIOEZsNlZlWVY2WHdIc01fZ0stMjRNRHI1UlFCMTBNVE1jMWFuODN0eUdQRlZMQVBJRk1tSUxYOF8wYzlNU2dCZDBSeGVsMnFsT1czS2hSX2Jta3I2U21RaU9HNXc?oc=5",
-      "published": "2026-11-22T03:02:52+00:00",
-      "source": "L'Echo",
-      "summary": "Keytrade Bank relève ses taux et prend la tête des meilleurs comptes d'épargne L'Echo"
-    },
-    {
-      "category": "politique",
-      "topic": "POLITIQUE",
-      "title": "Présidentielle 2027 : qui sont les principaux candidats déjà déclarés ? - Touteleurope.eu",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNY0xtSGxUMlNNdUdSYVhqV19HWklpLU45R3pSV3ZxNWVOS1lTV3pPVm03d2pvdXQ1OFB1ejBBaEJTRFJoT1FSMU4zVmhCWGk4VHp4MFVPc0xCZVFPN1FoY1NyVGg4S3BvQy1uVEhBVTlRc2pqV1NwVVJJQUZXNXJjbERxLTMtc1BhYm1jM0M1S1l5aWZ1ckhRZFZ1ekZSNlFEbkoyNG1yT21YWkdoNHdTYnAyV0VEVDRE?oc=5",
-      "published": "2026-11-22T02:56:03+00:00",
-      "source": "Touteleurope.eu",
-      "summary": "Présidentielle 2027 : qui sont les principaux candidats déjà déclarés ? Touteleurope.eu"
-    },
-    {
-      "category": "finance",
-      "topic": "FINANCE & ÉCONOMIE",
-      "title": "TELEPERFORMANCE Cours Action TEP, Cotation Bourse Euronext Paris - Boursorama",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9qTm15NEw5c0NZVzI1N0gyd1FRZlZSWmZWazNZcjZzRXdYSVBDaGhadFY1bHlwOHE2dEZQb2Y1TnBOY01pU3Y5VEh3TjZyemZEVVE?oc=5",
-      "published": "2026-11-22T01:58:32+00:00",
-      "source": "Boursorama",
-      "summary": "TELEPERFORMANCE Cours Action TEP, Cotation Bourse Euronext Paris Boursorama"
-    },
-    {
-      "category": "finance",
-      "topic": "FINANCE & ÉCONOMIE",
-      "title": "Taux de change du dollar américain aujourd'hui, 22 novembre 2026 : La forte hausse fait chuter l'euro et la livre sterling. - Vietnam.vn",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNcG1pWVQ2QS15U1BnM09YbGs5eTBHS2tfRTV3dlQyRkI0ajFlczQ1LUF3RnlLdG5HeVN0V1liczUweFJzRW9MbnNEOVZxWEEtcVpyMVBGb1JfZlMyQ25BYzIzLVF5SHYtckxsNTRnVWZIOXB0YkZWeFJkWlloY1o5eEd1YV94cUhvbDVvQjRCQ1NTVldX?oc=5",
-      "published": "2026-11-22T01:57:02+00:00",
-      "source": "Vietnam.vn",
-      "summary": "Taux de change du dollar américain aujourd'hui, 22 novembre 2026 : La forte hausse fait chuter l'euro et la livre sterling. Vietnam.vn"
-    },
-    {
-      "category": "finance",
-      "topic": "FINANCE & ÉCONOMIE",
-      "title": "Stimuler les exportations – Un moteur de croissance économique. - Vietnam.vn",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOMWRKNFFlaGZ6TjlDZWRkTWwzNGJ4aDE1aUtSVU1IejJKTm1zN2xNdHZ6cVdWVmZRem9Neno0STdBbm9DZzlIUEg2b0RLMHlrTzJlTVBKV3ZwSHYxU3RZNUh2TnZybkRiSXpmUEh5SEw4aExFM0FpMjdsMEt6SnRBYVlDSQ?oc=5",
-      "published": "2026-11-22T01:43:45+00:00",
-      "source": "Vietnam.vn",
-      "summary": "Stimuler les exportations – Un moteur de croissance économique. Vietnam.vn"
-    },
-    {
-      "category": "finance",
-      "topic": "FINANCE & ÉCONOMIE",
-      "title": "Gestion d’actifs : Auris Gestion et deux dirigeants sanctionnés de 700 000 euros par l’AMF - Economie Matin",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSkxjOWVmQmZJZVhnVHRCYnk4SHpxRnhWUjdoNk44cV9iS3ZTdEM3YjVKWTJpbFJMLXF6M0gxRVkwSWtCM2lMUnh1TC12ZTJSdGhCa2xCclFMdUFpOGN1WmkwcW5TQmR0Q1FRaWY4NEo2OXBDRjBGald2Z25wTlFrbjB6Vk8yOVQzVTVN?oc=5",
-      "published": "2026-11-22T01:37:29+00:00",
-      "source": "Economie Matin",
-      "summary": "Gestion d’actifs : Auris Gestion et deux dirigeants sanctionnés de 700 000 euros par l’AMF Economie Matin"
-    },
-    {
-      "category": "finance",
-      "topic": "FINANCE & ÉCONOMIE",
-      "title": "Ainsi se termine le marché informel à Cuba : le dollar et l'euro augmentent à la fin de la journée - CiberCuba",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNUNTUkFRbF9RcThteElwQzlDMlV2VFhQSFZ1ejZubXYtY0Q3TTMxdFFTRk52MDVmZkROdlZYLWIxNVhDQzJEN0J2bUpIdXNMMHNSUHpiTzFkMWlBUEdFcTJ2N2J1cUFOX0NzQ2xFS2dkRkxIanlvNkRTdlByanRjeGtZUE1qVVM5NHdmMnpzMzZJZ0x3TlA5Y1N0Ti1xYnFmNkZjcGFNRDNRWHlEb1l5YzBPOGxfZmtsb1lxeXA2MGxEaGs?oc=5",
-      "published": "2026-11-22T01:24:48+00:00",
-      "source": "CiberCuba",
-      "summary": "Ainsi se termine le marché informel à Cuba : le dollar et l'euro augmentent à la fin de la journée CiberCuba"
-    },
-    {
-      "category": "finance",
-      "topic": "FINANCE & ÉCONOMIE",
-      "title": "L'inflation menace la croissance économique de l'Inde. - Vietnam.vn",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1TM1p0VTk1SjhFTENhQVloVG5mYUh0azN6Zm01amVBdm9ZYUozVXJrSVNnMmh1TXY1Qnh2N2JydkFOTlRiMHNQN1BpMGtkOG1KV3lrX284NGdES2JpM0RiTm1rMWNoeDJYZUphOW8tTlUzVldOYWY3bWtB?oc=5",
-      "published": "2026-11-22T01:20:56+00:00",
-      "source": "Vietnam.vn",
-      "summary": "L'inflation menace la croissance économique de l'Inde. Vietnam.vn"
-    },
-    {
-      "category": "finance",
-      "topic": "FINANCE & ÉCONOMIE",
-      "title": "SAINT-GOBAIN Cours Action SGO, Cotation Bourse Euronext Paris - Boursorama",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4yelBQSjVyWUQ4akcwX05xdmJGM2RBWlMySTEzRGsxWlQzSEJuOFdRNm5MMDlhZE5GVGZuYWU4OEFGS2Ixa0FCeEJJU2owRTduVlE?oc=5",
-      "published": "2026-11-22T01:18:26+00:00",
-      "source": "Boursorama",
-      "summary": "SAINT-GOBAIN Cours Action SGO, Cotation Bourse Euronext Paris Boursorama"
-    },
-    {
-      "category": "finance",
-      "topic": "FINANCE & ÉCONOMIE",
-      "title": "Banques centrales : vers le bitcoin, mais adossé à l’or en coulisses - Bitcoin News",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxORDhPUzEzQl82Wkc3a21CT3hldWZ3WEFJY3U1Z0JVbVdnWFozX01MZEpjZnJRME5mVklMWGJvR2FMSTFOdkFUa2owR2tucDBMOEptdWI5M0hHVkxEanc5dE9fLUtJSFZuRjRvR3Vka1FjMHlwNy1yX3ozVlhNeWQzZ0hRTFlERFVXbnhiOE1PMjlXc0pzdWJFcktJYzRMeDJWSW9jRQ?oc=5",
-      "published": "2026-11-22T00:35:32+00:00",
-      "source": "Bitcoin News",
-      "summary": "Banques centrales : vers le bitcoin, mais adossé à l’or en coulisses Bitcoin News"
-    },
-    {
-      "category": "finance",
-      "topic": "FINANCE & ÉCONOMIE",
-      "title": "STMICROELECTRONICS Cours Action STMPA, Cotation Bourse Euronext Paris - Boursorama",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE50aEdVR1RKdDMyaW5mbzVJUlVoSWhzU0d2VUZCZHZkRjdjVlVzQkptT0FVdkp4MVFwUzNwSXFMRS1SNThZSXFkTkxtVDRISkV0Tkh3Ng?oc=5",
-      "published": "2026-11-22T00:22:00+00:00",
-      "source": "Boursorama",
-      "summary": "STMICROELECTRONICS Cours Action STMPA, Cotation Bourse Euronext Paris Boursorama"
-    },
-    {
-      "category": "finance",
-      "topic": "FINANCE & ÉCONOMIE",
-      "title": "ALSTOM Cours Action ALO, Cotation Bourse Euronext Paris - Boursorama",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ieFVPRVM5TGxmaUg5SUJrRVdIdlFhaFNXaVZZaHJraHI4ZWNqaDlJV3JPODFXUk4yUzR6bjBJZ3JIQzRPNVJqMnJPTjUtVkRXSGc?oc=5",
-      "published": "2026-11-21T23:47:54+00:00",
-      "source": "Boursorama",
-      "summary": "ALSTOM Cours Action ALO, Cotation Bourse Euronext Paris Boursorama"
-    },
-    {
-      "category": "finance",
-      "topic": "FINANCE & ÉCONOMIE",
-      "title": "Coalition bipartisane de procureurs généraux contre la CFTC - Bitcoin News",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONHJPZlJReGlCWmtrbHR0T3YtN0RWMWZLZGZpdF9XUUlrZjlFWFM3bjFxQldLbkk4ZHF0dXNiYmY5MWpReWZqRUZ4b2Q0ZDNsc3BRV2p1ZWNoclJkbk5tMWRkNXNPTnN0T01MNXdmc2Z0ZzVCeXBEb2RZSHZjZXMzSkZwTTROcXEtWmVGdU96SWphTUUyTUMyaUhaNnFsS3JEUmpPaHM3UUhieFQyaGc?oc=5",
-      "published": "2026-11-21T23:32:49+00:00",
-      "source": "Bitcoin News",
-      "summary": "Coalition bipartisane de procureurs généraux contre la CFTC Bitcoin News"
-    },
-    {
-      "category": "finance",
-      "topic": "FINANCE & ÉCONOMIE",
-      "title": "BNP PARIBAS Cours Action BNP, Cotation Bourse Euronext Paris - Boursorama",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1uYlMtclJJQjJfa19vbGVCdEZVYzk4akZZbjM0Snpocy1LUnRxWWJPUWdhRG45a0o2YnBuZWxTcHdJazQ2c0owMjFteVI5T0xENWc?oc=5",
-      "published": "2026-11-21T23:11:39+00:00",
-      "source": "Boursorama",
-      "summary": "BNP PARIBAS Cours Action BNP, Cotation Bourse Euronext Paris Boursorama"
-    },
-    {
-      "category": "finance",
-      "topic": "FINANCE & ÉCONOMIE",
-      "title": "HERMES INTL Cours Action RMS, Cotation Bourse Euronext Paris - Boursorama",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5IUk5rZ0h4RXBVdzUxNU9kME9md3hMa1MtV3lJbXVpOXlBazZnRWxRY2wxck10cjhEWUMxMnl1VloxYlpjbklCcUZhWlA3RVA1eEE?oc=5",
-      "published": "2026-11-21T23:08:58+00:00",
-      "source": "Boursorama",
-      "summary": "HERMES INTL Cours Action RMS, Cotation Bourse Euronext Paris Boursorama"
+      "category": "tech",
+      "topic": "TECH & IA",
+      "title": "Apple doit revoir son organisation pour suivre le rythme de l'IA générative - iPhoneSoft",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPeTN3X1RwMmFwT05Jc1BTU0IxNERzdlRQS0hvX1ExNXVzRzNYWndsNE03TndjSHl6bGlLbmxyUThERklaeGJnS29YYmV4a1BQLUx3aE5USkQ2dG1fb0dqSXR2d2d6MGFLS3lMX1p2NkwyMkttNTBjWlNNUnhLbWNVSlhDcGZaUThnT3ZtcThFSQ?oc=5",
+      "published": "2026-11-22T04:01:55+00:00",
+      "source": "iPhoneSoft",
+      "summary": "Apple doit revoir son organisation pour suivre le rythme de l'IA générative iPhoneSoft"
     },
     {
       "category": "feminisme",
@@ -245,157 +893,31 @@
       "summary": "La pétition demandant que Marilyn Manson soit retirée du spectacle de Slipknot à Wembley compte plus de 20 000 signatures ZikNation"
     },
     {
-      "category": "finance",
-      "topic": "FINANCE & ÉCONOMIE",
-      "title": "Panne générale en Guyane : EDF explique l'effondrement du réseau et les possibilités d'indemnisation - Outre-mer La 1ère",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOdGZpVmZjSnlPcGdnSTNmZi1MWDc4aVdRd3liSlhFbVV3NTVTdGtpV295R09PZ2hFZVh0SDlIa3VReDRRMEF4MTRudGtLZHhrNVFkNG9vMVkxbk5lWVIyX1dRbVdHVDB0ZkFNSkd6dDhVTm9xTF84ci1QSnRhN2JuVDZWQTRxSmpIWVpTeUxfaUJ5eHpTQzZwMjcwb1NjUHlWZzFkaXN6aTBEcmFsa0ZqZDlsY0k2dzFPOGxNenRjVjRyQ0tKUFFUSkJwR2xtRFZqOVdISXQ5U19QRnBZMzJqdi1EZW1IazQ5SExBX0V5b3Vha0hi?oc=5",
-      "published": "2026-11-21T22:17:06+00:00",
-      "source": "Outre-mer La 1ère",
-      "summary": "Panne générale en Guyane : EDF explique l'effondrement du réseau et les possibilités d'indemnisation Outre-mer La 1ère"
-    },
-    {
-      "category": "finance",
-      "topic": "FINANCE & ÉCONOMIE",
-      "title": "L'IA détecte une faille dans Bitcoin Core pouvant bloquer des nœuds - Bitcoin News",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTG14eFZqblhkak5pc2t0QmJydVNha0ExcWZOTU1XTERQNVRHRWVqMy1WV0xKcnRsWWJWTFFhUDZ4ZzFkbmJBRC1qNGVJVHVYRW5BZHhhVHI2SGtQRTVzcHdrY2tsZkl2WklmUEE1TjVEeG82UjJqdEdQbGhnLTdHeGFzeGhtVXpaY0ViUUZ3TjlYQXYwT1l2eGpRY29iQUlwM29jeFhDQndMUQ?oc=5",
-      "published": "2026-11-21T21:32:00+00:00",
-      "source": "Bitcoin News",
-      "summary": "L'IA détecte une faille dans Bitcoin Core pouvant bloquer des nœuds Bitcoin News"
-    },
-    {
-      "category": "politique",
-      "topic": "POLITIQUE",
-      "title": "La Türkiye a promu sa vision climatique à l’international par la diplomatie publique lors de la COP31 - Anadolu Ajansı",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQajdmQ2J0NndzQ201OXFmaXp6aFkxMkp0ZnFvRXJqWTkxdENKQlUwTUJyZlZUM3RyWjNCbTBlRGZiLVBfTXJPT2pFNi14alFEYlk5eWZSS21iZjhIVDR0ZzJveFBxM1FDTUlkMGhvSFpMYVd0SW81YmlZa1V1X0NqVGRMR2ZKdXhucVBrYndrRGt4WVB6bG5Rd1ZBUTQwTzhqQW9ZaFI3c0lmSTlFRWk1ZkR2aVQ4TDhvcTUxWGp1cWxycmFKenFMSFFrZTBleW0tMmx3TmZwVVVXTjJsUHk5UzlSbw?oc=5",
-      "published": "2026-11-21T20:58:10+00:00",
-      "source": "Anadolu Ajansı",
-      "summary": "La Türkiye a promu sa vision climatique à l’international par la diplomatie publique lors de la COP31 Anadolu Ajansı"
-    },
-    {
-      "category": "politique",
-      "topic": "POLITIQUE",
-      "title": "Présidentielle 2027: la stratégie d'Éric Zemmour pour retrouver de l'élan - RFI",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOWC0xcW1iWkwtZ1JwUXlNZUo5ckZhM0lmXzFkcGwxclZEVnJYdkJnX0FERUlMaEpLSDQzbkhyc0h0X2ZXZDc5NVVnQWxieVkzYm1ZMl9vWVhPWHhTSndiSXlIeFljRW1qZzFxYUx0SDlyS2M5NXhXaUxNVHdkYW1VOXUxOG12VXFDeUp2SlEzdUZ5ME0xYTNVcDBjRmcyaHMtRnQ0X19WUVdKbEQtcGR3TnplTmdvOTRpYW1qbWM1Z1BVUlR0bU0zcXNB?oc=5",
-      "published": "2026-11-21T20:42:34+00:00",
-      "source": "RFI",
-      "summary": "Présidentielle 2027: la stratégie d'Éric Zemmour pour retrouver de l'élan RFI"
-    },
-    {
-      "category": "finance",
-      "topic": "FINANCE & ÉCONOMIE",
-      "title": "Le bitcoin rebondit à 60 000 $ après un plongeon à 55 000 $, liquidations en milliards - Bitcoin News",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZXJUTy1mRk5STTJSZUROOUNLN25vNmwtSV9kd1FCTzRmaEFPS3BrTHZpQWVOUWpObmZaMlBTbF95cWxVUkRsYnl0c0lUYzZBWHNOR3lWMGhDQU9MNlhPanEyQ2VSQkdjZHdNWkpxY3VoQkY4T21MN3d1OU5VamlWaGptUWlEOE5HWnJxLTEzWVhJdmc5NkV5dnY0MkozbXkyTnJYcXA2WTZyN2l1bVplYjRWUUxzUEZ5bTlPdS1ZNllLNWs?oc=5",
-      "published": "2026-11-21T20:32:50+00:00",
-      "source": "Bitcoin News",
-      "summary": "Le bitcoin rebondit à 60 000 $ après un plongeon à 55 000 $, liquidations en milliards Bitcoin News"
-    },
-    {
-      "category": "politique",
-      "topic": "POLITIQUE",
-      "title": "Israël : Gadi Eisenkot invite le parti de Netanyahu à des négociations de coalition - Yahoo Actualités",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPNXNRTG1XYWMzVG1QRjJQTGp6WUpiQ0cyQ2I0NHNBM3hzT3lHbF95MUhaQmJxMHNXS0c2UEFPUXJtRXlmTkdNZHRDM0M5YlU0MExYeHg3NTM1NHFtaWt4dDVCazF4UU1CV2dTNU92YzJiVDluaDRpcWpEYmh5bnpwSElnek9mdw?oc=5",
-      "published": "2026-11-21T20:09:42+00:00",
-      "source": "Yahoo Actualités",
-      "summary": "Israël : Gadi Eisenkot invite le parti de Netanyahu à des négociations de coalition Yahoo Actualités"
-    },
-    {
-      "category": "politique",
-      "topic": "POLITIQUE",
-      "title": "«Que l’État se réforme au lieu de nous ponctionner !» : le coup de colère de plus de 100 élus locaux - lejdd.fr",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNR185U1FPQ3ZTaHI3X0RsY3lxMk85TVpOcUttc0kwMXRoaHQ1WVRDQ2MybHZDelZLN2ZKUVR3OE5fVWVraUpFN1c4Y3gwOXNSUmJCT1htb1QtNWdTazNFWVlkQnU3dnN3S3BNaE1BY2ZOdUdLRW1GOFE1dmpOcG9FNEx3UGRyQzRGYV9WS05Sekl3NUNIYk9zMFlOVkc3N0dhTTFfNHVqS29wYk03YjNpSmsxSjNHNFpFVDJnd3BLVXUxTU1KNFJPYUhxWQ?oc=5",
-      "published": "2026-11-21T20:00:07+00:00",
-      "source": "lejdd.fr",
-      "summary": "«Que l’État se réforme au lieu de nous ponctionner !» : le coup de colère de plus de 100 élus locaux lejdd.fr"
-    },
-    {
-      "category": "politique",
-      "topic": "POLITIQUE",
-      "title": "Entre malaise et opportunité, la crise sécuritaire haïtienne au cœur de l’actualité internationale - - Rezo Nòdwès",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQcjAyUzVUQVY5NDVnZXk5YW40MG5MUVBKdF9pRm16QnV1R3lSN2ttanUxdzB1eEdKV1loOTJhZWpKRHQ0UGJxbl90SVVVc0xPUzR0UW5rRDZCTldpbEpxX2NNOFhyTmthcnp4dUJfNUxXcnBMaHU5NHdVaWxBTjltU3Y4RUdsaWJvc0swWTdfXzVTanR2bHZqZG9LSjBpbHN6bjB4SEgwNFVkVDZWeTBTazdzWlVPMzBQRC1qVGNzSXNUa0RmMk1LdQ?oc=5",
-      "published": "2026-11-21T19:30:56+00:00",
-      "source": "- Rezo Nòdwès",
-      "summary": "Entre malaise et opportunité, la crise sécuritaire haïtienne au cœur de l’actualité internationale - Rezo Nòdwès"
-    },
-    {
-      "category": "tech",
-      "topic": "TECH & IA",
-      "title": "Valant désormais plus de 2000 milliards de dollars en bourse, Anthropic a-t-il trahi toutes ses promesses d’éthique et de sécurité? - Le Temps",
-      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQbU5uVDgxTTBfdlFEWHZTN19heG55c3lIZEtRUzN0V1I0Zk84enNwS0RGY0ZnRml2aktBcDNLYy12SkpQMjhVUndXRUVLcmZQRm5RQlREdUMxQ1lwcE1jbHpIZHhULVlYY1RIa0lXYmo5SEtHdnY2VGFqWEE0M3Q5YUJvaEpWdVRxUGctSVRfd1RUQTRJa0hRWFB1RGIxMzZnMVJGZ1FKck1ISm5SeGd3Q0F5NXI5LXZ0SXhPZUdPMzFWTFdPcm5UbmlvSXlCQmJiTHRPZjZvX0gtd0RYRHB5NEE1b3Jqc3Qtb2plZ2JoVjdkMVB0OE96cXFjWWxoT2stNld3?oc=5",
-      "published": "2026-11-21T19:28:00+00:00",
-      "source": "Le Temps",
-      "summary": "Valant désormais plus de 2000 milliards de dollars en bourse, Anthropic a-t-il trahi toutes ses promesses d’éthique et de sécurité? Le Temps"
-    },
-    {
-      "category": "politique",
-      "topic": "POLITIQUE",
-      "title": "Myanmar : La France saisit l’ONU sur le génocide des Rohingyas - Mosaique FM",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNDJUY2JyT0QybUYwWWc1VjFEQmZYbGVVX2plS1lPWDhmUElJTWRubXpUcWFxXzNKbjl5RWJCa1NVcFhnTDE4TWVqaGV2M3VOM21WS0tUdEdaVDgyM1hkS19RRUl6SS10X19FYkVETHFHMXZER3dfZDI5dWVIczVoZFJEQ204NEVneUVUa3J5Z0Z0UUtycEFXRDI4bUpLSnR3djdkd0RHTjRsLUhoZnVMa0U4cGZ0SlpSUnR3N2NUTVlLYzQ?oc=5",
-      "published": "2026-11-21T18:57:00+00:00",
-      "source": "Mosaique FM",
-      "summary": "Myanmar : La France saisit l’ONU sur le génocide des Rohingyas Mosaique FM"
-    },
-    {
-      "category": "tech",
-      "topic": "TECH & IA",
-      "title": "Jobscan – Plateforme d’optimisation de CV, mise en correspondance avec les offres d’emploi et révision de CV par IA - quasa.io",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNU0FGWTd2OTA0SGhNb042eUxJRF9fMU5feW5MMjFPM3hiczFvbkZUaHdYM2JiMUFKWkExMVZRb2JoalFfeW1JRlllSDZmNzNNaG8xV2lpeEltTUVZYm1sTVRtNFdaTlVSd3BzS2RGSFRNNG1acG9WZkRMenRtNE5hczl6LU4zOTV5UTRxQ29Sb1cxck1KcldkZWg0UzR4M0xBTHFzRDFxXzRhaTk1NWtCN04yRnpod3RIYnVRdks5UFRpZ2ZLXzBvUjI3UFRuT2NZa1ZnQg?oc=5",
-      "published": "2026-11-21T18:44:39+00:00",
-      "source": "quasa.io",
-      "summary": "Jobscan – Plateforme d’optimisation de CV, mise en correspondance avec les offres d’emploi et révision de CV par IA quasa.io"
-    },
-    {
-      "category": "politique",
-      "topic": "POLITIQUE",
-      "title": "Accord commercial majeur signé entre l'UE et l'Indonésie - RFI",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPLWRvUWRtWXEwVjh6QlNOamFWODM3dURkSEdId1ZIeXo2NERUalgwX3lVVjlES3FGcUVmc0FqeDVaR25OMVA1MTIzWEw1UU5ETmh0VnNnUmdidFRpWVZvTlI4Y1BhY0Y5VUN3T0dtUTcwWi1CeGR5OXhybi05RTR0eGVHZWlFUjZyYXE5aTREVFBDekl5LW5VQnVfbFVQakQ5SVo0V0pVeC1CNjgyOXBsVQ?oc=5",
-      "published": "2026-11-21T18:41:01+00:00",
-      "source": "RFI",
-      "summary": "Accord commercial majeur signé entre l'UE et l'Indonésie RFI"
-    },
-    {
-      "category": "finance",
-      "topic": "FINANCE & ÉCONOMIE",
-      "title": "Dinar algérien : le dollar égale son record historique, l’euro résiste - TSA - Tout Sur l'Algérie",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPUGJjdnkxY2RfVUh3ajZxc3FxRVBLSkxxMjVPOW4yVEZWR2d5SDN5TEhrOC0wcXZGZ2NXQnNZSF84VmNaZXM5YjdvVzFhOFdJOHk2RzR1RDZYU1E5QXpHMk04Q3JGZUJ6ako0Y3VWUThuNE1iSnhrWFlWWXV1NzIxeFgwWUlLS2o0cjBvemlKWk9PMDFRUm14V0Q2SQ?oc=5",
-      "published": "2026-11-21T18:32:47+00:00",
-      "source": "TSA - Tout Sur l'Algérie",
-      "summary": "Dinar algérien : le dollar égale son record historique, l’euro résiste TSA - Tout Sur l'Algérie"
-    },
-    {
-      "category": "politique",
-      "topic": "POLITIQUE",
-      "title": "Le préfet Hugues Moutouh, soupçonné d'avoir transmis des informations confidentielles au RN, demande à être relevé de ses fonctions - franceinfo",
-      "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxQR3czTEdBUlBkQ2tQSE4yVnh2TFhXM0lvMjB5U3Nha21HeHA4aUszR0xRa2RhTWx2UDNYNGNHTi1Wb2cwempiVzZUMzliREZDY29fbGxpLUxaQnNoQTFHaUpqQS1KdzNlNDBNdmhrQjl1eUVGdGJIQVdzNF9hQXh3czA2aV9yQTRYNm1NOEl1N1o4X0c4T2lfVkV5MGt0di1sMmFTRTdUX0YyMDJWS09MWmNacjNXa1E5ZFRlUy1Zd0dXYkpwYkUycGM5ak56OEF6WDlQWkNDYS10VFJDRU5sVHhDZWlueGdaRTlXS1RIWjQ0b2xLN0NhMXhpbWxFSHZFSmFWT3ByNTFfMFZqN18yaWlvdzBXRmRpZ29DNmFKaEV6TDd2LVpJS3ZoVXRTTGRuMElDNy0zYjJrbGEtX0JjbGtqdG8wNEktRVE?oc=5",
-      "published": "2026-11-21T18:26:14+00:00",
-      "source": "franceinfo",
-      "summary": "Le préfet Hugues Moutouh, soupçonné d'avoir transmis des informations confidentielles au RN, demande à être relevé de ses fonctions franceinfo"
-    },
-    {
-      "category": "politique",
-      "topic": "POLITIQUE",
-      "title": "Présidentielle 2027: François Ruffin jette l'éponge, faute de primaire de toute la gauche - RFI",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQMzlhMWRPdk9hcDVfSEpPb3JIaWo5U0lBcXIwdXhjV0k0V3JYQkJiNHlkZ2FXX3FUWWg2d1lxZ3gxR1RNa3kybEtKSDlkMmlXdk1oV0xhTkd2OVE4SmJTalBiTmdDNGFfRDFUZlh4c3ppSlBZQndrSWpsQVRRVmRieWxtNHBUb2hzQllCRmVuUDVlVDBTNkE0UkFTbUcxQno1XzFRbi1wOC1mb2tvV2VsSFZwZkZVcktrb3haemp1Qk9zd0J1TEFZVXVZeEFnVjhBSjNuWEs1Zw?oc=5",
-      "published": "2026-11-21T18:00:47+00:00",
-      "source": "RFI",
-      "summary": "Présidentielle 2027: François Ruffin jette l'éponge, faute de primaire de toute la gauche RFI"
-    },
-    {
-      "category": "finance",
-      "topic": "FINANCE & ÉCONOMIE",
-      "title": "Effondrement du S&P 500 : des pertes estimées à 6 000 milliards de dollars après sept jours de baisse - The Coin Republic",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPYmpieGJXV0ZrcWN4VUEyTGJNY2s2YnFBWnptSU0yNXBEeUlmODc3dkxZelZWbVk4UUNHTHhRN3FzMDFKZ3FtMVVQdFBmVjk1c2JqTk9kNVJCbnBYRUZra0lhcEE2Mm1XQVdVdHVrWmxTMXhiNjdOQUI2cURHX2x4YUtib1hRYW03aXpUNG5Ndm9xT2ZCVWpWeU9rMnlvc0tCdHdySGRBcUQ0b2I4WnI3WExXcDN0a1dJZzBieHlnbGY0WHI5TWpqa3JBZ0dHQlJld3BZMVE4Xy1CV1JQOHfSAeMBQVVfeXFMUFllcFEzU2p5MnJzZTNQcWU3SGhUWjk4cmoyMHAydjU3a0NDY0Y4a1lmb1ltZ3ZkRUNXMWc3UUo2cndWQ29uZEVEdGN0bGQ5UHFQbUZ3SWR1T0RIc1RIdkd2LThxTVhPMFBqc2xaWElaa2dtOF96VG12VHZFYzRvV1loRVJYektZOU9zNV9tYzBGSkVBRndiQjFhU0dPZ3JVM0tEM1NWY0ZSRXJFdGpnRTh4UjNKUzBiLVB6UlFDQ2dCTUNtQmllQWwteGFSVGpsOVc3MDBJODRsVUxOV2Jvb0R1YXc?oc=5",
-      "published": "2026-11-21T18:00:40+00:00",
-      "source": "The Coin Republic",
-      "summary": "Effondrement du S&P 500 : des pertes estimées à 6 000 milliards de dollars après sept jours de baisse The Coin Republic"
+      "category": "feminisme",
+      "topic": "FÉMINISME",
+      "title": "CC - Coupe de France - Issoire - U19 Femmes #2 : Les partantes - DirectVelo",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSEp6czJBRzZVYmFmdk0wUEQtYTZsT0dmWTRkaWZiRzVPQ09jaXZqcFpDUjFVQWx1RExhT09kdUJjdjdoc1V3X1NHRDhMQXJLX1oxNzItaUozY0Y5ek9tdFk4MF9FZ1FZVFNSanY3TGRVSnFLOVVvdXJIcnd4U004NGRrTGZvRUFEQWZoRmtGT2NubUtYWDBCUW13dWZ2UQ?oc=5",
+      "published": "2026-11-21T21:02:21+00:00",
+      "source": "DirectVelo",
+      "summary": "CC - Coupe de France - Issoire - U19 Femmes #2 : Les partantes DirectVelo"
     },
     {
       "category": "feminisme",
       "topic": "FÉMINISME",
-      "title": "« Un enjeu majeur de prévention et de protection » : cette ville de Mayenne s’engage contre les violences conjugales - Ouest-France",
-      "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxPSTlPNExmWUhDd3o3bHFOMXlwUVdITDJmOWFZRnJhSG16V2c0UzVMT3ZSNnRNTnVYRkZrbDJ3UjQ0blBUVG15U3ZvYkVZTjBoSkI5QUdfd19LZWZJMUFNOHRISkl4eHhDNWl3Mm5CTGJ0T3JWWmJvc0tlcmhiWktBYUpscG9sd3FWTnI0ZDZabTVqLXJRaE14a09NTHl1LVZJVEYtaEJudmdNT1ByN3pzSzBYN0gycUQ3UndQTlhCR0lDc3JDcEtmdDFUNDhibVA2TE1iQVZYMm1PbWJwWk8wQ0h2RVhHSllPQlhmdmdTS0pIU2RHQUdWLVZlZlZXV1JwZExkN3BGRmdkcUlfak5xejRJRy1TTEQ3ajJiSFhpU1NiUGJ2NnN3QjFYYlNRcUlydHZSZzFBX3JwWTh6?oc=5",
-      "published": "2026-11-21T18:00:12+00:00",
-      "source": "Ouest-France",
-      "summary": "« Un enjeu majeur de prévention et de protection » : cette ville de Mayenne s’engage contre les violences conjugales Ouest-France"
+      "title": "Comment va l’équité salariale 30 ans après la loi historique - Radio-Canada",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOeWQ4eTd1WEM5U1B1d1haa09OeC1hdWF6M1BMM0hCQlZDTEIwc3dGQTNENW5rNHJvV2g3UjRjbzdyOW1NcEdCeHhrU3F4cTFOUTg3bTZlT3dhOHRleTZlcWhhdEZGTzhBMUh0Q1VqaUtCX2FEbkZGeFJIamlZcXh4ZUhXRFB2dXp6Ulhtdw?oc=5",
+      "published": "2026-11-21T20:41:48+00:00",
+      "source": "Radio-Canada",
+      "summary": "Comment va l’équité salariale 30 ans après la loi historique Radio-Canada"
+    },
+    {
+      "category": "tech",
+      "topic": "TECH & IA",
+      "title": "Google permet à Gemini d'agir sur Mac en arrière-plan - Brief IA",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOVjZrc05waExYdFg0VkFIQVdtUl9taVFtWHZRbGVEQjV2LTJYdHJNZXNsZjRrNmZ0ZGZsQU9HSURzVEJpSjNVX0RBSlRmWDVkYVh1MnJfeG50ak00dk5WN2lxWGVkdV9FN05MLUdEcjdydFZrcWJJbW1sRlgzYWhmRUNFSVBHU2FxRVhFZg?oc=5",
+      "published": "2026-11-21T20:06:46+00:00",
+      "source": "Brief IA",
+      "summary": "Google permet à Gemini d'agir sur Mac en arrière-plan Brief IA"
     },
     {
       "category": "feminisme",
@@ -407,24 +929,6 @@
       "summary": "Ce journaliste et écrivain, installé en Vendée, enquête sur une célèbre affaire de viol qui a fait évoluer la loi Ouest-France"
     },
     {
-      "category": "feminisme",
-      "topic": "FÉMINISME",
-      "title": "Anne-Cécile Mailfert : parcours d'une militante féministe, cible d'un cyberharcèlement après son passage sur franceinfo - Ohmymag",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZGJEcU15TzJBWTRyOFRYeFpCUThjMG5iY05FV29WSzd6a29PTEdDNDBUQzJVTVNqVGxEXzg2ajA5NUxmTlcycWF1X0NzZEU4a1l0aERJdVp3cU5PeWhxejROSFdvUTkwN3NDV01tRUdqUVVTN3F1cHYtcm11ZU5ZbW5YS1Zvb2E3b2hzalA4VG5NT29XZUlFODUwTHZSbHZJa2NIZzV6SXAwandveUhPVjR5SkJ1VHpBYkxLY3ZwemZ4NE5NcDhSd1Rsaw?oc=5",
-      "published": "2026-11-21T18:00:00+00:00",
-      "source": "Ohmymag",
-      "summary": "Anne-Cécile Mailfert : parcours d'une militante féministe, cible d'un cyberharcèlement après son passage sur franceinfo Ohmymag"
-    },
-    {
-      "category": "politique",
-      "topic": "POLITIQUE",
-      "title": "Candidats à la présidentielle 2027 : après la déclaration de Villepin, qui sont les candidats déclarés et pressentis pour l'élection ? La liste complète - Linternaute.com",
-      "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxQMENtamRyVXVkODZWLUY4RGRSNmJWQ1hlb1VSNjQyRDFpN1lHdk1TcW5taldINXBDOE95cEpBaXVTall4QzhicHgxRmRnY3FmN3FoNENaa2dtanNDWTRqMEVTRTFlRDAtdC05SG5teWZGSjlfVTJiY0hFU0hyanhoMEVSX2tVaEZNeWNrOEtXY3NrTnN1U0FuOFFua0xPVWRZYW9Ca1RERHpCX1B3aWFvcHp1WUpMdE1nRWtXRkM0V1RKUG1sVkZUQm9BRlVXZll1eENsRlBsRGRtam4wRDktdU9QTHpmeXB0SEtHdF9wajJ2T2paRm9sbG55RUd6Nnp6d2pvSlBMZVhLam50d3RZUndQT3dEdUNiNFVvbXFLeXRLazNMZEdXMUlNOWFhUQ?oc=5",
-      "published": "2026-11-21T17:58:25+00:00",
-      "source": "Linternaute.com",
-      "summary": "Candidats à la présidentielle 2027 : après la déclaration de Villepin, qui sont les candidats déclarés et pressentis pour l'élection ? La liste complète Linternaute.com"
-    },
-    {
       "category": "tech",
       "topic": "TECH & IA",
       "title": "Les Émirats s'appuient sur l'IA, le big data et l'analyse de la mobilité pour des villes durables - Actualités et statistiques - IndexBox",
@@ -434,31 +938,13 @@
       "summary": "Les Émirats s'appuient sur l'IA, le big data et l'analyse de la mobilité pour des villes durables - Actualités et statistiques IndexBox"
     },
     {
-      "category": "finance",
-      "topic": "FINANCE & ÉCONOMIE",
-      "title": "Numérisation et diversification : l’Algérie mise sur la croissance hors hydrocarbures - Radio des sans voix",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQdkt2NjR0clVIcEpsWnlRRkJQa3ZNWXJjR2kzbUlJQm5VaXRRZlBXeHM1ZHlkeTFqU0FWX29WNW8xN3FPeEFHaDQ1MGZ4NUlfQUlDeUpXSDhaUlJuRjB1cHZZYS1vMlBYM1kwQ2p3ZGNJaS1CSUF3RHRJUTFhOW5xaHNxSnZoYmpfalF6TlplcjJvRWtEeDZYN2Vfc3RobER1dC1vdEpZdXdvSEQ1dzVuajVvUVY3c2o4UEdKMi1zUndzTlZZQlUyNUFWVkcyUQ?oc=5",
-      "published": "2026-11-21T17:38:10+00:00",
-      "source": "Radio des sans voix",
-      "summary": "Numérisation et diversification : l’Algérie mise sur la croissance hors hydrocarbures Radio des sans voix"
-    },
-    {
-      "category": "politique",
-      "topic": "POLITIQUE",
-      "title": "Collectivités corses : quand l’ordre des PDF simplifie les démarches publiques - Corse Net Infos",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOOEtiT0lfRmQyaDdfaGlYZDFBaEtYdWFoMkVTWlRoVURDX2M3UGEtM1lBUGpYVlRHUTh5UFAwa2R0U3VvN1loUmk0blVfLXl4OGNELUZFT1Z0SUpiZTJBcU5yd2tWTFhEaWk3U0hVUHRBUXdkYnM0Tlg1T2ROQlB2SFZsZW9URmkwUDhmcXFEc2NoRGxvazZ1bmZnNGtWNFRkQVp1aTB0UklKazVGdUxUaHdILWQxX0l6eVFIYUh6Yw?oc=5",
-      "published": "2026-11-21T17:29:00+00:00",
-      "source": "Corse Net Infos",
-      "summary": "Collectivités corses : quand l’ordre des PDF simplifie les démarches publiques Corse Net Infos"
-    },
-    {
-      "category": "politique",
-      "topic": "POLITIQUE",
-      "title": "François Ruffin retire sa candidature à l'élection présidentielle et souhaite \"bonne campagne\" aux \"candidats de gauche encore en lice\" - franceinfo",
-      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOalptUEpoVEdLYVdLNUlSNVR1LXV3Wmlfa2NlVlRpVzdXYVhCMENlcVg2b0h6WHF4WEZnQURjQ3dZRFdaYVFXMHhqNkZFRlc5eDdSbXE0dXdvc295YXRXWVlCUEt2eElpTU42dGs2Y0U1TmoxR0djMnVEWUxVb21oQXhXVHZrM2JxM2JrR2hrMjRrT1hZZ2ZpN3BCVXc0ZlZLVXIxdTBiYlN4eWRWMFVBeERvdC1LVDluSjdpX2k2VU9TQXZLejJYNW5DUFdCdHFIcVFnR3FyQjJtUno5YW94RGt5Z041TkliVnB1Skc0RTJMdks1ZElyanhRZkFKNHFEOTJDWEY2R21KNkd3?oc=5",
-      "published": "2026-11-21T17:22:37+00:00",
-      "source": "franceinfo",
-      "summary": "François Ruffin retire sa candidature à l'élection présidentielle et souhaite \"bonne campagne\" aux \"candidats de gauche encore en lice\" franceinfo"
+      "category": "tech",
+      "topic": "TECH & IA",
+      "title": "Les secteurs crypto sur 24 heures - CryptoTicker.io",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB1WU1oLWRjQzJfTGI1dGhlb0xhOEdfd2kzM3o4UDJ5aEI4ak1tU0c5UUs4aFB5R2FmR3FyRU1BUXdaUlg3cW1vZWJKSlVkYS1vRzVpaQ?oc=5",
+      "published": "2026-11-21T17:18:21+00:00",
+      "source": "CryptoTicker.io",
+      "summary": "Les secteurs crypto sur 24 heures CryptoTicker.io"
     },
     {
       "category": "feminisme",
@@ -470,24 +956,6 @@
       "summary": "Chantiers au Val Fourré et féminicides dénoncés : parmi les infos de la semaine à Mantes-la-Jolie L’Écho Républicain"
     },
     {
-      "category": "politique",
-      "topic": "POLITIQUE",
-      "title": "Exclusif – Michael von der Schulenburg : «L’UE doit s’inspirer de la diplomatie algérienne !» - Algerie Patriotique",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZ1JfcGRVTGtmSXppbUJoZEpjaEdMUWpTLUtmRXN3MGNsaFVPZnZoSWhpWTk2cVJhdEtBQXBEcmh6Y0JBa0tTQnY2UGUyejR0VDNUWVBBU21oU3dmU3l5X2ZDSjVMM3ZPZEg1U0hUbFlkS0pQYld0RjR6UkFtdzJJdWdybWhBcFM4M3lWb09SUlNxZnVLSUp2Q2FhdHJ2dVpsZ3lwWTE0X2pCUW11RkRpei1fYzczRnp6bEJsV0NySVRKQzJX?oc=5",
-      "published": "2026-11-21T17:06:30+00:00",
-      "source": "Algerie Patriotique",
-      "summary": "Exclusif – Michael von der Schulenburg : «L’UE doit s’inspirer de la diplomatie algérienne !» Algerie Patriotique"
-    },
-    {
-      "category": "finance",
-      "topic": "FINANCE & ÉCONOMIE",
-      "title": "En une semaine, le prix de l'or dans le monde a chuté jusqu'à 350 dollars l'once. - Vietnam.vn",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0yWGFPYTRVeEd6ei1nbnYwNjY0VlpaMkU1ZHZxMFhIdXdoWXRfeVpncl9kbTRxQ2ZUSHhaVFZQY1BhY1hHSU11ZTM4U21sMUVwSFBRcS0wUkVrTnBoajVzRlQ5RmJCMFFiVmpsdnR5YWJVZEM1VFN4VFlTSS1Kczg?oc=5",
-      "published": "2026-11-21T16:56:22+00:00",
-      "source": "Vietnam.vn",
-      "summary": "En une semaine, le prix de l'or dans le monde a chuté jusqu'à 350 dollars l'once. Vietnam.vn"
-    },
-    {
       "category": "tech",
       "topic": "TECH & IA",
       "title": "Protéger la souveraineté et libérer des ressources pour le développement de l'économie des données. - Vietnam.vn",
@@ -495,33 +963,6 @@
       "published": "2026-11-21T16:38:53+00:00",
       "source": "Vietnam.vn",
       "summary": "Protéger la souveraineté et libérer des ressources pour le développement de l'économie des données. Vietnam.vn"
-    },
-    {
-      "category": "finance",
-      "topic": "FINANCE & ÉCONOMIE",
-      "title": "L’euro reste en panne - L'Agefi",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5VMktrNW5RLTFtVGs3dXRHcTFudGJJVlZnU1cwcnNLTVlUa2hTbllRLWc1NXgtWWlsR0xfY3dUcUQ5ZGd6QUpGOXVHZVZwQWJjTXZhUDYyVWV5VDdHMjJrbVg3eE5lQ1ZFaEFNVUR0NA?oc=5",
-      "published": "2026-11-21T16:33:18+00:00",
-      "source": "L'Agefi",
-      "summary": "L’euro reste en panne L'Agefi"
-    },
-    {
-      "category": "finance",
-      "topic": "FINANCE & ÉCONOMIE",
-      "title": "L'OICV alerte sur le risque quantique des blockchains, Bitcoin réagit - Bitcoin News",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcnpucnhobEdlMzI1a0t6WllxUVFJckR1QTM3T1BPdE42bFIxNDA1b1ZxdG5kbS1nZmgtSjNuNmw3UlgySVRackNYWlJPOGxjdGJHajdsem9GNl9NaC05bFRySWJYVmpLM215T2djV2g2N1gtX2NjUzNVcGpHQW5nZXV5SzViVWRZanFqUW54TkNkV2drWWtGUncwNmNFWXB3aFVUeWI4RDI?oc=5",
-      "published": "2026-11-21T16:32:50+00:00",
-      "source": "Bitcoin News",
-      "summary": "L'OICV alerte sur le risque quantique des blockchains, Bitcoin réagit Bitcoin News"
-    },
-    {
-      "category": "tech",
-      "topic": "TECH & IA",
-      "title": "L'intelligence artificielle dévoile les théories secrètes des manuscrits du mathématicien Kurt Gödel - Génération NT",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQeWFJVHhIZXQ2Y3BUbVJGU2lGLTMtN1h6VXRpSVJIWm9uS1F0bHJHcEpmM1QyUzU1M0x5NzhSQUxEamtYRTVFNXlUaGF6dGlvZGxURWZBZ3FHbGZPY2NZbE50WGJYMVUzMXBMSTJjWENieVRrdFBiWE1yR0RqM2hFY2xRVG1jSldyQUpwUTdZeDdoVGhfUW9kaFlMRjZXNkF1WmRLSTZEWWZCR2VpQzg3WtIBtgFBVV95cUxQc1FDelZ0ZjlTbENYbmNtaU56S2lzOEI3R2UtTTFKa19QTnFDU0VBTTZ1bVd5UUxKVllOOEFxaGlSSFlVU2t4aDd1Yy1wVXI2U0gtVUVDSjBPYnZWbFgyMzY3cjhZY09lZ2VUcWlDaEZnOXlDTjVPV0doQTlrX3AtNEFQOFBxNTVJa2doNnJJVVNhYzNzbGlNWk9aMmdVVmFMTHpyTE1zTHVUakl3MEhrMlZNUHZOUQ?oc=5",
-      "published": "2026-11-21T16:30:01+00:00",
-      "source": "Génération NT",
-      "summary": "L'intelligence artificielle dévoile les théories secrètes des manuscrits du mathématicien Kurt Gödel Génération NT"
     },
     {
       "category": "tech",
@@ -533,24 +974,6 @@
       "summary": "«Je veux le redire avec des mots humains» : quand Jensen Huang humiliait le patron français de Mistral AI Le Figaro"
     },
     {
-      "category": "tech",
-      "topic": "TECH & IA",
-      "title": "Google pourrait verrouiller le bootloader des Pixel, l'alerte lancée par GrapheneOS - Pasquale Pillitteri",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOOUNqVjBLblFVOTg4M3phM3VQRG95MGU4MGdaaXptNHdTTnhuSFJvU0xjRFNtYmd4Y09rOXRUMWdqWm9uOTkwRFhQbDlLajVhelQ2OVlISFBnc2p1Y3BvUlZNSTk1VFRYb3ZVZzJEQjNYYkF0QzEwZU9OQTl2TTAzbzJuLVRfbG1JWGhiOXY0c1RhVTdhbzRpOG80eWJSU255NWljUVU0bFQ2Zw?oc=5",
-      "published": "2026-11-21T16:23:47+00:00",
-      "source": "Pasquale Pillitteri",
-      "summary": "Google pourrait verrouiller le bootloader des Pixel, l'alerte lancée par GrapheneOS Pasquale Pillitteri"
-    },
-    {
-      "category": "finance",
-      "topic": "FINANCE & ÉCONOMIE",
-      "title": "​Niger : le FMI projette une croissance du PIB réel de 7,0 % en 2026 et un déficit budgétaire global de 3,4 % - Pressafrik",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNLTZYUEVHazNvRTd4LUJMTVcxLWtpeHZpalZITWl1dHZqYmFRWThpQzlnbnBEdVhRME52RXB2aXVUQkRNZkw1cFlySlNwTG1DTWgyTk0zRFl4cnVhRXFQMlpKV2NSLWI4dnhFTzZZUGpENk9McjNEVWdZZDE1dG94bGNMU05uZDlOQmt6eklHelFjekJOZ2ttUHFiRGF5a1Bsdm9jV25RWURqcXJjZ2owNVZzMHZ0T3laNVFhVk9PNDVpUHFvV0RkNlFLUm1Nc3dwSXBneWFBQmtRNXYtajNsdGFCZw?oc=5",
-      "published": "2026-11-21T16:17:00+00:00",
-      "source": "Pressafrik",
-      "summary": "​Niger : le FMI projette une croissance du PIB réel de 7,0 % en 2026 et un déficit budgétaire global de 3,4 % Pressafrik"
-    },
-    {
       "category": "feminisme",
       "topic": "FÉMINISME",
       "title": "« On nous assimile aux manifestants » : frustration des militantes des droits des femmes au Puy-en-Velay - L’Éveil de la Haute-Loire",
@@ -560,13 +983,13 @@
       "summary": "« On nous assimile aux manifestants » : frustration des militantes des droits des femmes au Puy-en-Velay L’Éveil de la Haute-Loire"
     },
     {
-      "category": "feminisme",
-      "topic": "FÉMINISME",
-      "title": "Faits divers et violences faites aux femmes : temps forts au musée de Sologne les 24 et 25 novembre 2026 - lanouvellerepublique.fr",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQWG1INTlkQngyU0RNbWU2amVZTVF1RXdsZlpyR2xpRC02Y2NSemhvck0zTm1OX2ExUHdLQ2h5WlhYcnFyRFRpNkhYUzlEejJDYWJlRU1NZGJGQ0d3YmhZRER5OXJSV3VFYXpNS0FaZjUwZEZoYXVycUIwd241UV9CV3Jlc21FUVB4bkp5NUMxMzVVU3pHN3FaRnVRN2dQLVlLWk1ZN2hxemx0aER4a0hxVXBIdU9lXzZic2x0dHNFeGtuV1BoM2Z4dXZsZEgxSE1xa2pjNzRUOGFJeUNiOXAyNy1yYTFUVVpZRU1vVUZ3Qll1Zw?oc=5",
-      "published": "2026-11-21T15:18:33+00:00",
-      "source": "lanouvellerepublique.fr",
-      "summary": "Faits divers et violences faites aux femmes : temps forts au musée de Sologne les 24 et 25 novembre 2026 lanouvellerepublique.fr"
+      "category": "tech",
+      "topic": "TECH & IA",
+      "title": "Ce mathématicien dit avoir résolu l’un des problèmes « du millénaire » grâce à l’IA - Le HuffPost",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNX3lSMWNGYUU4OEVjUWVPWnJMWksycEx3QnYxUnVrTGpJLU5zOEdQSk1iVVdaWmVuS1FaM0tWajFldHRHV1VuMHlXQ0lMbVVsWVNRSkZlVlBuRGZ6NzdFQlhidUN6a0VERVExVU1XaVpIQ0lPSzVBd2lnWmFURDZJNkJlU0lrYUhWdFFva1JNN3hFeEt2blY2ZWZtcVlEVUFaVnZOdG1oS05IVHNnTWFldFN1UWE0dTZUVVJ5X2N6bk5JSUtUTENVbjlVY3VTVjk1NTI4cDBXb01tRzhMdF9MN21EZ003bTdsY1pMVWdyYzI?oc=5",
+      "published": "2026-11-21T14:39:16+00:00",
+      "source": "Le HuffPost",
+      "summary": "Ce mathématicien dit avoir résolu l’un des problèmes « du millénaire » grâce à l’IA Le HuffPost"
     },
     {
       "category": "tech",
@@ -580,29 +1003,20 @@
     {
       "category": "feminisme",
       "topic": "FÉMINISME",
-      "title": "«Ça va être fun, y’a pas de caméra dans la bagnole» : enquête ouverte contre des policiers pour violences et agression sexuelle lors de la manifestation du 31 octobre - Libération",
-      "url": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxPTmdsSTBPSUFaZDNmTS0tTFpkdXB2c0JNeE5SQ3A3QkFTM2tYbnBrTXdsRGNNNHl3TkdwNlZMREN0bVNzcnplY3U5ckdoSVBRUW1ZOXgxcGY2MExVcEZreDZNdk1uSnNCU2FWTFBsQlNvSjl1TDZZM09vUDRxWVBpcXFrS3RUUkxVODY3VGRJTmVDSmY4blc1QlhQZXJQZmJ6RVFpZ1UxaTJVV3ktYkZYVG9hbkZzNGx2blZhZ040VVE1LURVMEw5aUFBT1N5cUdfOWdXUExtYzZPQ21td1BrelhNNlAxVnVGNVlNYVNUX3A0RU9uNVBldXl2TGRQY3JPOFBtM1MwX3Rjb3N2ZGkxN3JqVEdTczN2RDl0enBQdk0tWEcwV2Y3R3F4TnBtRGV2V2VUdTZacldJYWNtRFBhanpXU1Bsd3N2cm04U0x2MHNJdDZsZEJiUW1DenJCR2Y1UTdENw?oc=5",
-      "published": "2026-11-21T14:14:01+00:00",
-      "source": "Libération",
-      "summary": "«Ça va être fun, y’a pas de caméra dans la bagnole» : enquête ouverte contre des policiers pour violences et agression sexuelle lors de la manifestation du 31 octobre Libération"
-    },
-    {
-      "category": "feminisme",
-      "topic": "FÉMINISME",
       "title": "CC - Coupe de France - Issoire - Élite & U23 Femmes #1 : Classement - DirectVelo",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNYU5oaGtXWEhCZ0UtUlRCYmxyZDlZekNLVXAyMmhXS1NXZ2hQb3p0ZGh3WHgwNWZHMU5PVUJhbkVMVGNLd0FQa3JQdHJfbXZBSERnVHZsMmJ1RjRZcUkwMC05a19DdU5OLTFONDIycGViNGlWUVNsb19yR1JFSmJqekcxMWZVTEUxSDFXZTRld2ZrOTRmeFFoVUZDd3c5M0tUY3NzVm1GWnk?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNMHJPRHdUUnIwdTZ5RTNteVVhLWNVMm04R3BjVGlpUkt3Q2txSmhMTVlrd1hiNnpUZlg4amJsd2pFMXdUVW12Y2JMeW02TDYzb05Ea2E1bTVqR3hpa2ZWeXd6QTMteWR4SmtNS1FVa1haQl9Hc1dFRExkby1nWGZJekRaMndPbk02T0NyRi1sU1d4cWExU3hvR0RiSXpQczRsREE?oc=5",
       "published": "2026-11-21T14:06:56+00:00",
       "source": "DirectVelo",
       "summary": "CC - Coupe de France - Issoire - Élite & U23 Femmes #1 : Classement DirectVelo"
     },
     {
-      "category": "politique",
-      "topic": "POLITIQUE",
-      "title": "\"Honteux\", \"permis de tuer\" : Sandrine Rousseau, Mathilde Panot et Boris Vallaud vent debout face à une loi qui pourrait \"profiter\" à Marine Le Pen ? - Closer",
-      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOWEZyNGQ5VVh3b01XdUJtRndORUIxQ0JGbmVib0JOaVhzb0hvcS1EdW0tQnI1RGtBVFdfd3A4Z1R1ZGRzbFp5OGNIeWNBXzQyMDIyN2VaQWNxMEF5RC1sR0c0YmxYa2VhM25yWlhVaXkxMDZNMzVYZF9ZeHhFTXVhV3dTV3dvY3RrSEVCQlB1SVF4UE1yUTk5cmplRU5uUHdOS1RJbFRhb3dpdkdXYW5SamVfMl80cFo1ZmZhYUltRHYxUl9JdVd0ekRnM3A5eUNZRXhCbEZRSEhJOWYxeXhpYXVQMjNxLThkanlNbnQwVm5wcHk1T1hUOGhmVWplVzdiZUhxU0sySEJZb1hR?oc=5",
-      "published": "2026-11-21T14:00:21+00:00",
-      "source": "Closer",
-      "summary": "\"Honteux\", \"permis de tuer\" : Sandrine Rousseau, Mathilde Panot et Boris Vallaud vent debout face à une loi qui pourrait \"profiter\" à Marine Le Pen ? Closer"
+      "category": "tech",
+      "topic": "TECH & IA",
+      "title": "« La bulle de l’infaillibilité » : aux États-Unis, l’euphorie de l’IA se fissure - Le Point",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPWGNIOFAzci0wc1l1SHJYWEpBRDhveGE2WWJESWhTNDg0VGdFMHYySlZQMDFULURCLW5YNGY4QkIzMjc3OU9TdENtRDVBSkcwRU5nOWpMMWRZWDF2TWpSNG5oZmtUdW11YmppQXpSVFBjMEVYSEUxeXlldzhNTUVacXBlRUtnSUVHSnIxQ2VfMUhmdlBFdlVKcnJLdl9VWTZWX25QOWVwR1YwZUFmUVdsMThKR2NKRjdrVUlxUDFZbjNMNTZxSldDQU1R?oc=5",
+      "published": "2026-11-21T13:57:17+00:00",
+      "source": "Le Point",
+      "summary": "« La bulle de l’infaillibilité » : aux États-Unis, l’euphorie de l’IA se fissure Le Point"
     },
     {
       "category": "feminisme",
@@ -623,13 +1037,22 @@
       "summary": "« 362 victimes par jour » : près de 600 personnes défilent à Angers contre les violences sexistes et sexuelles Ouest-France"
     },
     {
-      "category": "politique",
-      "topic": "POLITIQUE",
-      "title": "Avigdor Lieberman Prêt À S’allier Aux Orthodoxes Pour Faire Tomber Benjamin Netanyahou - i24NEWS",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOb055Qll0c3M5QlFhTnAxTXlNMF9KVHd5WFpRckhOaHEyWHk3LXUxa1F3dlRleGZHanRnUDlqWVlMMzl4dVVyTG5vN3lFTDFHbjZaeUw4Z2hKQ3JJR2VNbHMzaWNEdU5IOTFhYVZJZ0lQeHJMcklUbkNQYmRtY0llSVhsWlpjMXhNMU5pbGdrY3h6cnppc2JaVnloSlFycHo1cC1KQ3BnXzA5am5GbHpoSng1ajN5d2NJd2RmYmpCVHBZUnhkUUI4OWhNUmx2ZUZlOTVlVUVR?oc=5",
-      "published": "2026-11-21T12:57:52+00:00",
-      "source": "i24NEWS",
-      "summary": "Avigdor Lieberman Prêt À S’allier Aux Orthodoxes Pour Faire Tomber Benjamin Netanyahou i24NEWS"
+      "category": "tech",
+      "topic": "TECH & IA",
+      "title": "Renforcer la coopération en matière d'investissement dans le domaine de l'innovation. - Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTmk0TDdoNm9yY2hrUk83NENGNWZJY240dmYyT3NVaGFleUJZNTVIa1RJZkVqYmlBUW1kU3k5ZC1Fd1V1Q2FzanpZU0tfb2RVcUVmZTV1b0hsTVhSV0RpNDI2RzFzOTVVYWNLeHprUzBIdUNZaU9fa3Z1aWRsTGxCQy1xVE9sUXk1d040?oc=5",
+      "published": "2026-11-21T13:22:57+00:00",
+      "source": "Vietnam.vn",
+      "summary": "Renforcer la coopération en matière d'investissement dans le domaine de l'innovation. Vietnam.vn"
+    },
+    {
+      "category": "feminisme",
+      "topic": "FÉMINISME",
+      "title": "Des manifestations contre les violences faites aux femmes organisées durant une semaine en France - franceinfo",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOeUlTdTJNVVUzUlFMaEtadjR2ZnV5VV9hMVdHZDVmeV9QUGpQTFg5SDlmRWI3NU1kVEx2VS1qMnZsYXFfdXdOb0dsT2YwRFdOS0VIYzBZbVVtMGpuRUlPbDA5X2ZWdExoRkRxbEY1MWkzMzdLNjl1Nm9CNmpvMVVnbTBDd0pwakpLYW1ZbWlhYlRJS1gtMEQzY3ZKMkpxRGVwSDZnU3hZQjhPenF3RnMwcF90MlVnTGp1dU5yXzBTZkJtczEyR25CT1lEVzVDUWRRa0hoWGpTZHBzMWRiVGU5NzFacFRkcUd5SWc?oc=5",
+      "published": "2026-11-21T13:16:37+00:00",
+      "source": "franceinfo",
+      "summary": "Des manifestations contre les violences faites aux femmes organisées durant une semaine en France franceinfo"
     },
     {
       "category": "tech",
@@ -641,69 +1064,6 @@
       "summary": "Les technologies des semi-conducteurs et l'intelligence artificielle offrent des opportunités pour attirer de nouveaux flux d'IDE. Vietnam.vn"
     },
     {
-      "category": "politique",
-      "topic": "POLITIQUE",
-      "title": "Éducation numérique : la France rejoint sept pays pour créer un consortium européen - Politique Matin",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMGpFSWNreW1SM0YzUDJFRWo1a09UbnppLVhUQmFpT0RObS1Yb0pRZlJ0T3M0UG1Ob0tFemUxTkFMQXpuNzdzWkRDTl8wcERaRHUtNExDVkZyRU1vejhCamZhRWZOdE1RVzRzcHM0VnZLeUVLYWp3WjZtZ3phX2NXTG5GZVIxMkF4X29reGFoNkpNeUgyNXFQbnRlOFBhWjROR1F2Sw?oc=5",
-      "published": "2026-11-21T11:04:00+00:00",
-      "source": "Politique Matin",
-      "summary": "Éducation numérique : la France rejoint sept pays pour créer un consortium européen Politique Matin"
-    },
-    {
-      "category": "politique",
-      "topic": "POLITIQUE",
-      "title": "Donald Trump qualifie Vladimir Poutine d'ami, Volodymyr Zelensky réagit vivement : « C'est un assassin » - Business AM",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMm5OZC1QeUgtOVRWazRyYkg2UnBnWEFlU2FQVWJURFlXbzlpd2hjS3VsZ1hkUkh0RU9XeTFsLWFkTjZZRXR2WXlfT3FVSWxCamJDWWJXYlZGZXluN19kcjBrWkRTMTVkel9aZ0ZrVHZodjFBX2NSX08yOHVQVXktSGlwVWhMb3hhdUlZWU1tMEdrZEpDakNpM3Z4elhoQnFqMmhwSHhrN1hsNGxSMEdmQ1lWTlBSTTlEaFlmQnRn?oc=5",
-      "published": "2026-11-21T10:59:00+00:00",
-      "source": "Business AM",
-      "summary": "Donald Trump qualifie Vladimir Poutine d'ami, Volodymyr Zelensky réagit vivement : « C'est un assassin » Business AM"
-    },
-    {
-      "category": "politique",
-      "topic": "POLITIQUE",
-      "title": "France : l’État renforce son dispositif de cybersécurité pour protéger les citoyens - Anadolu Ajansı",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNbXFXX2hYUmdxVW13OFZZMVU4RVlKM0k4OXVKQ25xMHNGekFaa1Y4a3hvUTNSRmpET2N0eXhJTU5PVlNaSkczcDBHalRiQk12dnRocmJqa3I3Sm1mbmJfbzJLMEtMUjZxWFRhSlBPdDBRaEUyOXlsdkd3aTBmNFFGUFJlRWNlbnMxVzlBalZ2UjRSOE82b1lVRDUyNjlZNVRJQ3ljVnpPQll1ZXAtVjhacnV5YWpFTmxHTmZ1UHphRVc1aFpBWGZ6dzVid0RfM0hwaWNYTXdDaUFhOFJv?oc=5",
-      "published": "2026-11-21T10:57:34+00:00",
-      "source": "Anadolu Ajansı",
-      "summary": "France : l’État renforce son dispositif de cybersécurité pour protéger les citoyens Anadolu Ajansı"
-    },
-    {
-      "category": "tech",
-      "topic": "TECH & IA",
-      "title": "Le français OVHcloud entre dans la course à l’IA ; l’entrée en Bourse d’Anthropic ne rassure pas le marché : les temps forts de la semaine - L'Orient-Le Jour",
-      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQQVpnUEMzc3BYMVdlSzRZOGFScWpQeWJjQjktZFprWUt1UV9wbVp6MzhnUkdIVHBhMUFaWHhfM2l3RTdwb2tKRk9KVHhWQ2ZCUnp1WDZqajhyYVdnVTBnRUthdWItdTA3VWFoSWVZVkZCbzJ5cjRQM3VNZEV2VkJva0ZWUDUxV0lBQm1uNGlmYU54Sm1QS2dRaEhVRW8zRVVQdE1HZUhGT3Z3S1RzbVFQVGNPamVpOFlWZTdneVlEbU9rb2hTLVNaR0REdmc1WENMTTlhZFhkU05MNDVQeTBjbVpxTzRLR0RXVUQzZGZBUEgtX1VJT2tUeHo5UUVCV2RmR3hGc1IyOVNmRkNxZXlN?oc=5",
-      "published": "2026-11-21T10:56:49+00:00",
-      "source": "L'Orient-Le Jour",
-      "summary": "Le français OVHcloud entre dans la course à l’IA ; l’entrée en Bourse d’Anthropic ne rassure pas le marché : les temps forts de la semaine L'Orient-Le Jour"
-    },
-    {
-      "category": "politique",
-      "topic": "POLITIQUE",
-      "title": "Le 108e Congrès de l’Association des maires de France s’ouvre mardi à Paris, sous l’ombre de la présidentielle 2027 - Sud Ouest",
-      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOMnVuWTdhX21VeFFqbUpMTDhyeEVFNXE5NG1lT2JyMlhUUnhYcnVQYm5NRzZGM05SWFRoc2ROSGtpa3VCVHpBaWczMXdibjdfWkRtMDBfd1MtUTRaOG9xMlU1VzY5aGliMDFXWHNPZ1JaUk56VlBCUGYwSlAwa3ZxaURmTlpGcTdlNmRBcWttZTY5NWRvSWpOYWd0ajIxUmJGVGdpVjV5MHExVjBSaTRUWG1BMVN4ZEVzZURoRUUyYWtQZUNFNi0xanJZSU9FT0pRcF92aG9XMnhlNWExNEtmeHBLWmREVVJmRkVjcnFSTko2VjZXeTgzcFlKem42emVaRlZwTVBoZw?oc=5",
-      "published": "2026-11-21T10:34:24+00:00",
-      "source": "Sud Ouest",
-      "summary": "Le 108e Congrès de l’Association des maires de France s’ouvre mardi à Paris, sous l’ombre de la présidentielle 2027 Sud Ouest"
-    },
-    {
-      "category": "tech",
-      "topic": "TECH & IA",
-      "title": "Anthropic ou le pari de plus en plus vertigineux de l’IA - Le Monde.fr",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQQlFnV1E4UHJTNi1OUkVhSUZkLVFxaks1QUk1OGdlY2JEdG15eXBfTWVOVHdRN2tYazJzX1dXaDBzVmhuc0RtWkNJX05aVlg5T2lRMmFaZk5uVjJYWVIwX3NjNkVlVVA1aDV5U3pRMTA4eG5vd0NfeFF5eDVvVFNiWDVaLTBWQkNMUmo4UGMtTVJNQ2lJS01nZ0lTSDdNVC13Y0VVNTJlZTJ3cDNpcjNLb0lQTEFOZU5rbi1wZXlCcw?oc=5",
-      "published": "2026-11-21T10:30:10+00:00",
-      "source": "Le Monde.fr",
-      "summary": "Anthropic ou le pari de plus en plus vertigineux de l’IA Le Monde.fr"
-    },
-    {
-      "category": "tech",
-      "topic": "TECH & IA",
-      "title": "ChatGPT : OpenAI dévoile sa nouvelle interface mobile - BlogNT",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPbnYwWWZoN0dVX0pqVE1hMHFwZXBENTFWc0ZnRmRkTGllZ3U4STlVZUpicUg1OHBLeXpDZGxiSG1RWk1FUmYwWm0zX01pTm8zTkIzdUdINjFmRnlGcUtHb0pNSkVqV2owTUNEMVFjZ2dCNGNNU19nbjN1Y2stWVN0ZS1kN0JhSnpEc25CUEROdXFWX0k?oc=5",
-      "published": "2026-11-21T10:30:00+00:00",
-      "source": "BlogNT",
-      "summary": "ChatGPT : OpenAI dévoile sa nouvelle interface mobile BlogNT"
-    },
-    {
       "category": "feminisme",
       "topic": "FÉMINISME",
       "title": "CC - Coupe de France - Issoire - U19 Femmes #1 : Classement - DirectVelo",
@@ -713,105 +1073,6 @@
       "summary": "CC - Coupe de France - Issoire - U19 Femmes #1 : Classement DirectVelo"
     },
     {
-      "category": "tech",
-      "topic": "TECH & IA",
-      "title": "Il s'agit de l'un des sept problèmes mathématiques du \"millénaire\": un chercheur affirme avoir résolu l'hypothèse de Riemann avec l'appui de l'IA d'Anthropic - BFM",
-      "url": "https://news.google.com/rss/articles/CBMizAJBVV95cUxOS0Q5NmhfY2JFRUh3dGpyT2pib2RGZGlvNEZvNjh5d0U0VFFybVh4dF9mYTNXclNrd3NoNmxjLUU3OG1jZUZGa2plRWJnbE4xODRUMGtBbUVwTzdleUZNMEF3aGdDenppdGFPeklHZDQteUdUb3BxOERyeXZNMElBbUhLNjkzNTN5bUVzNkdzUU5UTS0xcUNTT2ZLT2JyMTFLV083N0NiWkJXZFVYT2M5MmxqUjZqX2loWWJEeUZ5WnFOWlhuMFlBY0pmQ2dzT1RHeTFtVnhJQTlTNTZoUXEyOWpTdkhQc0tlUndDNzA0djJEOTZjQ0NFUG9RRDRQZjhXNl9HQ2ZzcG1hZjIxblBrSFN6OURMdXBUWDhReG5uQnlXOFBjazZwY3RLOFp3N0ZQQXFMazRBVy1McnpudGdXZTlTQWxjNkk3UUh1cw?oc=5",
-      "published": "2026-11-21T10:08:40+00:00",
-      "source": "BFM",
-      "summary": "Il s'agit de l'un des sept problèmes mathématiques du \"millénaire\": un chercheur affirme avoir résolu l'hypothèse de Riemann avec l'appui de l'IA d'Anthropic BFM"
-    },
-    {
-      "category": "tech",
-      "topic": "TECH & IA",
-      "title": "À partir de quand un devoir fait avec ChatGPT devient-il de la triche ? - Clubic.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMWc5RXFPR0Nfa0UzMWVvV2ZKMThnTmk2VnZXSEJuOUhUM2lpT1VQWXJUbXc5RERvamp0a1NQRjk5T3VXREdnWWhqXzhYaFN4U3dYS0V1YnpUSEtoODNhS2ZlM3VkdmkyYXAwdC15ZGxqSUxJQms0YmgxTl9IM202YlQ5QTFJLXZreHJ5STk0ZW92alBMTkpxRm12Y0ZkX0NBcHphdVRSN0Z5VFZNMEdHYTF3?oc=5",
-      "published": "2026-11-21T10:08:00+00:00",
-      "source": "Clubic.com",
-      "summary": "À partir de quand un devoir fait avec ChatGPT devient-il de la triche ? Clubic.com"
-    },
-    {
-      "category": "politique",
-      "topic": "POLITIQUE",
-      "title": "Artisanat : malgré 292 000 créations d’entreprises, pourquoi les transmissions sont en recul ? - Politique Matin",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQWlcwUlFHaHZ4aHl5X2hwMjdCTjU0QnNhNzZoZGp5djk4V1gzamxnMml1MWRwUGwzbFZhdGc3NzJZTGxtVzRjLVdVT0tMeGIwQkpra0tDZmwxZFFuWWtxUk5GZVZYOVV2enFxeWZldlU2dVZnZzEzR2NBR3Zid21EdQ?oc=5",
-      "published": "2026-11-21T09:53:58+00:00",
-      "source": "Politique Matin",
-      "summary": "Artisanat : malgré 292 000 créations d’entreprises, pourquoi les transmissions sont en recul ? Politique Matin"
-    },
-    {
-      "category": "feminisme",
-      "topic": "FÉMINISME",
-      "title": "VIDÉO. Manifestation contre les violences sexistes et sexuelles : une chorale féministe lance la mobilisation à Angers - Ouest-France",
-      "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxNM2swQ0NlUTJkb1h5TncwcXpELWtVb2N1SUNUeEVFUVIwenF5QnBOY3NqUXladndlVUVjckdyYXZSM0ZvTU1DZlVDV0MtSW5ITzZaeGxUUjY0UzdRNTlUOG5tNk11cVdLWkxDQjFrbkZuZHB4VjhQSmlvQTRIVWlaVzlEbXc5amdCRWZLRlQyblBxTEpsb0YwT2J5WDlnbG02b29IUzVqYndjSnJGdEN4cm1uRDBob1hCVkQzMHFHZ0x5dDZvbzJGTFRNRkxNbXFad1pvRkdHT1RRaHlTTVdPYVItNVVCcjhBS0xaSEhHNFdYd1ZhZjBYSElFcTJfMVU2Z1hqM09jaW9MYm9oclRuWlNXM3NFazZQa3lsQTQ5X25pZWptekdJaTI0bnlvTThFaEhyY0lCRW8?oc=5",
-      "published": "2026-11-21T09:53:55+00:00",
-      "source": "Ouest-France",
-      "summary": "VIDÉO. Manifestation contre les violences sexistes et sexuelles : une chorale féministe lance la mobilisation à Angers Ouest-France"
-    },
-    {
-      "category": "tech",
-      "topic": "TECH & IA",
-      "title": "Un mathématicien annonce la résolution de l'hypothèse de Riemann, l'un des plus célèbres problèmes du monde, avec l'aide d'une IA d'Anthropic - franceinfo",
-      "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQSmc5cnJPdDBNWWtKenI1Y0tMZkNVUUw2SldVQzVjNHBzSXJWRlZyUVNGc0RidjRkUmp0V19neWFUazRNeFVxbWJSd1N2TVVUNXRYV3pIUTV5S21UM0ZLTUlFaTY3QWZuMTAyTzE2NVlSZjA0SGphVjY0dXR1OGhPa2JKWEthbjRJTVVoV1BSazhWa0k5T1ptRHZUdndFNFR2ei1iRS1YQUlzaWtrRnRpQTAtbnNFcU95OXF2Q3BPNzZFV1ZwMUZGZXJNMUU5ZU5BdV9iSXdqcW15dGhkbldBYmlSaTd0Zzlsam5yQ0oxM3lCRjFyaWN3VWMya2pWWXlueWFKWDBSeS1CLTN2MEd6V0ZGSDVGZw?oc=5",
-      "published": "2026-11-21T09:44:37+00:00",
-      "source": "franceinfo",
-      "summary": "Un mathématicien annonce la résolution de l'hypothèse de Riemann, l'un des plus célèbres problèmes du monde, avec l'aide d'une IA d'Anthropic franceinfo"
-    },
-    {
-      "category": "tech",
-      "topic": "TECH & IA",
-      "title": "ARTEX, Check Point révèle les campagnes d'agents IA qui attaquent seuls - Pasquale Pillitteri",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNbzVQak80VDcwb0lsNW5HYkd0Zm5GbWw4Y1RvOFJxb0NScnl6d3FfM3Z0dU1SZUkxMWRhVzRPTmhrVVoyRHRoYkxIMGdVbW5Gc1NkVFowN2xLd1BWa2VVMGtZR1dOUUpsZDUxWTlQbWRwSXBwWm9jQnBKSXoyU29xZnNsYmhQTEI2RXY4dVdZYUpJT3NZMi1aaGlR?oc=5",
-      "published": "2026-11-21T09:40:08+00:00",
-      "source": "Pasquale Pillitteri",
-      "summary": "ARTEX, Check Point révèle les campagnes d'agents IA qui attaquent seuls Pasquale Pillitteri"
-    },
-    {
-      "category": "tech",
-      "topic": "TECH & IA",
-      "title": "La probable résolution de l’hypothèse de Riemann par une intelligence artificielle marque une bascule pour les mathématiques - Le Monde.fr",
-      "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxPNmFyY215Wi1zQjBlTkpLVFZoMjlJUUVFWVFVYm91dUVfNnhaV0sya3NDTFVPeDBMTlFhNHRsOGZtaWFaa0loUWVfV09PUHoxRHdKeVBELVBHemR6TkZHTHlKcGpkUlhNRV9mNTZFeWR4VXRib2lBRkw1RHQ5WV9yRGc3cGt4Z0VpMXZYVDNBQUF6bEE0amlrcjhVT0VwLVltUWtjWWpwU2dYWGJzLW50SzFDUGtPa2FoYWwwZUZldXhGSUc0T0U3YlVxWHZDT1EtYmRXbEFCQ2xjeFIyZXpCam9MTEJUeHVQMHpaSkxBX2JWWVpBQ0duZ251ejRETVBpQ3FaMEw5Vmc4NXhLb0FiZURhN2dPd0xTaTEyMDU2RHZfZw?oc=5",
-      "published": "2026-11-21T09:30:00+00:00",
-      "source": "Le Monde.fr",
-      "summary": "La probable résolution de l’hypothèse de Riemann par une intelligence artificielle marque une bascule pour les mathématiques Le Monde.fr"
-    },
-    {
-      "category": "tech",
-      "topic": "TECH & IA",
-      "title": "Candidatez pour ces postes à Orange – 21 Novembre 2026 - YOP L-FRII",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQTU9GYXpIUjZ4Y3FHMTFTcHdSSXpXZEVNZWFvWlhaZFNNM2h6cXRVV1VIZkdHaFp6WDZRMk1ORHZGeDdlY2Z0TzFrbzFkR0g5ME1JUkhjTVh6OTdRVEVOQl9TQ09PR3BtZTdzU3RIZnoyUHM5cndHc3RwZ3RmTVA1a3pn?oc=5",
-      "published": "2026-11-21T09:20:06+00:00",
-      "source": "YOP L-FRII",
-      "summary": "Candidatez pour ces postes à Orange – 21 Novembre 2026 YOP L-FRII"
-    },
-    {
-      "category": "politique",
-      "topic": "POLITIQUE",
-      "title": "Après l'abandon de François Ruffin, le candidat communiste à l'élection présidentielle Fabien Roussel pointe des \"convergences nombreuses\" avec lui - franceinfo",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOZnJ3a2RYMmNoRUpzLVJpemFYRkRuYmFmTF9KQ1hHdG0wamp2OUFjNy1DMnJCcHhMN3luTERDSFkxTlVYRENSMmpiQ0tHQ1RuTzYxS2QxdHcwY3JkMEZady1yd2ZmOXlabHdOaUZ6RjFZUENGalRHMzZ6Nmo2S080T0x0d2xSaWsycVdIVXFZR1dWTXNjWkltOGU0OE1pdkJ5YjFkTFVXbU5YenRIdG5fUVd4MThCS1dKSGN2RHQ2VW1CWHJmVE5ycG1KQU9lUjI4dnh5aTBRR0NUakNWLUxOTlktWEVwZ2lqdUpDNkJR?oc=5",
-      "published": "2026-11-21T09:19:29+00:00",
-      "source": "franceinfo",
-      "summary": "Après l'abandon de François Ruffin, le candidat communiste à l'élection présidentielle Fabien Roussel pointe des \"convergences nombreuses\" avec lui franceinfo"
-    },
-    {
-      "category": "tech",
-      "topic": "TECH & IA",
-      "title": "Les DSI marocains n'arrivent toujours pas à convaincre leurs dirigeants de l'importance du Big data - Boursenews",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPdzlhODdEblFLbGZITktXc3o3TkVLMVZVZTV1Z1I3Wm8wS29NNmc3bDdLX18wUTBMelpRWUVHcUZHNHV5TVdfTVlJb2pTRG1jSXZyMS1tWnZUbVpUNWVrdG5QaTRvcENac05oYXo3RFNPb2F0dWJ5RlIwaVFFV2hPU1g0ZVVxNVc5aGw2ZExaRE1kSWt3TDJVTHdadFFKUDhRckE1UnowNlhyaG83Uy1MUDR5LTRPcnlHeGxaV2xCaHhvdWRycVBrX2hPTTRkcGhscUpLQnVLQQ?oc=5",
-      "published": "2026-11-21T09:19:10+00:00",
-      "source": "Boursenews",
-      "summary": "Les DSI marocains n'arrivent toujours pas à convaincre leurs dirigeants de l'importance du Big data Boursenews"
-    },
-    {
-      "category": "tech",
-      "topic": "TECH & IA",
-      "title": "L'humain contre-attaque sur l'hypothèse de Riemann : un chercheur aurait craqué l'énigme avant l'IA Claude - Numerama",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPWVhIR1JCU19jWUVPWW9Qdk9RRFFtWHl6N2FiekdsaHo4TkNETTJZeDBxNWs3c2NGdmQ0bFNQMGRQN2tXc3FzdVZxZ3B5QnUyUjRjY3dybkVLWGhyMTNvSzNheDRYV2VrN2Z4X0doaXJoWTRDNEkzZnZmRHNQMjVaZVZiOGtZLTUxOWhwYWNHbWFzOGgzQnN4QjRFNW5kcHVYT24xRGdqUmpzbXY2ZWdMNTBycE42ZVZrUWtGMHYzUXBoLVlsVnRBSUJ1WVdnRDNHZWtVdVVUMjZETzVIRXBlcQ?oc=5",
-      "published": "2026-11-21T09:18:08+00:00",
-      "source": "Numerama",
-      "summary": "L'humain contre-attaque sur l'hypothèse de Riemann : un chercheur aurait craqué l'énigme avant l'IA Claude Numerama"
-    },
-    {
       "category": "feminisme",
       "topic": "FÉMINISME",
       "title": "Une semaine pour briser le silence sur les violences faites aux femmes à Belleville - mesinfos",
@@ -819,267 +1080,6 @@
       "published": "2026-11-21T09:10:00+00:00",
       "source": "mesinfos",
       "summary": "Une semaine pour briser le silence sur les violences faites aux femmes à Belleville mesinfos"
-    },
-    {
-      "category": "politique",
-      "topic": "POLITIQUE",
-      "title": "Fil info Albanie | Greta Thunberg rejoint la Révolution des Flamants roses - Le Courrier des Balkans",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPRVF6NmNxY1JpV1FoNVRzZ0ZrMXhSeDBJQlhmVXVYeVFtMGsyYjJuSTRlZ3hrT0lWcVBUd1FJVVduTXN4cG9aNXh2NW56WGpNcERkQThEdVNPdmN2bWFyZTdWbEtzTzlISUw2OElrdFVmSW4wYWpZVXJHTHNkTjZOLWxqQlYzUVVSMmdlcFZBV0thcFZWMm5DdENPNHkxRzRVWWxOR0pwS1ViczZfcTVrSzFJek9CdkZGY3YwRWRabVdxUGpqa1BHSjVWRUs?oc=5",
-      "published": "2026-11-21T09:03:15+00:00",
-      "source": "Le Courrier des Balkans",
-      "summary": "Fil info Albanie | Greta Thunberg rejoint la Révolution des Flamants roses Le Courrier des Balkans"
-    },
-    {
-      "category": "feminisme",
-      "topic": "FÉMINISME",
-      "title": "À Riantec, une rencontre pour sensibiliser à la violence subie par les femmes - Ouest-France",
-      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQVnJWWEtuSE9VemI1b2FOcW9hQzJkb19xaEJmTm9maHN4elpodzFhRHI3WmNKU1ItbFN4VlBFdTV6MGoxTFE2TzQySlgyWG1rWFpOU0NrUmZzcHkxSEpEek1CZGxQT2JVcHliZzc1V3hRbGNHcS1kNEpFNVgtZndKOEtyM1JRTC1nVGYzWGNNNVZXU1ZyS0lXajNCVEtwM2h2c0FLQW94VUxHS2hVaFZ2S1NkVHQ3T0JnN1ZJTloxNDNqVmZJSUtnSGFYOHZleXZ6X1FZOWZ1SXJlTHZXVFlqZTF2UU83ZmxjZmk5S24xaENad0F5ZlFR?oc=5",
-      "published": "2026-11-21T09:00:34+00:00",
-      "source": "Ouest-France",
-      "summary": "À Riantec, une rencontre pour sensibiliser à la violence subie par les femmes Ouest-France"
-    },
-    {
-      "category": "feminisme",
-      "topic": "FÉMINISME",
-      "title": "Féminicide de Chahinez Daoud, brûlée vive à Mérignac : ce qu'il faut savoir avant le procès en appel à Périgueux - ici.fr",
-      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOZFBTZW5ONVVVWktWZk1xMmpkeEJWaGRWOGdmMkFiUFFGUUVmVnlBMlJJWnEyT0kwU3VHYzQ4Q2NkLWIycTl5aktxTzAwaVRkX2kxTkdfNUduX3F6bUVSc2ZCMlplTjVtczhZT1F0aXdUS0Q3OU5wNWM3akVtRHpjcGhTejJnUFNtTUd1cllGNzZpVGdaaXh2NWxfdWlGb3R6dzVZcUJHTjVFNHlmbDlsNW9oRUpDcjltQXpsQ2dQSGx3WWR0bTN0UFQ2cThza2NSV3BlMk1ES1FpT1E1QkFRWUlzWmg0VG5oRDdBR3h6c0RhUWF5Tm5hNFNqemZBNXJJOHl3cHFzRVY?oc=5",
-      "published": "2026-11-21T09:00:04+00:00",
-      "source": "ici.fr",
-      "summary": "Féminicide de Chahinez Daoud, brûlée vive à Mérignac : ce qu'il faut savoir avant le procès en appel à Périgueux ici.fr"
-    },
-    {
-      "category": "politique",
-      "topic": "POLITIQUE",
-      "title": "Hubert Védrine : comprendre le monde réel pour mieux décider - Lesfrancais.press",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONkpKUHdFZERLVlNOSGc3bnN4dW56SUtkQ1dDN1ZsaHpaSFVaeHd4Q09rN3ZWWU1fMDZNN29LcU1NN2dNTE1YYW5iNzVKN19SX1h1RjE2M00tQV9mdXgwME9JRjRvNUtNMFhuWVQtQlN0QTlrU1k4OU10RWRmb1FERVNkQVNKOVQ5aXNuekFR?oc=5",
-      "published": "2026-11-21T09:00:00+00:00",
-      "source": "Lesfrancais.press",
-      "summary": "Hubert Védrine : comprendre le monde réel pour mieux décider Lesfrancais.press"
-    },
-    {
-      "category": "politique",
-      "topic": "POLITIQUE",
-      "title": "Le dossier - mediacongo.net",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNRnBxbGxraWtLLUEtOW9rWFQ0bVBqYm1qTkZkQUdabzhfLUQ1SWZELUxGVDF2S0ZRS09TdDV0azRVTldxekhPeDV2Q29oUVFBR2MtXzRULTJ0RmNqRkVhcHlIWjM3Y3laOHFHLTFRR0pYc29La3VOZTJxNEVIVzJZZjVhaXlnSExHckJJb3BSZEo0RzFISFhGeS1hbzBFRHVjdEdHd0Z3MmxCdEdfbk4zLWlTS3lQTEFyZ2VSRkt4UDZTcW5Cd0pLMkg5QzB5SEJBZWpweEN3djhHR00wMDcwOTlUcnktOUtndHhqZWdPYjA?oc=5",
-      "published": "2026-11-21T08:48:49+00:00",
-      "source": "mediacongo.net",
-      "summary": "Le dossier mediacongo.net"
-    },
-    {
-      "category": "politique",
-      "topic": "POLITIQUE",
-      "title": "Christine Lagarde, un recours pour la droite et le centre à l’élection présidentielle ? - franceinfo",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPdFRGbEl1d0txWFdLdld4S3QtRy1DcDdLOHpQMTNmZml4TmJKVjFINU0xTkRBWEQyemZSbTJwOGMyR0pMNnlPYUxjR0gzc3k0b2VaeU82WnVTdkNLYXRQSTAzdFB2cDRSdEhtUWRkZFdoZUpZNFR1VFpUdU4wU1JMaFNobGdmN1k4YlBGTFNBMDdRTlNiNU5NTDduVDJrMW5aSGRoZWtrS3dnSWhuYXNqVTk1Z0NWNmdXZjlIRVFQY2pPWTJqRlJha0w2SWVZbmx3V3cyNlNnWnY3UktSTUZOYVcwcFJsT25YN1Vr?oc=5",
-      "published": "2026-11-21T08:41:41+00:00",
-      "source": "franceinfo",
-      "summary": "Christine Lagarde, un recours pour la droite et le centre à l’élection présidentielle ? franceinfo"
-    },
-    {
-      "category": "feminisme",
-      "topic": "FÉMINISME",
-      "title": "Lutte contre les violences faites aux femmes : le programme à Nogent-le-Rotrou - L’Écho Républicain",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNT3M5Y3FnUU9UanN5bXgzRF9TM1h1MW04bFVKUmhQdW9tWUczXzBoRXN3Uy1tbmJaSXV1Zi1LZUwxbXNwTWFWLXJYeFdIdU16Z0NCYjFTTVdsX0xkdkNVQXhTUzdOTm1kYlA0emhkd1V2XzZqSnFzTnoweDRYUUN2Y2xfWm1tQzZGOUZCNVRyZXczeXlGTmNtTjVDend5QUVZLXB2eTVVd1IxTGNyMm1ubi1OMEYzMHBMNGdhVHhSS3NxaVk5VGxjWFA1ODZHYmxHXzN0dlk2MDJpbS1ZTmdpY25oNlVMVEU?oc=5",
-      "published": "2026-11-21T08:30:00+00:00",
-      "source": "L’Écho Républicain",
-      "summary": "Lutte contre les violences faites aux femmes : le programme à Nogent-le-Rotrou L’Écho Républicain"
-    },
-    {
-      "category": "feminisme",
-      "topic": "FÉMINISME",
-      "title": "Ciné-débat : Anne-Marie ou quelque chose d’autre, de Maurice Failevic - jds.fr",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOVWRCQ0UtdjZHQmI0aG9aOHFQQjFQNHdRR1gxU3lMSklTVTg0WkZnWHhHSmlNdEx6czBiclpKbXctakdEYXd3RzFYWnNQZTdmQXA4RXpDZVd6NEllMjktVm1peHgxR0NUQVVablJ5X1poLVBsZmZKdDRpV0h0Ny1uOUhVUG13aHZNUzkyMEl2RXlrZy1scGpWYXpKMWtUeWVPT0t5eHUtSG5LU2NSUnZqTUllWWJWNk5nREQwakZQdFhYcGJxNElv?oc=5",
-      "published": "2026-11-21T08:11:21+00:00",
-      "source": "jds.fr",
-      "summary": "Ciné-débat : Anne-Marie ou quelque chose d’autre, de Maurice Failevic jds.fr"
-    },
-    {
-      "category": "politique",
-      "topic": "POLITIQUE",
-      "title": "Législatives en Espagne: le pari de Pedro Sanchez peut-il ouvrir les portes du pouvoir à l’extrême droite ? - LCP-Assemblée nationale",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMjA5ZjRMdmFNcGJfUXpkY3pzSVJjVlFCdkVROGFJQU1CUWtKWl9jWXVER0lCNzFGeUhfaEU3bXU1WjVGMUdzT2FubHlxTHh5UWp2M3F6bnJuTVZNM0Vwbk1Ccm15REdOeWg5aG1qMnVrNkVaR3ZwMFhwVW9WZUlldG9BbHZLN21UdkhjVTRwb3gxenpRV1VPdDg0czRZcXRGQlBmODZ4NWhFTzR3bjZONXctOA?oc=5",
-      "published": "2026-11-21T08:05:07+00:00",
-      "source": "LCP-Assemblée nationale",
-      "summary": "Législatives en Espagne: le pari de Pedro Sanchez peut-il ouvrir les portes du pouvoir à l’extrême droite ? LCP-Assemblée nationale"
-    },
-    {
-      "category": "tech",
-      "topic": "TECH & IA",
-      "title": "CrowdStrike négocierait le rachat de Zscaler (32 milliards) - Pasquale Pillitteri",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOMzlhQkVHWVgtVTlzVlJnaHJWOVEyTlowTjVObUxpMkJCRUZVREgxODBRZS1KdmtMbGoxSmRhT0VWeXRiV01hWEs1ZzVFalYxRkRFajdlLUdRTU92Wi03b2hvVTRCRnlzN0FTTmY5TU5SMEx0YVp5ODkxS05GZ2hDWXlyb2VGS0RVUk4tdnMwanNkYmFkakRsYW9mRmJEV0YzazhB?oc=5",
-      "published": "2026-11-21T08:04:15+00:00",
-      "source": "Pasquale Pillitteri",
-      "summary": "CrowdStrike négocierait le rachat de Zscaler (32 milliards) Pasquale Pillitteri"
-    },
-    {
-      "category": "tech",
-      "topic": "TECH & IA",
-      "title": "Thinking Machines lance Inkling 2 Mini, un modèle ouvert pour portable - Pasquale Pillitteri",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNa20zVjJaZW1OdE4tZnBZS3VVUENrQ0EwTmI5WWxudlpjMjVDWVpUcjJpbFN0UjMtY2JZcEV3NUY2ZVIxMDRPQk1adFI4ZWhCTlBPSmhYamtKMUJQYlhxWV9la3ZZaWlmVG1UOVRhdVpyZU9iOTFWWlZPcHAwYU1MZE1zUkhDTER0WUxpTzZsRElRU3BPMEw1N3hVYy1oMlk?oc=5",
-      "published": "2026-11-21T08:04:14+00:00",
-      "source": "Pasquale Pillitteri",
-      "summary": "Thinking Machines lance Inkling 2 Mini, un modèle ouvert pour portable Pasquale Pillitteri"
-    },
-    {
-      "category": "tech",
-      "topic": "TECH & IA",
-      "title": "L’IA Claude aurait résolu l’hypothèse de Riemann, un casse-tête mathématique vieux de 167 ans - Cointribune",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOU1p2V0VCaWFqZmRaanFVNGZiV3pJRkhxaW15RDhJLVVBRFdsdTJWSlQ0UlB5Uk9xZjVXSEE5V2NXczNGNkN2OXJ3M1FDYlFuamxFUVV3VUV5Mk12SjdSaGgxSjR1cW5naFhZVmtKZjdTUmdrWmJ6X3hIWExMc2EtZEhmeFFqNFFPbV9CT09KMWxObGc2WExoSU8tRTMyWUd2bHljb3ZvVWtUTWx0bkFjcE5YQ2Z4S3VRdElj?oc=5",
-      "published": "2026-11-21T08:01:43+00:00",
-      "source": "Cointribune",
-      "summary": "L’IA Claude aurait résolu l’hypothèse de Riemann, un casse-tête mathématique vieux de 167 ans Cointribune"
-    },
-    {
-      "category": "politique",
-      "topic": "POLITIQUE",
-      "title": "« L’abandon de l’écologie politique » : Delphine Batho réagit au ralliement de Marine Tondelier à Jean-Luc Mélenchon - Ouest-France",
-      "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxOMW9zNWNWVVZLTUJSYzJPMDVKN3VONW5RN0tzZVRLdDgyV3JPVE05dlA5NWRveEU5UVZvamJoX3RMODNqR1BtaHpma2lZWlVNbmh6VXYyd01ab0ZkSEs1UDhnUWwzSEhEajVUNmRua2NPcFVyVjBGWEFyeDFwbzdUWTJta042QVJxNW9lcWpwRTBPN1N2bE5iazhWTVVxVXF4SENSSkhkeHoxRjRSR0xoeW9WdzJpX2FsclpWOGt0U0FjMkFKZzBPbEtpbXY0LVg5NXo2RlRBbWJuRzc5RlZPQ3g4ZjhjR1VVS2lYdVhxLXNiMDJRdlBpT0oxMl9uRkFlSWhMWnp6VzM5MTVENGROako2VWs5cWJvMmtfNFI4cXVYWGNJ?oc=5",
-      "published": "2026-11-21T07:49:00+00:00",
-      "source": "Ouest-France",
-      "summary": "« L’abandon de l’écologie politique » : Delphine Batho réagit au ralliement de Marine Tondelier à Jean-Luc Mélenchon Ouest-France"
-    },
-    {
-      "category": "feminisme",
-      "topic": "FÉMINISME",
-      "title": "Pays basque : un ciné-débat au CGR de Bayonne pour évoquer les violences conjugales - Sud Ouest",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNb0RIRWpVYkRTdEQ1eDVTb2QwWTlsRW5TME42RF9SQ2lSZjdHM1ZVRWlLVk1wd3VQeEtoSjRhUFVKcjVUUXBQU1NITExGdnV5X3hacEo3eHc0b0RuZzNSb3p1dWNwdXlvU2xGM0FmSTZmanpzeE9DSVpNbkxHRjdzSkRpaFVMcXdxY2c1M0toZy1MWEZDaGxKdFNwQ3Boekd0MWRYWnlpeEQ2QjlJakR6R0lWd3kxdndKOXg2ZDk1bUVfM1hJZ1dGZER5X1BGUngwR2ZEa05NWlQ5OXJLemxNSDBBSWdxQQ?oc=5",
-      "published": "2026-11-21T07:43:00+00:00",
-      "source": "Sud Ouest",
-      "summary": "Pays basque : un ciné-débat au CGR de Bayonne pour évoquer les violences conjugales Sud Ouest"
-    },
-    {
-      "category": "feminisme",
-      "topic": "FÉMINISME",
-      "title": "Violences sexistes : des manifestations organisées dès ce samedi partout en France et pendant toute la semaine pour réclamer une loi intégrale - Sud Ouest",
-      "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxQdndpYWNaMnppQ3Z0QlZSaEluQ1dwQkRnOW0tTldwWENPc0J0T1FWekRaTlpUZWRsTGZmNW9XV3R0dkx0VEJKbWJ3a1dEYm53T0xjSlZJV1dxbFlIQ29YSDdHMXNLWTVBLUJyc2pGdW94VC1MSkc3cEJkcW1VU3lxcVFGUXFiMnFEYUZxeldTQmRkUDVXdHZqWXRjcHNyaHBuWmhNdXpwU29TbUowbUk0MjduZ0MxcFYza1dRa3FTNy1WZ05hdlhLMWVwTmkyRmZybWpwR1FZaEVCU0h1eWVRYTBIVjVkU0xDLVdZZ0VuLXF5dzc0RzROZUFUQndfQ3c0bVIyQ0hQVWpfTU9CNF9WN3VpY0U3LVFINTZBaWJfcUg?oc=5",
-      "published": "2026-11-21T07:33:50+00:00",
-      "source": "Sud Ouest",
-      "summary": "Violences sexistes : des manifestations organisées dès ce samedi partout en France et pendant toute la semaine pour réclamer une loi intégrale Sud Ouest"
-    },
-    {
-      "category": "feminisme",
-      "topic": "FÉMINISME",
-      "title": "Le féminicide – un échec social constant en Europe – Free Press - Слободен печат",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQOWJTRXVGVEFUem16YlNuajhCcExIVllRbTRXbGd2VkpTcUpLVC0zb1hoUzd1ZlJ1UkJKVENsYWlyMks0SHlaQ0M5ZjdMUjJKV2ZqQzl4ZVZhbGpacFp5NjNKR0prWFlIUWN4cEpjQXFsNUxQRHNTMFdXTmxPTTNTenJwMGxRdm1s?oc=5",
-      "published": "2026-11-21T07:30:40+00:00",
-      "source": "Слободен печат",
-      "summary": "Le féminicide – un échec social constant en Europe – Free Press Слободен печат"
-    },
-    {
-      "category": "politique",
-      "topic": "POLITIQUE",
-      "title": "Ukraine : l’Union européenne verse 7,9 milliards d’euros, un record pour son aide budgétaire - Politique Matin",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOYml1c1M1RWZZRkFrWHNtZnNIUFRxMTFQMjB1RDYyUGw5SE9UUHpjMzFJSkgycjdrdDBOYXNvdlBwODBCT2RUcGhXSVM3M1REZDdtSlRsei1WX0JFSmR4eGhXekRvWGdfWkhlaG5YMlVaZjVMLUtXRkhHenVXcEg4TjZUNDNaZ1YzOExRc3dULUZiNVZMZGU5djIyMUsxZjdkTkRrYUZn?oc=5",
-      "published": "2026-11-21T07:15:25+00:00",
-      "source": "Politique Matin",
-      "summary": "Ukraine : l’Union européenne verse 7,9 milliards d’euros, un record pour son aide budgétaire Politique Matin"
-    },
-    {
-      "category": "feminisme",
-      "topic": "FÉMINISME",
-      "title": "Jusqu’à deux ans de prison ferme requis pour des membres d’un réseau masculiniste - mesinfos",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPanpNY2FTazZEV0Vic1AyUDJPUU16emtmaC1tSTA4clhqTGM1WE5JcklOdV9BM0NqT1hTS2dTRUtQeWdCYTF5WEFZYk00TktpVmZlbWJ2cnppNk1YeFd0Z1R3VndTbjVoQ2JFMGJGX25kMG9sWWNZZ05TSGwtM1UyZ084U1JuU3JBLW5pdTFpN2ZtQkFTVXRDQjBtdHV5anhiNkNlNVNWOHZYeTNMbmQyekxsZlg5N1dBUXVPd3NqMzE4b2c?oc=5",
-      "published": "2026-11-21T07:02:00+00:00",
-      "source": "mesinfos",
-      "summary": "Jusqu’à deux ans de prison ferme requis pour des membres d’un réseau masculiniste mesinfos"
-    },
-    {
-      "category": "tech",
-      "topic": "TECH & IA",
-      "title": "Ras-le-bol de l'IA générative ? Canva permet enfin de couper l'interrupteur (ou presque) - Clubic.com",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQdzY0SkNDS0dBdlByMGwxY2FYUWtZQ1NMWnh5SFhnOEhGUENidTV3NC1wT3BEaGJzeDlqTFRFbGlmTlNCdnFHRDVaR0F3cE9fT2MxS2xlNTRGVjJ4S2w5RFYtZFJTQkRxeHJzbTM0Z2RWU0Z4elRBSU5PaUdDbm1hd0NXNE9naVJGMjJiOGRvNGZjeWZ4d3hwVFQxZXBwSC01WEtrbnZmbWJrTzVXelVxdTdXakdJT0puUERpSUF6TUNxQmxHd0pzcA?oc=5",
-      "published": "2026-11-21T07:01:00+00:00",
-      "source": "Clubic.com",
-      "summary": "Ras-le-bol de l'IA générative ? Canva permet enfin de couper l'interrupteur (ou presque) Clubic.com"
-    },
-    {
-      "category": "tech",
-      "topic": "TECH & IA",
-      "title": "Planifier sa semaine avec ChatGPT : cette expérience révèle ce qui manque vraiment à l’IA pour nous rendre plus productifs - Futura, le média qui explore le monde",
-      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPZ0F6R3NmX3lwT19NcTdRczZOWlk2Vkk1Vko4NGlFZ3EtSkZxVGxmRU1PTkVUY3JyT2RQeWpHRWJ4X3V6TTFEY2tHeVg2NFdLcUs3UkFDNTFXOElEOWVpUDkwMzNtdFBKM0NjSXlWV0Z0SXdad2RtbVNraDdjdUJCUHJfS09HQTN6a1o0Q0JKUXhpQzhSRG42U2FuU29nQ18xSFloR0x2d3lnMTBtMTA4aGNfV2hib3Y0WHQ2Rmx6WjhRVGMwcXZnNEJIYUw0RHF6T1VLVVRyX3VUVkpIbWJyMGRQSTlHVXc0QWRUcUd0VGh0QmFLYUExeE8xLXk?oc=5",
-      "published": "2026-11-21T07:00:00+00:00",
-      "source": "Futura, le média qui explore le monde",
-      "summary": "Planifier sa semaine avec ChatGPT : cette expérience révèle ce qui manque vraiment à l’IA pour nous rendre plus productifs Futura, le média qui explore le monde"
-    },
-    {
-      "category": "feminisme",
-      "topic": "FÉMINISME",
-      "title": "Mobilisation contre les violences faites aux femmes : une marche organisée à Bayeux - Actu.fr",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQSW8tZ0RicktGVk9yU2c2U3J0cmdxV2RPckxRNU0wZWVWcmx1bktVZlR5WnFNYTBxaEFCR1VvS29jZEgzWXpiZFBEYVNYTnQ5WDc3czgwbVZPcGVCOFNUQ0NoNnZxdlBzLUxKSTVkSG4zZWZOT0VQMlZfU2JBT0oxOFdJNzlaYWNjdGVHaEVBNW5iSXBuUGxoLV8tbWd6LURyczk0NG05ZjBTcWJuUzhDam5aZ09qdmRWMGRBVkpldjRHb2lLMURkWnNnV2xyTGc?oc=5",
-      "published": "2026-11-21T06:32:00+00:00",
-      "source": "Actu.fr",
-      "summary": "Mobilisation contre les violences faites aux femmes : une marche organisée à Bayeux Actu.fr"
-    },
-    {
-      "category": "feminisme",
-      "topic": "FÉMINISME",
-      "title": "Coulaines. La ville se mobilise contre les violences faites aux femmes et intrafamiliales - Ouest-France",
-      "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQVDNlcWZ4bU9SQ3NDVzFoVjRkUDlEVmZkcUc4RVdjR0c2dzg4MHpsQTlaOENpU1lUUVAyeGJpS0hfUlZqRDRxdlg5Mk14Skh5bjFRWWh3Q2cyakVwNGFNT00zR09mNDBXcWdLd0NtTGVNNUZ3S2NKblBGM3prMFBWN3d1WDZqM1NPXzFZOHMyZWZIbHFNVmwxcG9OWDM3RktBWVlKV211eDJwMnhOZW1zc2tucXgyY3N4Z1YtSGcxc3FONkxoaFEyYjl2V1ZzMlpHbUNZTnktUDRia3p6RDBCa1JtWWJQREZGZl9LdUdEcGFBcDQxcmY1aVJUY0lCMDI3Zk9FcnkxMW1SeGtvTFdKT0RHZ3E?oc=5",
-      "published": "2026-11-21T05:05:06+00:00",
-      "source": "Ouest-France",
-      "summary": "Coulaines. La ville se mobilise contre les violences faites aux femmes et intrafamiliales Ouest-France"
-    },
-    {
-      "category": "tech",
-      "topic": "TECH & IA",
-      "title": "Le secteur fiscal met en place une infrastructure de mégadonnées et applique l'IA, dans le but de parvenir à un traitement 100 % électronique de toutes les procédures. - Vietnam.vn",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOaU9WandPczg4NXJOT2pXTW5PbV8ySlN4SFhiZ29Obk11RnVHQmxsTTZJSVZlY2RNSS1IQkVEbUpXZmJKbmpjYnoyemlmQ0FSODlIZ0RBZV9nZ0tGWU04b0RLS01sNXlpNXFFSHJMYVVIS3dUR1hfWVNWZHpsMGg0SGN4M0FBTUx0Tnd0UGdYSnpzcmdUTHRlbmtGVXRiT3BOQUNGdW8wMlhVeXBfbGltSkF4YWlYNDI4cE9MQ2lB?oc=5",
-      "published": "2026-11-21T05:00:04+00:00",
-      "source": "Vietnam.vn",
-      "summary": "Le secteur fiscal met en place une infrastructure de mégadonnées et applique l'IA, dans le but de parvenir à un traitement 100 % électronique de toutes les procédures. Vietnam.vn"
-    },
-    {
-      "category": "tech",
-      "topic": "TECH & IA",
-      "title": "L’IA fait bondir le nombre de publications scientifiques soumises - Le Devoir",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdGRsMFREeFBuVUdhT3RjQ2hCd1BqZFdocVVnei1SQTFqeVVRM3hqZWVJRnpvQTkzQWpMT1pMeXdRa2dHNDM0MG90SGxhNG9zUjRfdTdzOWIzLUxIVi1ibWNFdXU4T20zeXpPTVZOWlJ3LWxkSExHajZUYnhYdzNjS3FIYlNLcS1tMHJnc2JteXhmTnc3UWZkaXFZNm5jd2VMY19HSVdiaEFkU0lQV2c?oc=5",
-      "published": "2026-11-21T05:00:00+00:00",
-      "source": "Le Devoir",
-      "summary": "L’IA fait bondir le nombre de publications scientifiques soumises Le Devoir"
-    },
-    {
-      "category": "feminisme",
-      "topic": "FÉMINISME",
-      "title": "« Les droits des femmes ne sont jamais acquis » : un rassemblement pour rendre hommage aux victimes de féminicides - Le Progrès",
-      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOV3E1SHhBR2xxWmtsTjJFYnZxYUhBXzQ3YkIxaEJVdmxaNDJxal9lWWlPVG9mU3cwREhKTDFwRm1UaFFsQU9CTHpMTzM0UXZMb1ZkWU5kekVlRDlCMlUwX1VPV1YwNU1DY01uMkVDS0NtbXIxSk13aWp0SjNjOVNLSkx3S1ZkVjZuWnVCRXhlV1Q2aXd1VXQ5RlUxaERlY1MyWlpuaHJidzNILWxyUTVpcThzRl9lYkxWNEU2ekQ1cHY4UEJ6bUROejBzc0tMaUcxeU4td3BBc1dydGpxYXlfRGtDenNYWTNQNU8yRE1COUhoSW0wOTF0Vg?oc=5",
-      "published": "2026-11-21T04:01:21+00:00",
-      "source": "Le Progrès",
-      "summary": "« Les droits des femmes ne sont jamais acquis » : un rassemblement pour rendre hommage aux victimes de féminicides Le Progrès"
-    },
-    {
-      "category": "tech",
-      "topic": "TECH & IA",
-      "title": "ChatGPT hyphen : le tiret qui trahirait l’IA - Projet Voltaire",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAyczQ0ZW0xQ2dlT21UTTJJZnVtX2o5akhCTFFEUXV5NHIyZU4xNUczT0o5RUpUVnN1LWFzX2tJaWVTdjZWTy1QSHhsa2pVcms5SHBYUXBKd3VOV3FnMU1GNXlVMWZpdjZm?oc=5",
-      "published": "2026-11-21T02:36:43+00:00",
-      "source": "Projet Voltaire",
-      "summary": "ChatGPT hyphen : le tiret qui trahirait l’IA Projet Voltaire"
-    },
-    {
-      "category": "tech",
-      "topic": "TECH & IA",
-      "title": "Intelligence artificielle : l’entreprise française Mistral prévoit de doubler ses effectifs en Asie-Pacifique - Les Nouvelles Calédoniennes",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQUnJ0ZVplbWFnWU5ONzB5bVBCVWIxRl9jZXAwVDZBU3NlekJKd3JPUXM4VVBocXdCbGN6dWxVUFEwVkhreDloVmE1SXJPSDRBZEhOTEtIU0Fmb1pLNXdCbTFpQjBucG5obGZ6WU9vOVRfd3VaWlE3VDhKOUU1bGNjZnh2Q28wQ0NDb3I2RzJFQmt5R2ZOQnRuN3VlWkRpWmM5dVZoZmhQUE9oa1pMODVnZlBQOHdBU0lQLU9YbVA4U2F3MmkxcFptb2VnY2thTE0?oc=5",
-      "published": "2026-11-21T01:28:25+00:00",
-      "source": "Les Nouvelles Calédoniennes",
-      "summary": "Intelligence artificielle : l’entreprise française Mistral prévoit de doubler ses effectifs en Asie-Pacifique Les Nouvelles Calédoniennes"
-    },
-    {
-      "category": "feminisme",
-      "topic": "FÉMINISME",
-      "title": "«Pour défendre le droit des femmes, il faut briser le silence!» – Soraya Martinez Ferrada - TVA Nouvelles",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZUxmMDdVZnRxOTR6UXpJcV8tcVpCSkUwM3hqVGU1eUsxOWxDZlQ4V29WNXNKWk9QTGlXdmV2ZnRYaE8xRnVEVTBZQmxoV0g5WHlpdndwMTk5QlFvNm1XaFR4a2VzdWpwREM1cUZyUzNfVVV4Ui1paTdGMERXdmIxNDBSZ2Jyc1BYb0swMzNMRVhEODU5aVFOV2JWeUY4V3dObUc2MjV4aGtzNGNaN0gzT0hHbXdfNnNRaFBTd1BIOG1LVDQ?oc=5",
-      "published": "2026-11-20T22:00:00+00:00",
-      "source": "TVA Nouvelles",
-      "summary": "«Pour défendre le droit des femmes, il faut briser le silence!» – Soraya Martinez Ferrada TVA Nouvelles"
-    },
-    {
-      "category": "feminisme",
-      "topic": "FÉMINISME",
-      "title": "Féminicides: la région de Chaudière-Appalaches se mobilise - En Beauce.Com",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOcUw1bGVZTVFJVG1IRmhpdG5uMUcwMlRuRlBVOWpTOC1ubEVtdkotUzJWUGVuaTVzenZyd1kxV285S3Ntai1qS043bUxpZ2VaSGhMNG5NSVdpTkxyWWgwZEp2QnRvaFotTEFPTUZ1d1hqU2Jqb1Y5V2tvTWF6RlMyQ2NUZEI0WE1vQjVvVkdfQ1NUUzJvdE5MamJhS1B6ZFNndW03QUxQd0dzV0Rz?oc=5",
-      "published": "2026-11-20T21:15:00+00:00",
-      "source": "En Beauce.Com",
-      "summary": "Féminicides: la région de Chaudière-Appalaches se mobilise En Beauce.Com"
     }
   ],
   "counts": {
